@@ -124,7 +124,7 @@ if(NOT TARGET pybind11::module)
 endif()
 
 add_subdirectory(src/python_bindings)
-add_subdirectory(3rdparty/OffscreenRenderer)
+# add_subdirectory(3rdparty/OffscreenRenderer)
 
 ################################################################################
 # Unit tests
