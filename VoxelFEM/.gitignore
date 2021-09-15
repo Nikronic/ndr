@@ -1,0 +1,32 @@
+#Builds
+build/
+build*/
+.atom-build.yml
+
+#YouCompleteMe
+.ycm_extra_conf.py
+
+#VSCode
+.vscode
+
+#Vim
+*.swp
+*.swo
+
+#Python bindings modules
+*.so
+*.pyd
+
+#Python temp files
+python/.ipynb_checkpoints/
+__pycache__/
+python/*.obj
+python/MeshFEM/__init__.py
+
+#Python virtual environments
+python/py37
+python/py37m
+
+#Windows python build files
+python/Debug/
+python/Release/

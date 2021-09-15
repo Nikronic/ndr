@@ -1,0 +1,5 @@
+pybind11_add_module(pyVoxelFEM VoxelFEM.cc)
+set_target_properties(pyVoxelFEM PROPERTIES CXX_STANDARD 14)
+set_target_properties(pyVoxelFEM PROPERTIES CXX_STANDARD_REQUIRED ON)
+set_target_properties(pyVoxelFEM PROPERTIES LIBRARY_OUTPUT_DIRECTORY $<1:${PROJECT_SOURCE_DIR}/python>)
+target_link_libraries(pyVoxelFEM PUBLIC MeshFEM ${Boost_LIBRARIES} intel_pybind_14_hack)

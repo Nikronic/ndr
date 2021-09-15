@@ -1,0 +1,21 @@
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+.pytest_cache
+
+__pycache__
+
+.mypy_cache
+.tmp
+notebooks/.ipynb_checkpoints/Demo_TopologyOptimizationProblem-checkpoint.ipynb
+notebooks/Demo_TopologyOptimizationProblem.ipynb
+notebooks/.vscode/settings.json
+
+problems/supervised
+
+/tmp
+
+/logs_old

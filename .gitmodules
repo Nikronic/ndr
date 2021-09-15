@@ -1,0 +1,3 @@
+[submodule "VoxeLFEM/3rdparty/pythreejs"]
+	path = VoxeLFEM/3rdparty/pythreejs
+	url = https://github.com/jpanetta/pythreejs
