@@ -1,0 +1,91 @@
+objective, constraint, lambda estimate: 22.1895	3.54238e-07	76.6475
+objective, constraint, lambda estimate: 17.3204	-1.07369e-07	60.6856
+objective, constraint, lambda estimate: 13.4069	5.8607e-07	43.5703
+objective, constraint, lambda estimate: 10.0169	-1.22683e-07	31.5339
+objective, constraint, lambda estimate: 7.50792	-4.38142e-07	19.4958
+objective, constraint, lambda estimate: 6.305	2.86358e-07	11.918
+objective, constraint, lambda estimate: 5.84682	-3.84549e-08	7.86885
+objective, constraint, lambda estimate: 5.59927	8.01257e-07	7.3118
+objective, constraint, lambda estimate: 5.43897	2.79404e-07	6.25425
+objective, constraint, lambda estimate: 5.33558	-8.75421e-07	6.11491
+objective, constraint, lambda estimate: 5.2601	9.06867e-07	5.42557
+objective, constraint, lambda estimate: 5.19791	-9.67168e-07	5.3061
+objective, constraint, lambda estimate: 5.14029	-4.97399e-07	4.78381
+objective, constraint, lambda estimate: 5.08436	5.73984e-07	4.48562
+objective, constraint, lambda estimate: 5.03628	-8.81808e-07	3.84637
+objective, constraint, lambda estimate: 4.99796	2.15596e-09	3.47225
+objective, constraint, lambda estimate: 4.96838	-1.70515e-07	3.13613
+objective, constraint, lambda estimate: 4.94598	-2.8985e-07	2.9984
+objective, constraint, lambda estimate: 4.92823	4.19795e-07	2.94203
+objective, constraint, lambda estimate: 4.91378	2.94416e-07	2.9203
+objective, constraint, lambda estimate: 4.90165	1.04127e-07	2.9401
+objective, constraint, lambda estimate: 4.8915	-3.24107e-07	2.92808
+objective, constraint, lambda estimate: 4.88287	-5.35381e-07	2.97992
+objective, constraint, lambda estimate: 4.87551	4.22326e-08	2.98819
+objective, constraint, lambda estimate: 4.86901	-1.33777e-07	3.04108
+objective, constraint, lambda estimate: 4.86317	-7.95746e-07	3.03506
+objective, constraint, lambda estimate: 4.85799	-2.10859e-07	3.07526
+objective, constraint, lambda estimate: 4.85333	-2.30579e-07	3.0629
+objective, constraint, lambda estimate: 4.84913	4.2646e-07	3.10516
+objective, constraint, lambda estimate: 4.84528	-7.36757e-07	3.10366
+objective, constraint, lambda estimate: 4.84179	-3.40219e-07	3.1423
+objective, constraint, lambda estimate: 4.83856	-5.19373e-07	3.14116
+objective, constraint, lambda estimate: 4.83561	2.41614e-07	3.16417
+objective, constraint, lambda estimate: 4.83284	1.79776e-07	3.16224
+objective, constraint, lambda estimate: 4.83022	-3.67669e-07	3.17846
+objective, constraint, lambda estimate: 4.82777	3.95351e-08	3.17885
+objective, constraint, lambda estimate: 4.82541	3.143e-08	3.19049
+objective, constraint, lambda estimate: 4.82315	-5.61381e-07	3.19633
+objective, constraint, lambda estimate: 4.82101	-7.26093e-08	3.20609
+objective, constraint, lambda estimate: 4.81894	5.94137e-07	3.21274
+Experiment ID: None
+adaptive filtering configs: [1, 1, 1, 1]
+image path: logs/images/gt/exp2/, loss path: logs/loss/gt/exp2/
+VoxelFEM problem configs: {'problem_name': 'bridgeS88', 'MATERIAL_PATH': 'VoxelFEM/examples/materials/B9Creator.material', 'BC_PATH': 'bcs/3d/bridge.bc', 'orderFEM': [1, 1, 1], 'domainCorners': [[0, 0, 0], [4, 2, 1]], 'gridDimensions': [320, 160, 80], 'E0': 1, 'Emin': 0.0001, 'SIMPExponent': 3, 'maxVolume': [0.4], 'adaptive_filtering': [1, 1, 1, 1, 1, 1], 'seed': 88}
+Multigrid levels: 3
+Total Steps: 0, Runtime: 2142822.4, Compliance loss 69.588421
+Total Steps: 1, Runtime: 12.4, Compliance loss 44.378935
+Total Steps: 2, Runtime: 11.7, Compliance loss 34.640856
+Total Steps: 3, Runtime: 11.4, Compliance loss 26.813853
+Total Steps: 4, Runtime: 11.7, Compliance loss 20.033863
+Total Steps: 5, Runtime: 11.0, Compliance loss 15.015844
+Total Steps: 6, Runtime: 11.6, Compliance loss 12.610008
+Total Steps: 7, Runtime: 11.3, Compliance loss 11.693645
+Total Steps: 8, Runtime: 11.2, Compliance loss 11.198533
+Total Steps: 9, Runtime: 11.5, Compliance loss 10.877945
+Total Steps: 10, Runtime: 11.3, Compliance loss 10.671160
+Total Steps: 11, Runtime: 11.2, Compliance loss 10.520195
+Total Steps: 12, Runtime: 11.2, Compliance loss 10.395811
+Total Steps: 13, Runtime: 14.0, Compliance loss 10.280574
+Total Steps: 14, Runtime: 13.6, Compliance loss 10.168729
+Total Steps: 15, Runtime: 16.1, Compliance loss 10.072567
+Total Steps: 16, Runtime: 19.2, Compliance loss 9.995913
+Total Steps: 17, Runtime: 19.1, Compliance loss 9.936760
+Total Steps: 18, Runtime: 19.0, Compliance loss 9.891968
+Total Steps: 19, Runtime: 16.3, Compliance loss 9.856452
+Total Steps: 20, Runtime: 18.4, Compliance loss 9.827560
+Total Steps: 21, Runtime: 16.6, Compliance loss 9.803303
+Total Steps: 22, Runtime: 16.0, Compliance loss 9.782996
+Total Steps: 23, Runtime: 15.5, Compliance loss 9.765737
+Total Steps: 24, Runtime: 16.3, Compliance loss 9.751022
+Total Steps: 25, Runtime: 15.4, Compliance loss 9.738029
+Total Steps: 26, Runtime: 16.4, Compliance loss 9.726345
+Total Steps: 27, Runtime: 15.7, Compliance loss 9.715973
+Total Steps: 28, Runtime: 13.4, Compliance loss 9.706667
+Total Steps: 29, Runtime: 15.5, Compliance loss 9.698250
+Total Steps: 30, Runtime: 11.3, Compliance loss 9.690567
+Total Steps: 31, Runtime: 13.4, Compliance loss 9.683572
+Total Steps: 32, Runtime: 13.2, Compliance loss 9.677124
+Total Steps: 33, Runtime: 13.6, Compliance loss 9.671217
+Total Steps: 34, Runtime: 13.0, Compliance loss 9.665686
+Total Steps: 35, Runtime: 13.4, Compliance loss 9.660442
+Total Steps: 36, Runtime: 11.0, Compliance loss 9.655543
+Total Steps: 37, Runtime: 13.7, Compliance loss 9.650826
+Total Steps: 38, Runtime: 13.4, Compliance loss 9.646307
+Total Steps: 39, Runtime: 13.8, Compliance loss 9.642013
+Traceback (most recent call last):
+  File "training/train_voxelfem.py", line 106, in <module>
+    log_image_path=log_image_path, log_densities_path=log_densities_path)
+  File "training/../fem.py", line 85, in ground_truth_topopt
+    oco.step()
+KeyboardInterrupt

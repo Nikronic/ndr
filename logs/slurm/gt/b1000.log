@@ -1,0 +1,2681 @@
+objective, constraint, lambda estimate: 22.1895	3.48966e-07	76.6475
+objective, constraint, lambda estimate: 17.3204	-1.01908e-07	60.6856
+objective, constraint, lambda estimate: 13.4069	6.65257e-07	43.5703
+objective, constraint, lambda estimate: 10.0169	-7.64774e-08	31.5339
+objective, constraint, lambda estimate: 7.50792	-3.17695e-07	19.4958
+objective, constraint, lambda estimate: 6.305	4.08903e-07	11.918
+objective, constraint, lambda estimate: 5.84682	2.15751e-07	7.86885
+objective, constraint, lambda estimate: 5.59927	8.03581e-07	7.3118
+objective, constraint, lambda estimate: 5.43897	7.59766e-07	6.25425
+objective, constraint, lambda estimate: 5.33558	-9.50261e-07	6.11491
+objective, constraint, lambda estimate: 5.26009	-5.86528e-07	5.42548
+objective, constraint, lambda estimate: 5.19791	-5.12445e-08	5.30615
+objective, constraint, lambda estimate: 5.14029	4.55268e-07	4.78385
+objective, constraint, lambda estimate: 5.08437	8.74763e-07	4.48558
+objective, constraint, lambda estimate: 5.03629	5.36042e-07	3.84647
+objective, constraint, lambda estimate: 4.99795	-6.50057e-07	3.47212
+objective, constraint, lambda estimate: 4.96838	1.7889e-07	3.13612
+objective, constraint, lambda estimate: 4.94598	-5.5576e-07	2.99839
+objective, constraint, lambda estimate: 4.92822	6.13716e-07	2.94202
+objective, constraint, lambda estimate: 4.91378	3.52427e-07	2.92029
+objective, constraint, lambda estimate: 4.90165	4.4238e-08	2.9401
+objective, constraint, lambda estimate: 4.8915	-9.95991e-08	2.92807
+objective, constraint, lambda estimate: 4.88287	-7.41976e-07	2.97991
+objective, constraint, lambda estimate: 4.87551	4.12004e-07	2.98818
+objective, constraint, lambda estimate: 4.86901	-3.32519e-07	3.04108
+objective, constraint, lambda estimate: 4.86317	-4.00686e-07	3.03506
+objective, constraint, lambda estimate: 4.85798	-3.82848e-07	3.07526
+objective, constraint, lambda estimate: 4.85333	1.18914e-07	3.06289
+objective, constraint, lambda estimate: 4.84912	7.69497e-08	3.10515
+objective, constraint, lambda estimate: 4.84529	-4.25808e-07	3.10365
+objective, constraint, lambda estimate: 4.84178	-7.64718e-07	3.1423
+objective, constraint, lambda estimate: 4.83856	-4.18703e-07	3.14115
+objective, constraint, lambda estimate: 4.83561	-1.71054e-07	3.16416
+objective, constraint, lambda estimate: 4.83284	1.74435e-07	3.16223
+objective, constraint, lambda estimate: 4.83022	-7.67061e-07	3.17846
+objective, constraint, lambda estimate: 4.82777	-3.49845e-08	3.17884
+objective, constraint, lambda estimate: 4.82542	8.28524e-07	3.19087
+objective, constraint, lambda estimate: 4.82316	-1.79187e-07	3.19632
+objective, constraint, lambda estimate: 4.82101	-7.7865e-07	3.20569
+objective, constraint, lambda estimate: 4.81894	4.37193e-07	3.21273
+objective, constraint, lambda estimate: 4.81697	3.97845e-07	3.21901
+objective, constraint, lambda estimate: 4.81509	6.36107e-07	3.22136
+objective, constraint, lambda estimate: 4.81329	-1.60971e-07	3.22451
+objective, constraint, lambda estimate: 4.81154	-9.53244e-07	3.22923
+objective, constraint, lambda estimate: 4.80986	3.09355e-07	3.23554
+objective, constraint, lambda estimate: 4.80822	-1.21111e-07	3.23949
+objective, constraint, lambda estimate: 4.80668	-4.64639e-07	3.23988
+objective, constraint, lambda estimate: 4.80523	-6.93906e-07	3.23909
+objective, constraint, lambda estimate: 4.80385	-6.23574e-07	3.24028
+objective, constraint, lambda estimate: 4.8025	-3.10431e-07	3.24582
+objective, constraint, lambda estimate: 4.80116	1.25744e-07	3.25295
+objective, constraint, lambda estimate: 4.79984	2.27529e-07	3.26089
+objective, constraint, lambda estimate: 4.79853	-2.33417e-07	3.26646
+objective, constraint, lambda estimate: 4.79727	4.99968e-07	3.26965
+objective, constraint, lambda estimate: 4.79604	-3.05519e-07	3.27364
+objective, constraint, lambda estimate: 4.79485	1.93246e-07	3.27684
+objective, constraint, lambda estimate: 4.79371	4.81486e-07	3.27684
+objective, constraint, lambda estimate: 4.79259	-5.45531e-07	3.27684
+objective, constraint, lambda estimate: 4.79148	6.13845e-07	3.28244
+objective, constraint, lambda estimate: 4.79038	-7.55242e-07	3.28725
+objective, constraint, lambda estimate: 4.78929	-4.1454e-07	3.29367
+objective, constraint, lambda estimate: 4.78822	-3.97151e-07	3.29849
+objective, constraint, lambda estimate: 4.78717	3.32865e-07	3.3005
+objective, constraint, lambda estimate: 4.78615	-4.79643e-07	3.3005
+objective, constraint, lambda estimate: 4.78516	-3.29744e-07	3.2993
+objective, constraint, lambda estimate: 4.7842	6.04102e-07	3.29889
+objective, constraint, lambda estimate: 4.78325	-6.44483e-07	3.29889
+objective, constraint, lambda estimate: 4.78233	3.41407e-07	3.30091
+objective, constraint, lambda estimate: 4.78141	1.49584e-07	3.30091
+objective, constraint, lambda estimate: 4.78053	3.85371e-07	3.2997
+objective, constraint, lambda estimate: 4.77968	4.60467e-07	3.29768
+objective, constraint, lambda estimate: 4.77885	-3.81166e-08	3.29527
+objective, constraint, lambda estimate: 4.77805	8.19275e-07	3.29527
+objective, constraint, lambda estimate: 4.77727	1.99557e-07	3.29527
+objective, constraint, lambda estimate: 4.7765	3.259e-07	3.29768
+objective, constraint, lambda estimate: 4.77572	1.01887e-07	3.3009
+objective, constraint, lambda estimate: 4.77494	-5.89652e-07	3.30574
+objective, constraint, lambda estimate: 4.77418	-2.48779e-07	3.30735
+objective, constraint, lambda estimate: 4.77345	-7.40261e-08	3.30816
+objective, constraint, lambda estimate: 4.77272	3.96255e-07	3.31058
+objective, constraint, lambda estimate: 4.77201	-1.51257e-07	3.31139
+objective, constraint, lambda estimate: 4.77131	3.3578e-07	3.31543
+objective, constraint, lambda estimate: 4.77063	3.1048e-07	3.31543
+objective, constraint, lambda estimate: 4.76998	-4.87595e-07	3.31058
+objective, constraint, lambda estimate: 4.76937	-2.67904e-07	3.30815
+objective, constraint, lambda estimate: 4.76877	5.37727e-07	3.30977
+objective, constraint, lambda estimate: 4.76818	-1.3795e-07	3.30977
+objective, constraint, lambda estimate: 4.76761	4.92265e-07	3.31139
+objective, constraint, lambda estimate: 4.76705	1.99597e-07	3.31139
+objective, constraint, lambda estimate: 4.7665	2.95797e-08	3.313
+objective, constraint, lambda estimate: 4.76594	-9.48792e-07	3.31705
+objective, constraint, lambda estimate: 4.76537	5.42138e-07	3.32353
+objective, constraint, lambda estimate: 4.76481	2.46186e-07	3.32353
+objective, constraint, lambda estimate: 4.76426	-8.13374e-07	3.32353
+objective, constraint, lambda estimate: 4.76372	-1.73278e-07	3.32515
+objective, constraint, lambda estimate: 4.7632	6.32827e-07	3.32758
+objective, constraint, lambda estimate: 4.76268	-2.25839e-07	3.32758
+objective, constraint, lambda estimate: 4.76219	3.21819e-07	3.32758
+objective, constraint, lambda estimate: 4.7617	-7.07188e-07	3.32514
+objective, constraint, lambda estimate: 4.76123	-1.40347e-07	3.32596
+objective, constraint, lambda estimate: 4.76077	-8.54471e-08	3.32433
+objective, constraint, lambda estimate: 4.76032	5.10582e-07	3.32433
+objective, constraint, lambda estimate: 4.75985	-6.79771e-07	3.32433
+objective, constraint, lambda estimate: 4.75938	6.98316e-07	3.33001
+objective, constraint, lambda estimate: 4.7589	4.96919e-07	3.33326
+objective, constraint, lambda estimate: 4.75841	3.57542e-07	3.33652
+objective, constraint, lambda estimate: 4.75793	-1.93426e-07	3.33733
+objective, constraint, lambda estimate: 4.75747	-1.54339e-07	3.33978
+objective, constraint, lambda estimate: 4.75702	4.51444e-07	3.34222
+objective, constraint, lambda estimate: 4.75658	-3.28814e-07	3.34059
+objective, constraint, lambda estimate: 4.75615	-8.45932e-07	3.33896
+objective, constraint, lambda estimate: 4.75574	6.30721e-07	3.34059
+objective, constraint, lambda estimate: 4.7553	-7.40403e-07	3.34059
+objective, constraint, lambda estimate: 4.75487	5.72276e-07	3.34467
+objective, constraint, lambda estimate: 4.75442	-8.2111e-07	3.3463
+objective, constraint, lambda estimate: 4.75398	5.63878e-07	3.3512
+objective, constraint, lambda estimate: 4.75354	3.2543e-07	3.34957
+objective, constraint, lambda estimate: 4.75313	-6.41122e-07	3.34303
+objective, constraint, lambda estimate: 4.75275	1.6169e-07	3.33813
+objective, constraint, lambda estimate: 4.75238	-5.40594e-07	3.33405
+objective, constraint, lambda estimate: 4.75203	6.63263e-07	3.33405
+objective, constraint, lambda estimate: 4.75167	-7.15885e-07	3.33161
+objective, constraint, lambda estimate: 4.75132	3.72141e-07	3.33405
+objective, constraint, lambda estimate: 4.75096	-8.22627e-07	3.33161
+objective, constraint, lambda estimate: 4.75062	-1.34777e-07	3.33487
+objective, constraint, lambda estimate: 4.75026	-7.55171e-07	3.33487
+objective, constraint, lambda estimate: 4.74992	-2.64601e-07	3.33568
+objective, constraint, lambda estimate: 4.74957	-6.59593e-07	3.33405
+objective, constraint, lambda estimate: 4.74924	-4.30538e-07	3.33161
+objective, constraint, lambda estimate: 4.74891	-6.08055e-07	3.32673
+objective, constraint, lambda estimate: 4.74858	8.84878e-07	3.33161
+objective, constraint, lambda estimate: 4.74825	7.16841e-07	3.33486
+objective, constraint, lambda estimate: 4.74792	1.62733e-08	3.33975
+objective, constraint, lambda estimate: 4.74761	6.29071e-07	3.34382
+objective, constraint, lambda estimate: 4.74729	5.86559e-07	3.34627
+Experiment ID: 1000
+adaptive filtering configs: [1, 1, 1, 1]
+image path: logs/images/gt/1000/, loss path: logs/loss/gt/1000/
+VoxelFEM problem configs: {'problem_name': 'bridgeS88', 'MATERIAL_PATH': 'VoxelFEM/examples/materials/B9Creator.material', 'BC_PATH': 'bcs/3d/bridge.bc', 'orderFEM': [1, 1, 1], 'domainCorners': [[0, 0, 0], [4, 2, 1]], 'gridDimensions': [320, 160, 80], 'E0': 1, 'Emin': 0.0001, 'SIMPExponent': 3, 'maxVolume': [0.4], 'adaptive_filtering': [1, 1, 1, 1, 1, 1], 'seed': 88}
+Multigrid levels: 3
+Total Steps: 0, Runtime: 2151929.4, Compliance loss 69.588422
+Total Steps: 1, Runtime: 7.7, Compliance loss 44.378935
+Total Steps: 2, Runtime: 7.4, Compliance loss 34.640853
+Total Steps: 3, Runtime: 7.3, Compliance loss 26.813856
+Total Steps: 4, Runtime: 7.4, Compliance loss 20.033864
+Total Steps: 5, Runtime: 8.8, Compliance loss 15.015846
+Total Steps: 6, Runtime: 7.4, Compliance loss 12.610009
+Total Steps: 7, Runtime: 7.4, Compliance loss 11.693647
+Total Steps: 8, Runtime: 7.2, Compliance loss 11.198531
+Total Steps: 9, Runtime: 7.3, Compliance loss 10.877948
+Total Steps: 10, Runtime: 7.2, Compliance loss 10.671158
+Total Steps: 11, Runtime: 7.1, Compliance loss 10.520174
+Total Steps: 12, Runtime: 7.2, Compliance loss 10.395816
+Total Steps: 13, Runtime: 7.2, Compliance loss 10.280576
+Total Steps: 14, Runtime: 8.6, Compliance loss 10.168733
+Total Steps: 15, Runtime: 10.1, Compliance loss 10.072571
+Total Steps: 16, Runtime: 11.6, Compliance loss 9.995908
+Total Steps: 17, Runtime: 11.7, Compliance loss 9.936763
+Total Steps: 18, Runtime: 11.6, Compliance loss 9.891969
+Total Steps: 19, Runtime: 10.1, Compliance loss 9.856447
+Total Steps: 20, Runtime: 11.4, Compliance loss 9.827563
+Total Steps: 21, Runtime: 10.1, Compliance loss 9.803296
+Total Steps: 22, Runtime: 11.6, Compliance loss 9.782996
+Total Steps: 23, Runtime: 9.8, Compliance loss 9.765732
+Total Steps: 24, Runtime: 11.8, Compliance loss 9.751023
+Total Steps: 25, Runtime: 9.9, Compliance loss 9.738024
+Total Steps: 26, Runtime: 10.1, Compliance loss 9.726343
+Total Steps: 27, Runtime: 9.9, Compliance loss 9.715969
+Total Steps: 28, Runtime: 10.0, Compliance loss 9.706669
+Total Steps: 29, Runtime: 9.8, Compliance loss 9.698245
+Total Steps: 30, Runtime: 7.9, Compliance loss 9.690573
+Total Steps: 31, Runtime: 10.1, Compliance loss 9.683569
+Total Steps: 32, Runtime: 8.5, Compliance loss 9.677127
+Total Steps: 33, Runtime: 10.0, Compliance loss 9.671214
+Total Steps: 34, Runtime: 8.3, Compliance loss 9.665687
+Total Steps: 35, Runtime: 10.1, Compliance loss 9.660440
+Total Steps: 36, Runtime: 7.8, Compliance loss 9.655544
+Total Steps: 37, Runtime: 8.6, Compliance loss 9.650832
+Total Steps: 38, Runtime: 8.4, Compliance loss 9.646311
+Total Steps: 39, Runtime: 8.4, Compliance loss 9.642010
+Total Steps: 40, Runtime: 8.5, Compliance loss 9.637876
+Total Steps: 41, Runtime: 8.5, Compliance loss 9.633939
+Total Steps: 42, Runtime: 8.6, Compliance loss 9.630187
+Total Steps: 43, Runtime: 8.5, Compliance loss 9.626572
+Total Steps: 44, Runtime: 8.3, Compliance loss 9.623081
+Total Steps: 45, Runtime: 8.4, Compliance loss 9.619719
+Total Steps: 46, Runtime: 8.5, Compliance loss 9.616447
+Total Steps: 47, Runtime: 7.8, Compliance loss 9.613361
+Total Steps: 48, Runtime: 8.5, Compliance loss 9.610456
+Total Steps: 49, Runtime: 8.5, Compliance loss 9.607692
+Total Steps: 50, Runtime: 8.4, Compliance loss 9.604999
+Total Steps: 51, Runtime: 8.5, Compliance loss 9.602327
+Total Steps: 52, Runtime: 8.5, Compliance loss 9.599677
+Total Steps: 53, Runtime: 8.4, Compliance loss 9.597070
+Total Steps: 54, Runtime: 8.4, Compliance loss 9.594535
+Total Steps: 55, Runtime: 7.0, Compliance loss 9.592073
+Total Steps: 56, Runtime: 8.5, Compliance loss 9.589707
+Total Steps: 57, Runtime: 6.2, Compliance loss 9.587411
+Total Steps: 58, Runtime: 6.2, Compliance loss 9.585172
+Total Steps: 59, Runtime: 6.9, Compliance loss 9.582967
+Total Steps: 60, Runtime: 8.4, Compliance loss 9.580765
+Total Steps: 61, Runtime: 6.9, Compliance loss 9.578585
+Total Steps: 62, Runtime: 8.4, Compliance loss 9.576435
+Total Steps: 63, Runtime: 7.1, Compliance loss 9.574343
+Total Steps: 64, Runtime: 6.2, Compliance loss 9.572294
+Total Steps: 65, Runtime: 6.9, Compliance loss 9.570311
+Total Steps: 66, Runtime: 6.2, Compliance loss 9.568400
+Total Steps: 67, Runtime: 6.2, Compliance loss 9.566507
+Total Steps: 68, Runtime: 7.0, Compliance loss 9.564661
+Total Steps: 69, Runtime: 6.2, Compliance loss 9.562829
+Total Steps: 70, Runtime: 6.3, Compliance loss 9.561062
+Total Steps: 71, Runtime: 6.8, Compliance loss 9.559352
+Total Steps: 72, Runtime: 6.9, Compliance loss 9.557695
+Total Steps: 73, Runtime: 6.2, Compliance loss 9.556108
+Total Steps: 74, Runtime: 6.2, Compliance loss 9.554545
+Total Steps: 75, Runtime: 6.9, Compliance loss 9.552994
+Total Steps: 76, Runtime: 6.9, Compliance loss 9.551443
+Total Steps: 77, Runtime: 6.9, Compliance loss 9.549883
+Total Steps: 78, Runtime: 6.2, Compliance loss 9.548365
+Total Steps: 79, Runtime: 6.3, Compliance loss 9.546891
+Total Steps: 80, Runtime: 6.9, Compliance loss 9.545448
+Total Steps: 81, Runtime: 6.3, Compliance loss 9.544021
+Total Steps: 82, Runtime: 6.9, Compliance loss 9.542623
+Total Steps: 83, Runtime: 6.3, Compliance loss 9.541259
+Total Steps: 84, Runtime: 6.9, Compliance loss 9.539965
+Total Steps: 85, Runtime: 6.9, Compliance loss 9.538740
+Total Steps: 86, Runtime: 7.0, Compliance loss 9.537538
+Total Steps: 87, Runtime: 6.3, Compliance loss 9.536363
+Total Steps: 88, Runtime: 7.0, Compliance loss 9.535224
+Total Steps: 89, Runtime: 6.2, Compliance loss 9.534108
+Total Steps: 90, Runtime: 7.0, Compliance loss 9.533006
+Total Steps: 91, Runtime: 6.9, Compliance loss 9.531876
+Total Steps: 92, Runtime: 6.9, Compliance loss 9.530747
+Total Steps: 93, Runtime: 6.2, Compliance loss 9.529624
+Total Steps: 94, Runtime: 6.2, Compliance loss 9.528513
+Total Steps: 95, Runtime: 6.3, Compliance loss 9.527443
+Total Steps: 96, Runtime: 6.9, Compliance loss 9.526394
+Total Steps: 97, Runtime: 6.2, Compliance loss 9.525363
+Total Steps: 98, Runtime: 6.2, Compliance loss 9.524373
+Total Steps: 99, Runtime: 6.9, Compliance loss 9.523407
+Total Steps: 100, Runtime: 6.3, Compliance loss 9.522468
+Total Steps: 101, Runtime: 6.9, Compliance loss 9.521546
+Total Steps: 102, Runtime: 6.1, Compliance loss 9.520632
+Total Steps: 103, Runtime: 6.2, Compliance loss 9.519694
+Total Steps: 104, Runtime: 7.0, Compliance loss 9.518755
+Total Steps: 105, Runtime: 7.0, Compliance loss 9.517790
+Total Steps: 106, Runtime: 7.0, Compliance loss 9.516818
+Total Steps: 107, Runtime: 6.3, Compliance loss 9.515866
+Total Steps: 108, Runtime: 7.0, Compliance loss 9.514938
+Total Steps: 109, Runtime: 7.0, Compliance loss 9.514034
+Total Steps: 110, Runtime: 7.0, Compliance loss 9.513160
+Total Steps: 111, Runtime: 6.9, Compliance loss 9.512310
+Total Steps: 112, Runtime: 7.0, Compliance loss 9.511472
+Total Steps: 113, Runtime: 6.2, Compliance loss 9.510604
+Total Steps: 114, Runtime: 6.8, Compliance loss 9.509741
+Total Steps: 115, Runtime: 6.3, Compliance loss 9.508841
+Total Steps: 116, Runtime: 6.9, Compliance loss 9.507958
+Total Steps: 117, Runtime: 6.3, Compliance loss 9.507082
+Total Steps: 118, Runtime: 7.1, Compliance loss 9.506253
+Total Steps: 119, Runtime: 7.0, Compliance loss 9.505502
+Total Steps: 120, Runtime: 6.9, Compliance loss 9.504762
+Total Steps: 121, Runtime: 6.3, Compliance loss 9.504058
+Total Steps: 122, Runtime: 6.9, Compliance loss 9.503339
+Total Steps: 123, Runtime: 6.9, Compliance loss 9.502639
+Total Steps: 124, Runtime: 6.8, Compliance loss 9.501930
+Total Steps: 125, Runtime: 6.9, Compliance loss 9.501234
+Total Steps: 126, Runtime: 6.2, Compliance loss 9.500526
+Total Steps: 127, Runtime: 6.3, Compliance loss 9.499835
+Total Steps: 128, Runtime: 6.9, Compliance loss 9.499149
+Total Steps: 129, Runtime: 6.9, Compliance loss 9.498475
+Total Steps: 130, Runtime: 6.7, Compliance loss 9.497816
+Total Steps: 131, Runtime: 6.9, Compliance loss 9.497160
+Total Steps: 132, Runtime: 6.9, Compliance loss 9.496495
+Total Steps: 133, Runtime: 6.9, Compliance loss 9.495842
+Total Steps: 134, Runtime: 6.9, Compliance loss 9.495221
+Total Steps: 135, Runtime: 6.9, Compliance loss 9.494586
+objective, constraint, lambda estimate: 4.74696	7.3175e-07	3.35118
+objective, constraint, lambda estimate: 4.74663	1.28726e-07	3.35281
+objective, constraint, lambda estimate: 4.7463	3.44552e-07	3.35526
+objective, constraint, lambda estimate: 4.74597	7.00967e-07	3.3569
+objective, constraint, lambda estimate: 4.74564	6.56188e-07	3.35936
+objective, constraint, lambda estimate: 4.74532	-7.67823e-07	3.35936
+objective, constraint, lambda estimate: 4.74501	-5.65499e-07	3.35936
+objective, constraint, lambda estimate: 4.74472	-5.89149e-08	3.35936
+objective, constraint, lambda estimate: 4.74443	-3.02966e-07	3.3569
+objective, constraint, lambda estimate: 4.74415	-4.5893e-07	3.35526
+objective, constraint, lambda estimate: 4.74387	4.0255e-07	3.3569
+objective, constraint, lambda estimate: 4.74359	-3.7969e-08	3.3569
+objective, constraint, lambda estimate: 4.74332	6.46034e-07	3.35854
+objective, constraint, lambda estimate: 4.74304	3.14705e-07	3.35854
+objective, constraint, lambda estimate: 4.74276	5.14967e-07	3.361
+objective, constraint, lambda estimate: 4.74248	4.0961e-07	3.361
+objective, constraint, lambda estimate: 4.7422	-3.40672e-07	3.36182
+objective, constraint, lambda estimate: 4.74193	5.71964e-07	3.36428
+objective, constraint, lambda estimate: 4.74167	8.86149e-08	3.35936
+objective, constraint, lambda estimate: 4.74141	1.34798e-07	3.35936
+objective, constraint, lambda estimate: 4.74116	-4.9283e-08	3.361
+objective, constraint, lambda estimate: 4.7409	3.98018e-07	3.36428
+objective, constraint, lambda estimate: 4.74065	-7.83453e-08	3.36428
+objective, constraint, lambda estimate: 4.7404	7.00505e-07	3.36428
+objective, constraint, lambda estimate: 4.74015	-8.45954e-07	3.36428
+objective, constraint, lambda estimate: 4.7399	6.28732e-07	3.3725
+objective, constraint, lambda estimate: 4.73963	-3.06987e-07	3.3725
+objective, constraint, lambda estimate: 4.73937	-6.65145e-07	3.3725
+objective, constraint, lambda estimate: 4.73911	-5.3792e-07	3.37579
+objective, constraint, lambda estimate: 4.73884	7.39686e-07	3.38072
+objective, constraint, lambda estimate: 4.73858	-3.45276e-07	3.37742
+objective, constraint, lambda estimate: 4.73834	5.68597e-07	3.37742
+objective, constraint, lambda estimate: 4.7381	-3.39885e-07	3.37248
+objective, constraint, lambda estimate: 4.73787	-6.73109e-07	3.37412
+objective, constraint, lambda estimate: 4.73764	-8.18236e-07	3.37412
+objective, constraint, lambda estimate: 4.73741	4.58452e-07	3.3766
+objective, constraint, lambda estimate: 4.73719	4.22296e-08	3.37248
+objective, constraint, lambda estimate: 4.73696	-6.59052e-07	3.37412
+objective, constraint, lambda estimate: 4.73674	8.74996e-07	3.37907
+objective, constraint, lambda estimate: 4.73651	7.56167e-07	3.37742
+objective, constraint, lambda estimate: 4.73628	6.04494e-07	3.38072
+objective, constraint, lambda estimate: 4.73603	9.4963e-09	3.38402
+objective, constraint, lambda estimate: 4.73579	3.33763e-07	3.38898
+objective, constraint, lambda estimate: 4.73553	9.64022e-07	3.39394
+objective, constraint, lambda estimate: 4.73528	6.44279e-07	3.39726
+objective, constraint, lambda estimate: 4.73502	6.66131e-08	3.39726
+objective, constraint, lambda estimate: 4.73477	1.98874e-07	3.39726
+objective, constraint, lambda estimate: 4.73453	-4.419e-07	3.39394
+objective, constraint, lambda estimate: 4.7343	-4.36453e-07	3.39477
+objective, constraint, lambda estimate: 4.73408	1.18165e-07	3.39726
+objective, constraint, lambda estimate: 4.73386	-3.78748e-07	3.39394
+objective, constraint, lambda estimate: 4.73365	8.01945e-07	3.39891
+objective, constraint, lambda estimate: 4.73342	-1.81156e-07	3.39891
+objective, constraint, lambda estimate: 4.73319	-2.36708e-07	3.40057
+objective, constraint, lambda estimate: 4.73298	1.95158e-07	3.40057
+objective, constraint, lambda estimate: 4.73277	8.1792e-07	3.40057
+objective, constraint, lambda estimate: 4.73256	-5.21593e-07	3.3956
+objective, constraint, lambda estimate: 4.73236	-9.15912e-07	3.3956
+objective, constraint, lambda estimate: 4.73217	-2.85104e-07	3.39725
+objective, constraint, lambda estimate: 4.73197	-8.73062e-07	3.39725
+objective, constraint, lambda estimate: 4.73178	9.22573e-07	3.40057
+objective, constraint, lambda estimate: 4.73158	-2.21369e-07	3.40057
+objective, constraint, lambda estimate: 4.73139	-8.32133e-07	3.40057
+objective, constraint, lambda estimate: 4.73121	-7.32059e-08	3.40057
+objective, constraint, lambda estimate: 4.73104	-7.77286e-07	3.3956
+objective, constraint, lambda estimate: 4.73087	9.23058e-07	3.40057
+objective, constraint, lambda estimate: 4.73069	-5.53816e-07	3.39725
+objective, constraint, lambda estimate: 4.73051	3.5015e-07	3.40223
+objective, constraint, lambda estimate: 4.73033	5.00572e-07	3.40057
+objective, constraint, lambda estimate: 4.73015	-4.32283e-07	3.39725
+objective, constraint, lambda estimate: 4.72998	9.36059e-07	3.40057
+objective, constraint, lambda estimate: 4.7298	4.06991e-07	3.40057
+objective, constraint, lambda estimate: 4.72962	-4.01538e-07	3.40556
+objective, constraint, lambda estimate: 4.72943	7.05232e-07	3.41054
+objective, constraint, lambda estimate: 4.72925	8.12763e-07	3.41054
+objective, constraint, lambda estimate: 4.72907	-4.48088e-07	3.40555
+objective, constraint, lambda estimate: 4.7289	-4.95279e-07	3.40805
+objective, constraint, lambda estimate: 4.72873	9.01845e-07	3.41054
+objective, constraint, lambda estimate: 4.72855	2.51345e-07	3.41054
+objective, constraint, lambda estimate: 4.72837	9.24693e-07	3.41554
+objective, constraint, lambda estimate: 4.72819	4.53055e-07	3.41387
+objective, constraint, lambda estimate: 4.72802	3.02257e-07	3.40888
+objective, constraint, lambda estimate: 4.72786	5.61237e-07	3.40721
+objective, constraint, lambda estimate: 4.72769	-6.78219e-07	3.40721
+objective, constraint, lambda estimate: 4.72753	3.44272e-07	3.4122
+objective, constraint, lambda estimate: 4.72735	-2.78233e-07	3.4122
+objective, constraint, lambda estimate: 4.72717	8.52923e-07	3.4172
+objective, constraint, lambda estimate: 4.72699	-4.05481e-07	3.41387
+objective, constraint, lambda estimate: 4.72682	9.74231e-07	3.4172
+objective, constraint, lambda estimate: 4.72665	-5.15926e-07	3.4122
+objective, constraint, lambda estimate: 4.72647	-6.07367e-07	3.41887
+objective, constraint, lambda estimate: 4.72629	-4.94571e-07	3.42054
+objective, constraint, lambda estimate: 4.72611	3.37392e-08	3.42388
+objective, constraint, lambda estimate: 4.72593	4.83819e-07	3.42722
+objective, constraint, lambda estimate: 4.72575	-6.09555e-08	3.42387
+objective, constraint, lambda estimate: 4.72558	4.19704e-07	3.42387
+objective, constraint, lambda estimate: 4.7254	-1.05257e-07	3.42053
+objective, constraint, lambda estimate: 4.72524	8.19973e-07	3.42053
+objective, constraint, lambda estimate: 4.72506	1.25834e-07	3.42053
+objective, constraint, lambda estimate: 4.7249	6.3486e-07	3.42053
+objective, constraint, lambda estimate: 4.72474	-3.00665e-07	3.41719
+objective, constraint, lambda estimate: 4.72458	8.62407e-07	3.4222
+objective, constraint, lambda estimate: 4.72443	-3.26996e-07	3.41719
+objective, constraint, lambda estimate: 4.72428	5.20452e-07	3.42053
+objective, constraint, lambda estimate: 4.72413	-8.52414e-07	3.41552
+objective, constraint, lambda estimate: 4.72399	9.2335e-07	3.42053
+objective, constraint, lambda estimate: 4.72383	-5.44333e-07	3.41552
+objective, constraint, lambda estimate: 4.72369	-3.17529e-07	3.41719
+objective, constraint, lambda estimate: 4.72356	-1.63021e-07	3.41719
+objective, constraint, lambda estimate: 4.72342	9.61714e-07	3.4222
+objective, constraint, lambda estimate: 4.72328	-7.31918e-07	3.41719
+objective, constraint, lambda estimate: 4.72315	9.48982e-07	3.4222
+objective, constraint, lambda estimate: 4.72301	1.66244e-07	3.42053
+objective, constraint, lambda estimate: 4.72288	8.32121e-07	3.42554
+objective, constraint, lambda estimate: 4.72274	7.16014e-07	3.42387
+objective, constraint, lambda estimate: 4.7226	1.64692e-07	3.42387
+objective, constraint, lambda estimate: 4.72247	6.34972e-07	3.42721
+objective, constraint, lambda estimate: 4.72232	-6.63053e-07	3.42387
+objective, constraint, lambda estimate: 4.72218	-2.90211e-07	3.42888
+objective, constraint, lambda estimate: 4.72204	-6.26593e-07	3.42888
+objective, constraint, lambda estimate: 4.72189	-7.80683e-07	3.43056
+objective, constraint, lambda estimate: 4.72175	9.95248e-08	3.43056
+objective, constraint, lambda estimate: 4.72161	3.04659e-07	3.43056
+objective, constraint, lambda estimate: 4.72147	8.50719e-07	3.43391
+objective, constraint, lambda estimate: 4.72133	-6.84763e-08	3.43391
+objective, constraint, lambda estimate: 4.72119	5.07381e-07	3.43726
+objective, constraint, lambda estimate: 4.72105	-7.5044e-07	3.4339
+objective, constraint, lambda estimate: 4.72093	-1.47225e-07	3.4339
+objective, constraint, lambda estimate: 4.72081	7.2952e-07	3.4339
+objective, constraint, lambda estimate: 4.72068	-7.19839e-07	3.43055
+objective, constraint, lambda estimate: 4.72055	2.66856e-07	3.43558
+objective, constraint, lambda estimate: 4.72043	6.31646e-07	3.43558
+objective, constraint, lambda estimate: 4.72031	4.54653e-07	3.4339
+objective, constraint, lambda estimate: 4.72019	-5.09772e-07	3.43055
+objective, constraint, lambda estimate: 4.72007	1.43597e-07	3.4339
+objective, constraint, lambda estimate: 4.71995	7.06237e-07	3.4339
+objective, constraint, lambda estimate: 4.71983	-3.55903e-08	3.4339
+objective, constraint, lambda estimate: 4.71971	1.05633e-07	3.43726
+objective, constraint, lambda estimate: 4.71959	-8.69227e-07	3.4339
+objective, constraint, lambda estimate: 4.71948	4.08786e-07	3.43893
+objective, constraint, lambda estimate: 4.71936	6.91636e-07	3.43893
+objective, constraint, lambda estimate: 4.71924	4.57298e-07	3.43893
+objective, constraint, lambda estimate: 4.71912	-2.18591e-07	3.43893
+objective, constraint, lambda estimate: 4.719	-5.37257e-07	3.44061
+Total Steps: 136, Runtime: 6.8, Compliance loss 9.493927
+Total Steps: 137, Runtime: 6.2, Compliance loss 9.493253
+Total Steps: 138, Runtime: 7.1, Compliance loss 9.492592
+Total Steps: 139, Runtime: 7.0, Compliance loss 9.491938
+Total Steps: 140, Runtime: 6.9, Compliance loss 9.491286
+Total Steps: 141, Runtime: 6.2, Compliance loss 9.490635
+Total Steps: 142, Runtime: 6.2, Compliance loss 9.490027
+Total Steps: 143, Runtime: 6.2, Compliance loss 9.489434
+Total Steps: 144, Runtime: 6.9, Compliance loss 9.488858
+Total Steps: 145, Runtime: 7.0, Compliance loss 9.488293
+Total Steps: 146, Runtime: 7.0, Compliance loss 9.487745
+Total Steps: 147, Runtime: 6.2, Compliance loss 9.487186
+Total Steps: 148, Runtime: 7.0, Compliance loss 9.486632
+Total Steps: 149, Runtime: 6.2, Compliance loss 9.486072
+Total Steps: 150, Runtime: 6.9, Compliance loss 9.485511
+Total Steps: 151, Runtime: 6.2, Compliance loss 9.484951
+Total Steps: 152, Runtime: 6.3, Compliance loss 9.484395
+Total Steps: 153, Runtime: 6.9, Compliance loss 9.483859
+Total Steps: 154, Runtime: 6.7, Compliance loss 9.483335
+Total Steps: 155, Runtime: 6.2, Compliance loss 9.482827
+Total Steps: 156, Runtime: 6.4, Compliance loss 9.482319
+Total Steps: 157, Runtime: 6.9, Compliance loss 9.481808
+Total Steps: 158, Runtime: 6.2, Compliance loss 9.481296
+Total Steps: 159, Runtime: 6.2, Compliance loss 9.480808
+Total Steps: 160, Runtime: 6.2, Compliance loss 9.480295
+Total Steps: 161, Runtime: 6.7, Compliance loss 9.479790
+Total Steps: 162, Runtime: 6.2, Compliance loss 9.479260
+Total Steps: 163, Runtime: 6.2, Compliance loss 9.478738
+Total Steps: 164, Runtime: 6.2, Compliance loss 9.478211
+Total Steps: 165, Runtime: 7.0, Compliance loss 9.477689
+Total Steps: 166, Runtime: 6.9, Compliance loss 9.477167
+Total Steps: 167, Runtime: 6.3, Compliance loss 9.476682
+Total Steps: 168, Runtime: 6.8, Compliance loss 9.476207
+Total Steps: 169, Runtime: 6.3, Compliance loss 9.475735
+Total Steps: 170, Runtime: 6.2, Compliance loss 9.475270
+Total Steps: 171, Runtime: 7.0, Compliance loss 9.474823
+Total Steps: 172, Runtime: 6.8, Compliance loss 9.474376
+Total Steps: 173, Runtime: 6.3, Compliance loss 9.473927
+Total Steps: 174, Runtime: 6.9, Compliance loss 9.473485
+Total Steps: 175, Runtime: 6.4, Compliance loss 9.473029
+Total Steps: 176, Runtime: 6.9, Compliance loss 9.472556
+Total Steps: 177, Runtime: 6.9, Compliance loss 9.472066
+Total Steps: 178, Runtime: 6.9, Compliance loss 9.471571
+Total Steps: 179, Runtime: 6.9, Compliance loss 9.471067
+Total Steps: 180, Runtime: 7.0, Compliance loss 9.470552
+Total Steps: 181, Runtime: 6.3, Compliance loss 9.470039
+Total Steps: 182, Runtime: 6.2, Compliance loss 9.469543
+Total Steps: 183, Runtime: 6.9, Compliance loss 9.469063
+Total Steps: 184, Runtime: 6.4, Compliance loss 9.468605
+Total Steps: 185, Runtime: 6.9, Compliance loss 9.468158
+Total Steps: 186, Runtime: 6.9, Compliance loss 9.467726
+Total Steps: 187, Runtime: 7.1, Compliance loss 9.467292
+Total Steps: 188, Runtime: 6.2, Compliance loss 9.466833
+Total Steps: 189, Runtime: 6.3, Compliance loss 9.466387
+Total Steps: 190, Runtime: 6.2, Compliance loss 9.465952
+Total Steps: 191, Runtime: 6.2, Compliance loss 9.465530
+Total Steps: 192, Runtime: 6.8, Compliance loss 9.465114
+Total Steps: 193, Runtime: 6.2, Compliance loss 9.464716
+Total Steps: 194, Runtime: 6.3, Compliance loss 9.464331
+Total Steps: 195, Runtime: 6.3, Compliance loss 9.463937
+Total Steps: 196, Runtime: 7.0, Compliance loss 9.463565
+Total Steps: 197, Runtime: 6.2, Compliance loss 9.463166
+Total Steps: 198, Runtime: 6.3, Compliance loss 9.462782
+Total Steps: 199, Runtime: 6.3, Compliance loss 9.462424
+Total Steps: 200, Runtime: 6.9, Compliance loss 9.462072
+Total Steps: 201, Runtime: 7.0, Compliance loss 9.461736
+Total Steps: 202, Runtime: 6.9, Compliance loss 9.461374
+Total Steps: 203, Runtime: 6.9, Compliance loss 9.461019
+Total Steps: 204, Runtime: 6.2, Compliance loss 9.460659
+Total Steps: 205, Runtime: 6.8, Compliance loss 9.460303
+Total Steps: 206, Runtime: 6.9, Compliance loss 9.459964
+Total Steps: 207, Runtime: 6.2, Compliance loss 9.459606
+Total Steps: 208, Runtime: 6.9, Compliance loss 9.459230
+Total Steps: 209, Runtime: 6.9, Compliance loss 9.458869
+Total Steps: 210, Runtime: 6.2, Compliance loss 9.458506
+Total Steps: 211, Runtime: 6.8, Compliance loss 9.458150
+Total Steps: 212, Runtime: 6.4, Compliance loss 9.457804
+Total Steps: 213, Runtime: 6.9, Compliance loss 9.457464
+Total Steps: 214, Runtime: 6.2, Compliance loss 9.457099
+Total Steps: 215, Runtime: 6.8, Compliance loss 9.456741
+Total Steps: 216, Runtime: 6.2, Compliance loss 9.456381
+Total Steps: 217, Runtime: 6.8, Compliance loss 9.456046
+Total Steps: 218, Runtime: 6.2, Compliance loss 9.455727
+Total Steps: 219, Runtime: 6.2, Compliance loss 9.455387
+Total Steps: 220, Runtime: 6.9, Compliance loss 9.455055
+Total Steps: 221, Runtime: 6.2, Compliance loss 9.454700
+Total Steps: 222, Runtime: 7.0, Compliance loss 9.454349
+Total Steps: 223, Runtime: 6.8, Compliance loss 9.453987
+Total Steps: 224, Runtime: 7.1, Compliance loss 9.453650
+Total Steps: 225, Runtime: 6.8, Compliance loss 9.453297
+Total Steps: 226, Runtime: 6.8, Compliance loss 9.452939
+Total Steps: 227, Runtime: 6.2, Compliance loss 9.452583
+Total Steps: 228, Runtime: 6.8, Compliance loss 9.452222
+Total Steps: 229, Runtime: 6.9, Compliance loss 9.451855
+Total Steps: 230, Runtime: 6.8, Compliance loss 9.451500
+Total Steps: 231, Runtime: 6.2, Compliance loss 9.451157
+Total Steps: 232, Runtime: 6.9, Compliance loss 9.450808
+Total Steps: 233, Runtime: 6.3, Compliance loss 9.450475
+Total Steps: 234, Runtime: 6.2, Compliance loss 9.450125
+Total Steps: 235, Runtime: 6.2, Compliance loss 9.449796
+Total Steps: 236, Runtime: 6.8, Compliance loss 9.449473
+Total Steps: 237, Runtime: 6.9, Compliance loss 9.449168
+Total Steps: 238, Runtime: 6.8, Compliance loss 9.448860
+Total Steps: 239, Runtime: 7.0, Compliance loss 9.448564
+Total Steps: 240, Runtime: 6.8, Compliance loss 9.448257
+Total Steps: 241, Runtime: 6.9, Compliance loss 9.447973
+Total Steps: 242, Runtime: 6.8, Compliance loss 9.447670
+Total Steps: 243, Runtime: 6.2, Compliance loss 9.447388
+Total Steps: 244, Runtime: 4.7, Compliance loss 9.447111
+Total Steps: 245, Runtime: 6.9, Compliance loss 9.446836
+Total Steps: 246, Runtime: 6.8, Compliance loss 9.446550
+Total Steps: 247, Runtime: 6.8, Compliance loss 9.446298
+Total Steps: 248, Runtime: 6.3, Compliance loss 9.446023
+Total Steps: 249, Runtime: 6.8, Compliance loss 9.445754
+Total Steps: 250, Runtime: 6.3, Compliance loss 9.445483
+Total Steps: 251, Runtime: 6.3, Compliance loss 9.445207
+Total Steps: 252, Runtime: 6.9, Compliance loss 9.444934
+Total Steps: 253, Runtime: 6.9, Compliance loss 9.444649
+Total Steps: 254, Runtime: 6.8, Compliance loss 9.444365
+Total Steps: 255, Runtime: 6.2, Compliance loss 9.444074
+Total Steps: 256, Runtime: 6.3, Compliance loss 9.443783
+Total Steps: 257, Runtime: 6.2, Compliance loss 9.443505
+Total Steps: 258, Runtime: 6.2, Compliance loss 9.443223
+Total Steps: 259, Runtime: 7.0, Compliance loss 9.442943
+Total Steps: 260, Runtime: 6.2, Compliance loss 9.442657
+Total Steps: 261, Runtime: 6.9, Compliance loss 9.442387
+Total Steps: 262, Runtime: 6.8, Compliance loss 9.442109
+Total Steps: 263, Runtime: 6.2, Compliance loss 9.441859
+Total Steps: 264, Runtime: 6.2, Compliance loss 9.441614
+Total Steps: 265, Runtime: 6.9, Compliance loss 9.441351
+Total Steps: 266, Runtime: 6.8, Compliance loss 9.441107
+Total Steps: 267, Runtime: 6.2, Compliance loss 9.440860
+Total Steps: 268, Runtime: 6.3, Compliance loss 9.440618
+Total Steps: 269, Runtime: 6.8, Compliance loss 9.440376
+Total Steps: 270, Runtime: 6.9, Compliance loss 9.440142
+Total Steps: 271, Runtime: 6.3, Compliance loss 9.439907
+Total Steps: 272, Runtime: 6.2, Compliance loss 9.439665
+Total Steps: 273, Runtime: 7.0, Compliance loss 9.439427
+Total Steps: 274, Runtime: 6.9, Compliance loss 9.439188
+Total Steps: 275, Runtime: 6.8, Compliance loss 9.438960
+Total Steps: 276, Runtime: 6.3, Compliance loss 9.438722
+Total Steps: 277, Runtime: 6.2, Compliance loss 9.438479
+Total Steps: 278, Runtime: 6.2, Compliance loss 9.438236
+Total Steps: 279, Runtime: 6.3, Compliance loss 9.437991
+objective, constraint, lambda estimate: 4.71887	-2.93787e-07	3.44061
+objective, constraint, lambda estimate: 4.71875	2.69006e-07	3.44061
+objective, constraint, lambda estimate: 4.71863	4.83071e-07	3.44397
+objective, constraint, lambda estimate: 4.71849	-5.83983e-07	3.44397
+objective, constraint, lambda estimate: 4.71836	-7.77308e-07	3.44397
+objective, constraint, lambda estimate: 4.71823	-1.25841e-07	3.44397
+objective, constraint, lambda estimate: 4.71811	-1.55577e-07	3.44061
+objective, constraint, lambda estimate: 4.718	7.72245e-07	3.44061
+objective, constraint, lambda estimate: 4.71788	-1.98222e-07	3.43725
+objective, constraint, lambda estimate: 4.71776	3.30539e-07	3.44061
+objective, constraint, lambda estimate: 4.71764	-5.98214e-08	3.44061
+objective, constraint, lambda estimate: 4.71753	5.02124e-07	3.44397
+objective, constraint, lambda estimate: 4.71741	4.67488e-07	3.44397
+objective, constraint, lambda estimate: 4.71729	6.21157e-07	3.44397
+objective, constraint, lambda estimate: 4.71717	-1.01492e-07	3.44397
+objective, constraint, lambda estimate: 4.71705	4.63038e-07	3.44901
+objective, constraint, lambda estimate: 4.71693	-4.40392e-07	3.44396
+objective, constraint, lambda estimate: 4.71681	-6.9407e-07	3.44396
+objective, constraint, lambda estimate: 4.71671	5.45417e-07	3.44901
+objective, constraint, lambda estimate: 4.7166	7.35355e-07	3.44733
+objective, constraint, lambda estimate: 4.71648	-1.41649e-07	3.44733
+objective, constraint, lambda estimate: 4.71636	-2.06638e-07	3.45238
+objective, constraint, lambda estimate: 4.71623	8.93426e-08	3.45912
+objective, constraint, lambda estimate: 4.7161	-2.98978e-08	3.45912
+objective, constraint, lambda estimate: 4.71598	2.51491e-07	3.45912
+objective, constraint, lambda estimate: 4.71585	-6.78936e-08	3.45912
+objective, constraint, lambda estimate: 4.71573	-9.98432e-07	3.45912
+objective, constraint, lambda estimate: 4.71561	-2.61138e-07	3.46081
+objective, constraint, lambda estimate: 4.7155	5.55089e-07	3.45575
+objective, constraint, lambda estimate: 4.7154	6.64766e-07	3.45406
+objective, constraint, lambda estimate: 4.71529	-7.23938e-07	3.45068
+objective, constraint, lambda estimate: 4.71518	-2.74817e-07	3.45911
+objective, constraint, lambda estimate: 4.71507	6.02301e-07	3.46248
+objective, constraint, lambda estimate: 4.71496	6.30828e-07	3.4608
+objective, constraint, lambda estimate: 4.71485	-2.38476e-07	3.4608
+objective, constraint, lambda estimate: 4.71473	2.04893e-07	3.46586
+objective, constraint, lambda estimate: 4.7146	-8.62374e-07	3.46586
+objective, constraint, lambda estimate: 4.71449	-6.51237e-07	3.46586
+objective, constraint, lambda estimate: 4.71437	9.81987e-08	3.46586
+objective, constraint, lambda estimate: 4.71425	-4.66658e-07	3.46079
+objective, constraint, lambda estimate: 4.71415	8.10833e-07	3.46417
+objective, constraint, lambda estimate: 4.71403	-5.11216e-07	3.46079
+objective, constraint, lambda estimate: 4.71392	7.19207e-07	3.46924
+objective, constraint, lambda estimate: 4.7138	-2.14542e-07	3.46586
+objective, constraint, lambda estimate: 4.71368	5.8667e-08	3.47263
+objective, constraint, lambda estimate: 4.71356	-2.31478e-07	3.47433
+objective, constraint, lambda estimate: 4.71345	8.47132e-07	3.47772
+objective, constraint, lambda estimate: 4.71333	-7.19008e-07	3.47263
+objective, constraint, lambda estimate: 4.71323	5.56426e-07	3.47772
+objective, constraint, lambda estimate: 4.71312	3.38761e-07	3.47263
+objective, constraint, lambda estimate: 4.71302	7.91984e-07	3.47093
+objective, constraint, lambda estimate: 4.71292	-1.84942e-07	3.46754
+objective, constraint, lambda estimate: 4.71282	-1.17346e-07	3.46754
+objective, constraint, lambda estimate: 4.71273	2.21125e-07	3.46754
+objective, constraint, lambda estimate: 4.71263	-6.32317e-07	3.46415
+objective, constraint, lambda estimate: 4.71254	2.95902e-07	3.46754
+objective, constraint, lambda estimate: 4.71245	-5.8024e-07	3.46415
+objective, constraint, lambda estimate: 4.71236	4.16909e-07	3.46923
+objective, constraint, lambda estimate: 4.71227	5.38426e-07	3.46754
+objective, constraint, lambda estimate: 4.71218	3.21767e-07	3.46754
+objective, constraint, lambda estimate: 4.71209	7.71109e-07	3.47092
+objective, constraint, lambda estimate: 4.71199	-1.23539e-07	3.47092
+objective, constraint, lambda estimate: 4.7119	7.04269e-07	3.47601
+objective, constraint, lambda estimate: 4.71179	-1.07087e-08	3.47601
+objective, constraint, lambda estimate: 4.71168	2.84118e-07	3.4811
+objective, constraint, lambda estimate: 4.71158	-1.80242e-08	3.4811
+objective, constraint, lambda estimate: 4.71148	-7.6149e-08	3.4811
+objective, constraint, lambda estimate: 4.71138	-2.43763e-07	3.4777
+objective, constraint, lambda estimate: 4.7113	-2.40243e-07	3.4743
+objective, constraint, lambda estimate: 4.71121	6.11357e-07	3.4743
+objective, constraint, lambda estimate: 4.71112	-7.66775e-07	3.47091
+objective, constraint, lambda estimate: 4.71103	3.60187e-07	3.476
+objective, constraint, lambda estimate: 4.71094	-6.44433e-07	3.46921
+objective, constraint, lambda estimate: 4.71086	-2.15539e-07	3.46921
+objective, constraint, lambda estimate: 4.71077	-7.69134e-07	3.46921
+objective, constraint, lambda estimate: 4.71069	5.70371e-07	3.476
+objective, constraint, lambda estimate: 4.7106	5.72426e-07	3.476
+objective, constraint, lambda estimate: 4.71051	-4.15207e-07	3.47091
+objective, constraint, lambda estimate: 4.71043	5.32153e-07	3.476
+objective, constraint, lambda estimate: 4.71034	8.24908e-07	3.476
+objective, constraint, lambda estimate: 4.71024	-7.59463e-07	3.476
+objective, constraint, lambda estimate: 4.71015	3.0421e-08	3.48279
+objective, constraint, lambda estimate: 4.71005	4.08893e-07	3.48279
+objective, constraint, lambda estimate: 4.70996	6.23315e-07	3.48279
+objective, constraint, lambda estimate: 4.70986	8.10004e-08	3.48279
+objective, constraint, lambda estimate: 4.70975	3.78925e-07	3.48789
+objective, constraint, lambda estimate: 4.70966	4.47738e-07	3.48278
+objective, constraint, lambda estimate: 4.70957	-7.37634e-07	3.47768
+objective, constraint, lambda estimate: 4.70948	4.09924e-07	3.48617
+objective, constraint, lambda estimate: 4.70938	7.78361e-07	3.48617
+objective, constraint, lambda estimate: 4.70928	8.89964e-07	3.48617
+objective, constraint, lambda estimate: 4.70919	5.47625e-07	3.48617
+objective, constraint, lambda estimate: 4.70909	-6.07454e-07	3.48617
+objective, constraint, lambda estimate: 4.709	-6.05922e-07	3.49127
+objective, constraint, lambda estimate: 4.7089	9.3073e-07	3.49638
+objective, constraint, lambda estimate: 4.70881	-2.50935e-07	3.48955
+objective, constraint, lambda estimate: 4.70871	8.27605e-07	3.49638
+objective, constraint, lambda estimate: 4.70862	2.84446e-07	3.49467
+objective, constraint, lambda estimate: 4.70852	5.86085e-07	3.49467
+objective, constraint, lambda estimate: 4.70842	-4.02179e-07	3.49467
+objective, constraint, lambda estimate: 4.70833	-9.33902e-08	3.49979
+objective, constraint, lambda estimate: 4.70823	-5.02424e-07	3.49979
+objective, constraint, lambda estimate: 4.70813	-6.60173e-07	3.49979
+objective, constraint, lambda estimate: 4.70804	-6.70579e-07	3.49467
+objective, constraint, lambda estimate: 4.70796	4.92587e-07	3.49467
+objective, constraint, lambda estimate: 4.70787	-4.39536e-07	3.49126
+objective, constraint, lambda estimate: 4.70778	-6.52135e-07	3.49126
+objective, constraint, lambda estimate: 4.7077	7.59757e-07	3.49637
+objective, constraint, lambda estimate: 4.70761	-9.35021e-07	3.48955
+objective, constraint, lambda estimate: 4.70753	6.20751e-07	3.49467
+objective, constraint, lambda estimate: 4.70744	-2.31841e-07	3.48955
+objective, constraint, lambda estimate: 4.70735	4.9064e-07	3.49467
+objective, constraint, lambda estimate: 4.70726	-3.83187e-07	3.49126
+objective, constraint, lambda estimate: 4.70718	3.48437e-07	3.49467
+objective, constraint, lambda estimate: 4.7071	4.05815e-07	3.49467
+objective, constraint, lambda estimate: 4.70701	4.01248e-07	3.49808
+objective, constraint, lambda estimate: 4.70692	-7.07664e-07	3.49808
+objective, constraint, lambda estimate: 4.70683	9.58616e-07	3.50321
+objective, constraint, lambda estimate: 4.70674	-7.56425e-07	3.49637
+objective, constraint, lambda estimate: 4.70666	-6.41941e-07	3.49808
+objective, constraint, lambda estimate: 4.70658	5.24634e-07	3.5015
+objective, constraint, lambda estimate: 4.7065	-3.34847e-07	3.49637
+objective, constraint, lambda estimate: 4.70641	-3.71638e-07	3.49808
+objective, constraint, lambda estimate: 4.70633	9.11508e-07	3.50321
+objective, constraint, lambda estimate: 4.70624	-7.81247e-07	3.49637
+objective, constraint, lambda estimate: 4.70617	6.23975e-07	3.50321
+objective, constraint, lambda estimate: 4.70608	-9.54966e-07	3.49637
+objective, constraint, lambda estimate: 4.706	6.75789e-07	3.50662
+objective, constraint, lambda estimate: 4.70592	-1.94059e-08	3.50321
+objective, constraint, lambda estimate: 4.70584	-6.26965e-07	3.50321
+objective, constraint, lambda estimate: 4.70576	-9.02248e-07	3.50321
+objective, constraint, lambda estimate: 4.70569	-2.66435e-07	3.50321
+objective, constraint, lambda estimate: 4.70562	4.23502e-07	3.5015
+objective, constraint, lambda estimate: 4.70554	5.88267e-07	3.5015
+objective, constraint, lambda estimate: 4.70546	5.93164e-07	3.50492
+objective, constraint, lambda estimate: 4.70538	-6.55644e-08	3.50492
+objective, constraint, lambda estimate: 4.7053	-6.25504e-07	3.50492
+objective, constraint, lambda estimate: 4.70523	-1.36297e-07	3.50492
+objective, constraint, lambda estimate: 4.70515	1.09537e-07	3.50492
+objective, constraint, lambda estimate: 4.70508	-5.32766e-07	3.50492
+objective, constraint, lambda estimate: 4.70501	4.42646e-07	3.51005
+objective, constraint, lambda estimate: 4.70493	8.50083e-07	3.51005
+Total Steps: 280, Runtime: 6.2, Compliance loss 9.437749
+Total Steps: 281, Runtime: 6.2, Compliance loss 9.437510
+Total Steps: 282, Runtime: 6.9, Compliance loss 9.437255
+Total Steps: 283, Runtime: 6.3, Compliance loss 9.436981
+Total Steps: 284, Runtime: 6.3, Compliance loss 9.436717
+Total Steps: 285, Runtime: 6.2, Compliance loss 9.436467
+Total Steps: 286, Runtime: 6.8, Compliance loss 9.436222
+Total Steps: 287, Runtime: 6.2, Compliance loss 9.435993
+Total Steps: 288, Runtime: 6.9, Compliance loss 9.435751
+Total Steps: 289, Runtime: 7.0, Compliance loss 9.435521
+Total Steps: 290, Runtime: 6.3, Compliance loss 9.435286
+Total Steps: 291, Runtime: 6.9, Compliance loss 9.435053
+Total Steps: 292, Runtime: 6.3, Compliance loss 9.434815
+Total Steps: 293, Runtime: 6.2, Compliance loss 9.434582
+Total Steps: 294, Runtime: 6.3, Compliance loss 9.434336
+Total Steps: 295, Runtime: 6.9, Compliance loss 9.434094
+Total Steps: 296, Runtime: 6.8, Compliance loss 9.433854
+Total Steps: 297, Runtime: 6.2, Compliance loss 9.433630
+Total Steps: 298, Runtime: 6.9, Compliance loss 9.433415
+Total Steps: 299, Runtime: 6.4, Compliance loss 9.433193
+Total Steps: 300, Runtime: 6.1, Compliance loss 9.432956
+Total Steps: 301, Runtime: 6.8, Compliance loss 9.432714
+Total Steps: 302, Runtime: 6.9, Compliance loss 9.432458
+Total Steps: 303, Runtime: 6.2, Compliance loss 9.432200
+Total Steps: 304, Runtime: 6.2, Compliance loss 9.431956
+Total Steps: 305, Runtime: 6.2, Compliance loss 9.431708
+Total Steps: 306, Runtime: 6.2, Compliance loss 9.431454
+Total Steps: 307, Runtime: 6.3, Compliance loss 9.431221
+Total Steps: 308, Runtime: 6.8, Compliance loss 9.431009
+Total Steps: 309, Runtime: 6.4, Compliance loss 9.430797
+Total Steps: 310, Runtime: 6.8, Compliance loss 9.430580
+Total Steps: 311, Runtime: 6.8, Compliance loss 9.430364
+Total Steps: 312, Runtime: 6.3, Compliance loss 9.430147
+Total Steps: 313, Runtime: 6.3, Compliance loss 9.429925
+Total Steps: 314, Runtime: 6.2, Compliance loss 9.429692
+Total Steps: 315, Runtime: 6.8, Compliance loss 9.429460
+Total Steps: 316, Runtime: 6.2, Compliance loss 9.429207
+Total Steps: 317, Runtime: 6.2, Compliance loss 9.428971
+Total Steps: 318, Runtime: 6.2, Compliance loss 9.428741
+Total Steps: 319, Runtime: 6.8, Compliance loss 9.428508
+Total Steps: 320, Runtime: 6.9, Compliance loss 9.428292
+Total Steps: 321, Runtime: 5.3, Compliance loss 9.428060
+Total Steps: 322, Runtime: 6.7, Compliance loss 9.427839
+Total Steps: 323, Runtime: 6.3, Compliance loss 9.427605
+Total Steps: 324, Runtime: 6.9, Compliance loss 9.427369
+Total Steps: 325, Runtime: 4.8, Compliance loss 9.427127
+Total Steps: 326, Runtime: 6.9, Compliance loss 9.426900
+Total Steps: 327, Runtime: 5.3, Compliance loss 9.426665
+Total Steps: 328, Runtime: 6.9, Compliance loss 9.426453
+Total Steps: 329, Runtime: 5.3, Compliance loss 9.426241
+Total Steps: 330, Runtime: 6.3, Compliance loss 9.426044
+Total Steps: 331, Runtime: 5.4, Compliance loss 9.425838
+Total Steps: 332, Runtime: 6.2, Compliance loss 9.425647
+Total Steps: 333, Runtime: 4.7, Compliance loss 9.425459
+Total Steps: 334, Runtime: 5.3, Compliance loss 9.425265
+Total Steps: 335, Runtime: 5.4, Compliance loss 9.425087
+Total Steps: 336, Runtime: 6.9, Compliance loss 9.424900
+Total Steps: 337, Runtime: 5.3, Compliance loss 9.424724
+Total Steps: 338, Runtime: 4.8, Compliance loss 9.424543
+Total Steps: 339, Runtime: 4.7, Compliance loss 9.424361
+Total Steps: 340, Runtime: 6.9, Compliance loss 9.424179
+Total Steps: 341, Runtime: 4.7, Compliance loss 9.423980
+Total Steps: 342, Runtime: 5.4, Compliance loss 9.423790
+Total Steps: 343, Runtime: 4.8, Compliance loss 9.423579
+Total Steps: 344, Runtime: 6.9, Compliance loss 9.423369
+Total Steps: 345, Runtime: 4.7, Compliance loss 9.423156
+Total Steps: 346, Runtime: 4.7, Compliance loss 9.422956
+Total Steps: 347, Runtime: 5.4, Compliance loss 9.422770
+Total Steps: 348, Runtime: 5.3, Compliance loss 9.422594
+Total Steps: 349, Runtime: 4.7, Compliance loss 9.422427
+1000_voxelfem_optim-OC_320x160x80_3500_bridgeS88_Vol0.4_iter349.vtr has been saved to logs/images/gt/1000/.
+Total Steps: 350, Runtime: 5.2, Compliance loss 9.422239
+Total Steps: 351, Runtime: 5.3, Compliance loss 9.422068
+Total Steps: 352, Runtime: 5.2, Compliance loss 9.421885
+Total Steps: 353, Runtime: 4.7, Compliance loss 9.421717
+Total Steps: 354, Runtime: 4.7, Compliance loss 9.421543
+Total Steps: 355, Runtime: 5.3, Compliance loss 9.421374
+Total Steps: 356, Runtime: 4.7, Compliance loss 9.421193
+Total Steps: 357, Runtime: 6.8, Compliance loss 9.421016
+Total Steps: 358, Runtime: 5.3, Compliance loss 9.420851
+Total Steps: 359, Runtime: 6.2, Compliance loss 9.420678
+Total Steps: 360, Runtime: 4.7, Compliance loss 9.420485
+Total Steps: 361, Runtime: 6.8, Compliance loss 9.420300
+Total Steps: 362, Runtime: 4.8, Compliance loss 9.420109
+Total Steps: 363, Runtime: 6.2, Compliance loss 9.419915
+Total Steps: 364, Runtime: 4.7, Compliance loss 9.419712
+Total Steps: 365, Runtime: 6.9, Compliance loss 9.419508
+Total Steps: 366, Runtime: 5.2, Compliance loss 9.419322
+Total Steps: 367, Runtime: 6.8, Compliance loss 9.419133
+Total Steps: 368, Runtime: 6.8, Compliance loss 9.418953
+Total Steps: 369, Runtime: 6.2, Compliance loss 9.418762
+Total Steps: 370, Runtime: 6.2, Compliance loss 9.418569
+Total Steps: 371, Runtime: 6.2, Compliance loss 9.418379
+Total Steps: 372, Runtime: 6.2, Compliance loss 9.418184
+Total Steps: 373, Runtime: 6.2, Compliance loss 9.417991
+Total Steps: 374, Runtime: 6.8, Compliance loss 9.417808
+Total Steps: 375, Runtime: 5.3, Compliance loss 9.417611
+Total Steps: 376, Runtime: 6.8, Compliance loss 9.417428
+Total Steps: 377, Runtime: 6.3, Compliance loss 9.417231
+Total Steps: 378, Runtime: 6.2, Compliance loss 9.417047
+Total Steps: 379, Runtime: 4.7, Compliance loss 9.416848
+Total Steps: 380, Runtime: 6.8, Compliance loss 9.416656
+Total Steps: 381, Runtime: 4.7, Compliance loss 9.416456
+Total Steps: 382, Runtime: 6.2, Compliance loss 9.416259
+Total Steps: 383, Runtime: 5.3, Compliance loss 9.416075
+Total Steps: 384, Runtime: 4.6, Compliance loss 9.415913
+Total Steps: 385, Runtime: 5.3, Compliance loss 9.415732
+Total Steps: 386, Runtime: 4.6, Compliance loss 9.415558
+Total Steps: 387, Runtime: 5.3, Compliance loss 9.415396
+Total Steps: 388, Runtime: 5.3, Compliance loss 9.415210
+Total Steps: 389, Runtime: 5.4, Compliance loss 9.415051
+Total Steps: 390, Runtime: 5.2, Compliance loss 9.414873
+Total Steps: 391, Runtime: 5.4, Compliance loss 9.414705
+Total Steps: 392, Runtime: 5.4, Compliance loss 9.414529
+Total Steps: 393, Runtime: 5.4, Compliance loss 9.414367
+Total Steps: 394, Runtime: 4.7, Compliance loss 9.414198
+Total Steps: 395, Runtime: 5.4, Compliance loss 9.414022
+Total Steps: 396, Runtime: 4.7, Compliance loss 9.413832
+Total Steps: 397, Runtime: 5.3, Compliance loss 9.413666
+Total Steps: 398, Runtime: 5.3, Compliance loss 9.413482
+Total Steps: 399, Runtime: 4.7, Compliance loss 9.413320
+Total Steps: 400, Runtime: 5.3, Compliance loss 9.413163
+Total Steps: 401, Runtime: 5.3, Compliance loss 9.412991
+Total Steps: 402, Runtime: 4.8, Compliance loss 9.412823
+Total Steps: 403, Runtime: 5.3, Compliance loss 9.412663
+Total Steps: 404, Runtime: 5.2, Compliance loss 9.412486
+Total Steps: 405, Runtime: 5.4, Compliance loss 9.412335
+Total Steps: 406, Runtime: 5.3, Compliance loss 9.412163
+Total Steps: 407, Runtime: 6.8, Compliance loss 9.412008
+Total Steps: 408, Runtime: 6.3, Compliance loss 9.411837
+Total Steps: 409, Runtime: 4.7, Compliance loss 9.411675
+Total Steps: 410, Runtime: 4.7, Compliance loss 9.411521
+Total Steps: 411, Runtime: 4.7, Compliance loss 9.411379
+Total Steps: 412, Runtime: 4.8, Compliance loss 9.411238
+Total Steps: 413, Runtime: 4.7, Compliance loss 9.411088
+Total Steps: 414, Runtime: 5.3, Compliance loss 9.410926
+Total Steps: 415, Runtime: 4.6, Compliance loss 9.410758
+Total Steps: 416, Runtime: 4.7, Compliance loss 9.410597
+Total Steps: 417, Runtime: 4.7, Compliance loss 9.410454
+Total Steps: 418, Runtime: 4.7, Compliance loss 9.410310
+Total Steps: 419, Runtime: 4.6, Compliance loss 9.410158
+Total Steps: 420, Runtime: 5.3, Compliance loss 9.410014
+Total Steps: 421, Runtime: 4.7, Compliance loss 9.409863
+objective, constraint, lambda estimate: 4.70485	-7.38417e-07	3.5032
+objective, constraint, lambda estimate: 4.70478	4.3702e-07	3.51005
+objective, constraint, lambda estimate: 4.70471	4.72602e-07	3.50834
+objective, constraint, lambda estimate: 4.70463	3.22194e-07	3.50834
+objective, constraint, lambda estimate: 4.70455	1.51823e-07	3.50834
+objective, constraint, lambda estimate: 4.70447	6.52541e-07	3.50834
+objective, constraint, lambda estimate: 4.70439	1.70485e-07	3.5032
+objective, constraint, lambda estimate: 4.70432	1.58963e-07	3.5032
+objective, constraint, lambda estimate: 4.70425	1.56673e-07	3.5032
+objective, constraint, lambda estimate: 4.70417	-5.21818e-07	3.50491
+objective, constraint, lambda estimate: 4.70411	8.641e-07	3.51005
+objective, constraint, lambda estimate: 4.70404	9.89974e-07	3.51005
+objective, constraint, lambda estimate: 4.70396	3.313e-07	3.51005
+objective, constraint, lambda estimate: 4.70389	6.61436e-07	3.51519
+objective, constraint, lambda estimate: 4.70382	-5.65669e-07	3.51176
+objective, constraint, lambda estimate: 4.70375	-2.81662e-07	3.51691
+objective, constraint, lambda estimate: 4.70368	9.45194e-07	3.52378
+objective, constraint, lambda estimate: 4.7036	8.77413e-07	3.52378
+objective, constraint, lambda estimate: 4.70352	4.62463e-07	3.52378
+objective, constraint, lambda estimate: 4.70344	-6.51575e-07	3.51862
+objective, constraint, lambda estimate: 4.70337	3.69367e-07	3.52378
+objective, constraint, lambda estimate: 4.7033	-1.22922e-07	3.5169
+objective, constraint, lambda estimate: 4.70323	3.31839e-07	3.51518
+objective, constraint, lambda estimate: 4.70317	-1.65321e-07	3.51003
+objective, constraint, lambda estimate: 4.70311	-1.28746e-07	3.51003
+objective, constraint, lambda estimate: 4.70306	2.15025e-07	3.51003
+objective, constraint, lambda estimate: 4.703	1.17079e-07	3.51003
+objective, constraint, lambda estimate: 4.70293	-5.92469e-07	3.51175
+objective, constraint, lambda estimate: 4.70287	-3.63391e-07	3.51689
+objective, constraint, lambda estimate: 4.70281	-5.25336e-07	3.51689
+objective, constraint, lambda estimate: 4.70274	-6.49108e-07	3.51689
+objective, constraint, lambda estimate: 4.70267	-6.62068e-07	3.51861
+objective, constraint, lambda estimate: 4.70261	-2.69983e-07	3.51861
+objective, constraint, lambda estimate: 4.70255	9.28319e-07	3.52376
+objective, constraint, lambda estimate: 4.70248	6.60794e-07	3.52204
+objective, constraint, lambda estimate: 4.70241	4.93356e-07	3.52204
+objective, constraint, lambda estimate: 4.70234	-9.44096e-07	3.51689
+objective, constraint, lambda estimate: 4.70227	5.254e-07	3.52376
+objective, constraint, lambda estimate: 4.7022	-7.13601e-07	3.51689
+objective, constraint, lambda estimate: 4.70214	9.8953e-07	3.52376
+objective, constraint, lambda estimate: 4.70207	-8.54101e-07	3.51345
+objective, constraint, lambda estimate: 4.70201	9.00108e-07	3.52376
+objective, constraint, lambda estimate: 4.70194	-6.17878e-07	3.51689
+objective, constraint, lambda estimate: 4.70187	-3.70337e-07	3.52376
+objective, constraint, lambda estimate: 4.7018	3.22998e-07	3.52376
+objective, constraint, lambda estimate: 4.70173	3.62139e-07	3.52376
+objective, constraint, lambda estimate: 4.70166	5.56527e-07	3.52376
+objective, constraint, lambda estimate: 4.7016	-7.25649e-07	3.51689
+objective, constraint, lambda estimate: 4.70154	9.85901e-07	3.52376
+objective, constraint, lambda estimate: 4.70148	-5.86296e-07	3.51689
+objective, constraint, lambda estimate: 4.70142	5.9487e-07	3.52204
+objective, constraint, lambda estimate: 4.70135	-3.25534e-07	3.51689
+objective, constraint, lambda estimate: 4.70129	-4.43145e-07	3.51689
+objective, constraint, lambda estimate: 4.70124	3.52807e-08	3.51689
+objective, constraint, lambda estimate: 4.70118	6.01102e-07	3.51689
+objective, constraint, lambda estimate: 4.70112	2.53386e-07	3.51689
+objective, constraint, lambda estimate: 4.70106	-5.37443e-08	3.51689
+objective, constraint, lambda estimate: 4.70101	6.08428e-07	3.52376
+objective, constraint, lambda estimate: 4.70095	9.51185e-07	3.52376
+objective, constraint, lambda estimate: 4.70088	8.0459e-07	3.52376
+objective, constraint, lambda estimate: 4.70082	3.60889e-07	3.52204
+objective, constraint, lambda estimate: 4.70075	1.62999e-07	3.52204
+objective, constraint, lambda estimate: 4.70069	-1.55319e-07	3.52204
+objective, constraint, lambda estimate: 4.70062	6.12284e-07	3.5272
+objective, constraint, lambda estimate: 4.70056	-4.23952e-07	3.52204
+objective, constraint, lambda estimate: 4.7005	6.8065e-07	3.5272
+objective, constraint, lambda estimate: 4.70043	-3.18422e-07	3.52032
+objective, constraint, lambda estimate: 4.70037	3.87162e-07	3.52548
+objective, constraint, lambda estimate: 4.70031	4.42621e-07	3.52548
+objective, constraint, lambda estimate: 4.70024	-1.13057e-07	3.52548
+objective, constraint, lambda estimate: 4.70017	-3.02205e-07	3.52548
+objective, constraint, lambda estimate: 4.7001	-6.41079e-07	3.52204
+objective, constraint, lambda estimate: 4.70004	5.35392e-07	3.5272
+objective, constraint, lambda estimate: 4.69998	-5.66011e-07	3.52204
+objective, constraint, lambda estimate: 4.69992	1.30703e-07	3.5272
+objective, constraint, lambda estimate: 4.69986	3.34995e-07	3.5272
+objective, constraint, lambda estimate: 4.6998	9.35822e-07	3.5272
+objective, constraint, lambda estimate: 4.69973	4.13568e-07	3.5272
+objective, constraint, lambda estimate: 4.69966	-3.88663e-07	3.5272
+objective, constraint, lambda estimate: 4.6996	-7.71564e-07	3.5272
+objective, constraint, lambda estimate: 4.69954	5.71311e-07	3.5272
+objective, constraint, lambda estimate: 4.69949	9.63291e-08	3.52032
+objective, constraint, lambda estimate: 4.69943	-5.82776e-07	3.52032
+objective, constraint, lambda estimate: 4.69938	6.89753e-07	3.5272
+objective, constraint, lambda estimate: 4.69931	-6.74808e-07	3.5272
+objective, constraint, lambda estimate: 4.69924	-2.95912e-07	3.53409
+objective, constraint, lambda estimate: 4.69918	-9.15876e-07	3.5272
+objective, constraint, lambda estimate: 4.69912	-4.85341e-07	3.5272
+objective, constraint, lambda estimate: 4.69907	3.76029e-07	3.5272
+objective, constraint, lambda estimate: 4.69901	-7.04146e-07	3.52031
+objective, constraint, lambda estimate: 4.69896	-8.99814e-07	3.52031
+objective, constraint, lambda estimate: 4.69892	7.98419e-09	3.52031
+objective, constraint, lambda estimate: 4.69887	-1.34713e-07	3.52031
+objective, constraint, lambda estimate: 4.69882	-5.57475e-07	3.52203
+objective, constraint, lambda estimate: 4.69877	2.46057e-07	3.52719
+objective, constraint, lambda estimate: 4.69872	-9.8826e-07	3.52031
+objective, constraint, lambda estimate: 4.69867	9.18318e-07	3.53063
+objective, constraint, lambda estimate: 4.69862	4.67082e-07	3.52547
+objective, constraint, lambda estimate: 4.69857	4.95144e-07	3.53063
+objective, constraint, lambda estimate: 4.69851	3.3801e-07	3.53063
+objective, constraint, lambda estimate: 4.69846	5.26199e-07	3.52891
+objective, constraint, lambda estimate: 4.69841	3.22409e-07	3.52891
+objective, constraint, lambda estimate: 4.69835	6.66991e-07	3.53408
+objective, constraint, lambda estimate: 4.69828	-4.21537e-07	3.53581
+objective, constraint, lambda estimate: 4.69822	-2.16161e-07	3.54099
+objective, constraint, lambda estimate: 4.69816	4.42324e-07	3.54099
+objective, constraint, lambda estimate: 4.6981	8.69317e-07	3.54099
+objective, constraint, lambda estimate: 4.69804	-4.53991e-07	3.5358
+objective, constraint, lambda estimate: 4.69799	5.36376e-07	3.53926
+objective, constraint, lambda estimate: 4.69793	-3.08535e-07	3.53408
+objective, constraint, lambda estimate: 4.69788	-5.22651e-07	3.53408
+objective, constraint, lambda estimate: 4.69783	-2.96275e-07	3.53408
+objective, constraint, lambda estimate: 4.69779	5.53685e-07	3.53408
+objective, constraint, lambda estimate: 4.69774	6.32962e-07	3.53408
+objective, constraint, lambda estimate: 4.69769	-4.14146e-07	3.53408
+objective, constraint, lambda estimate: 4.69764	-8.90091e-07	3.53408
+objective, constraint, lambda estimate: 4.69759	-4.77654e-07	3.5358
+objective, constraint, lambda estimate: 4.69754	-1.00423e-07	3.5358
+objective, constraint, lambda estimate: 4.6975	2.10814e-08	3.53062
+objective, constraint, lambda estimate: 4.69745	-4.78979e-07	3.53062
+objective, constraint, lambda estimate: 4.69741	9.87739e-07	3.53753
+objective, constraint, lambda estimate: 4.69736	-4.06542e-07	3.53062
+objective, constraint, lambda estimate: 4.69731	5.9206e-07	3.53753
+objective, constraint, lambda estimate: 4.69726	-5.98021e-07	3.53062
+objective, constraint, lambda estimate: 4.69722	4.89084e-07	3.54098
+objective, constraint, lambda estimate: 4.69717	5.59804e-07	3.53753
+objective, constraint, lambda estimate: 4.69712	-9.59316e-07	3.53062
+objective, constraint, lambda estimate: 4.69708	4.67117e-07	3.54098
+objective, constraint, lambda estimate: 4.69703	-3.55247e-08	3.53753
+objective, constraint, lambda estimate: 4.69699	9.98135e-07	3.53753
+objective, constraint, lambda estimate: 4.69695	-2.02871e-07	3.53062
+objective, constraint, lambda estimate: 4.69691	5.34032e-07	3.5358
+objective, constraint, lambda estimate: 4.69686	-5.15397e-07	3.53062
+objective, constraint, lambda estimate: 4.69682	-1.21824e-07	3.53753
+objective, constraint, lambda estimate: 4.69678	-2.52382e-07	3.53753
+objective, constraint, lambda estimate: 4.69673	-4.56176e-07	3.53753
+objective, constraint, lambda estimate: 4.69668	-4.22243e-07	3.53925
+objective, constraint, lambda estimate: 4.69664	8.43826e-07	3.54444
+objective, constraint, lambda estimate: 4.69658	-7.98217e-07	3.53752
+objective, constraint, lambda estimate: 4.69654	1.99191e-07	3.54444
+objective, constraint, lambda estimate: 4.69649	4.71249e-07	3.54444
+objective, constraint, lambda estimate: 4.69643	-2.19754e-07	3.54444
+objective, constraint, lambda estimate: 4.69638	-9.50724e-07	3.54444
+objective, constraint, lambda estimate: 4.69633	-7.9861e-07	3.54444
+Total Steps: 422, Runtime: 5.2, Compliance loss 9.409706
+Total Steps: 423, Runtime: 5.3, Compliance loss 9.409565
+Total Steps: 424, Runtime: 4.7, Compliance loss 9.409411
+Total Steps: 425, Runtime: 4.7, Compliance loss 9.409252
+Total Steps: 426, Runtime: 4.7, Compliance loss 9.409092
+Total Steps: 427, Runtime: 4.7, Compliance loss 9.408940
+Total Steps: 428, Runtime: 5.3, Compliance loss 9.408789
+Total Steps: 429, Runtime: 4.7, Compliance loss 9.408643
+Total Steps: 430, Runtime: 4.8, Compliance loss 9.408500
+Total Steps: 431, Runtime: 4.7, Compliance loss 9.408346
+Total Steps: 432, Runtime: 5.3, Compliance loss 9.408213
+Total Steps: 433, Runtime: 4.7, Compliance loss 9.408071
+Total Steps: 434, Runtime: 4.7, Compliance loss 9.407923
+Total Steps: 435, Runtime: 5.3, Compliance loss 9.407779
+Total Steps: 436, Runtime: 5.3, Compliance loss 9.407631
+Total Steps: 437, Runtime: 5.3, Compliance loss 9.407492
+Total Steps: 438, Runtime: 5.3, Compliance loss 9.407351
+Total Steps: 439, Runtime: 4.7, Compliance loss 9.407195
+Total Steps: 440, Runtime: 4.6, Compliance loss 9.407034
+Total Steps: 441, Runtime: 5.3, Compliance loss 9.406877
+Total Steps: 442, Runtime: 5.3, Compliance loss 9.406737
+Total Steps: 443, Runtime: 5.3, Compliance loss 9.406594
+Total Steps: 444, Runtime: 4.8, Compliance loss 9.406470
+Total Steps: 445, Runtime: 5.2, Compliance loss 9.406346
+Total Steps: 446, Runtime: 4.7, Compliance loss 9.406228
+Total Steps: 447, Runtime: 4.6, Compliance loss 9.406115
+Total Steps: 448, Runtime: 4.7, Compliance loss 9.405997
+Total Steps: 449, Runtime: 4.9, Compliance loss 9.405870
+Total Steps: 450, Runtime: 5.3, Compliance loss 9.405743
+Total Steps: 451, Runtime: 4.7, Compliance loss 9.405611
+Total Steps: 452, Runtime: 4.6, Compliance loss 9.405480
+Total Steps: 453, Runtime: 4.9, Compliance loss 9.405350
+Total Steps: 454, Runtime: 4.7, Compliance loss 9.405226
+Total Steps: 455, Runtime: 5.3, Compliance loss 9.405104
+Total Steps: 456, Runtime: 4.8, Compliance loss 9.404964
+Total Steps: 457, Runtime: 4.7, Compliance loss 9.404825
+Total Steps: 458, Runtime: 5.3, Compliance loss 9.404676
+Total Steps: 459, Runtime: 5.4, Compliance loss 9.404546
+Total Steps: 460, Runtime: 5.2, Compliance loss 9.404397
+Total Steps: 461, Runtime: 5.3, Compliance loss 9.404275
+Total Steps: 462, Runtime: 5.1, Compliance loss 9.404133
+Total Steps: 463, Runtime: 5.3, Compliance loss 9.404015
+Total Steps: 464, Runtime: 5.2, Compliance loss 9.403872
+Total Steps: 465, Runtime: 5.3, Compliance loss 9.403732
+Total Steps: 466, Runtime: 4.7, Compliance loss 9.403596
+Total Steps: 467, Runtime: 4.7, Compliance loss 9.403454
+Total Steps: 468, Runtime: 4.7, Compliance loss 9.403323
+Total Steps: 469, Runtime: 5.2, Compliance loss 9.403194
+Total Steps: 470, Runtime: 5.3, Compliance loss 9.403087
+Total Steps: 471, Runtime: 5.2, Compliance loss 9.402953
+Total Steps: 472, Runtime: 5.4, Compliance loss 9.402838
+Total Steps: 473, Runtime: 5.2, Compliance loss 9.402709
+Total Steps: 474, Runtime: 4.7, Compliance loss 9.402586
+Total Steps: 475, Runtime: 4.7, Compliance loss 9.402470
+Total Steps: 476, Runtime: 4.7, Compliance loss 9.402360
+Total Steps: 477, Runtime: 4.7, Compliance loss 9.402242
+Total Steps: 478, Runtime: 4.7, Compliance loss 9.402130
+Total Steps: 479, Runtime: 5.3, Compliance loss 9.402015
+Total Steps: 480, Runtime: 4.7, Compliance loss 9.401895
+Total Steps: 481, Runtime: 4.6, Compliance loss 9.401767
+Total Steps: 482, Runtime: 4.7, Compliance loss 9.401638
+Total Steps: 483, Runtime: 4.7, Compliance loss 9.401509
+Total Steps: 484, Runtime: 4.7, Compliance loss 9.401376
+Total Steps: 485, Runtime: 5.5, Compliance loss 9.401248
+Total Steps: 486, Runtime: 5.3, Compliance loss 9.401111
+Total Steps: 487, Runtime: 5.4, Compliance loss 9.400992
+Total Steps: 488, Runtime: 5.2, Compliance loss 9.400861
+Total Steps: 489, Runtime: 5.3, Compliance loss 9.400741
+Total Steps: 490, Runtime: 4.6, Compliance loss 9.400611
+Total Steps: 491, Runtime: 4.6, Compliance loss 9.400472
+Total Steps: 492, Runtime: 4.7, Compliance loss 9.400335
+Total Steps: 493, Runtime: 5.3, Compliance loss 9.400204
+Total Steps: 494, Runtime: 5.3, Compliance loss 9.400086
+Total Steps: 495, Runtime: 5.3, Compliance loss 9.399954
+Total Steps: 496, Runtime: 5.3, Compliance loss 9.399837
+Total Steps: 497, Runtime: 4.6, Compliance loss 9.399711
+Total Steps: 498, Runtime: 4.6, Compliance loss 9.399590
+Total Steps: 499, Runtime: 4.7, Compliance loss 9.399457
+Total Steps: 500, Runtime: 4.7, Compliance loss 9.399320
+Total Steps: 501, Runtime: 6.2, Compliance loss 9.399194
+Total Steps: 502, Runtime: 4.7, Compliance loss 9.399090
+Total Steps: 503, Runtime: 5.2, Compliance loss 9.398980
+Total Steps: 504, Runtime: 4.7, Compliance loss 9.398868
+Total Steps: 505, Runtime: 5.3, Compliance loss 9.398761
+Total Steps: 506, Runtime: 4.7, Compliance loss 9.398619
+Total Steps: 507, Runtime: 5.3, Compliance loss 9.398485
+Total Steps: 508, Runtime: 5.2, Compliance loss 9.398355
+Total Steps: 509, Runtime: 4.6, Compliance loss 9.398241
+Total Steps: 510, Runtime: 6.2, Compliance loss 9.398139
+Total Steps: 511, Runtime: 5.2, Compliance loss 9.398029
+Total Steps: 512, Runtime: 4.7, Compliance loss 9.397929
+Total Steps: 513, Runtime: 4.7, Compliance loss 9.397841
+Total Steps: 514, Runtime: 6.2, Compliance loss 9.397740
+Total Steps: 515, Runtime: 4.8, Compliance loss 9.397637
+Total Steps: 516, Runtime: 5.3, Compliance loss 9.397539
+Total Steps: 517, Runtime: 6.8, Compliance loss 9.397432
+Total Steps: 518, Runtime: 5.3, Compliance loss 9.397343
+Total Steps: 519, Runtime: 4.7, Compliance loss 9.397238
+Total Steps: 520, Runtime: 5.3, Compliance loss 9.397130
+Total Steps: 521, Runtime: 4.7, Compliance loss 9.397023
+Total Steps: 522, Runtime: 4.8, Compliance loss 9.396922
+Total Steps: 523, Runtime: 4.6, Compliance loss 9.396814
+Total Steps: 524, Runtime: 5.3, Compliance loss 9.396703
+Total Steps: 525, Runtime: 4.9, Compliance loss 9.396569
+Total Steps: 526, Runtime: 5.3, Compliance loss 9.396440
+Total Steps: 527, Runtime: 4.6, Compliance loss 9.396317
+Total Steps: 528, Runtime: 4.7, Compliance loss 9.396199
+Total Steps: 529, Runtime: 5.3, Compliance loss 9.396072
+Total Steps: 530, Runtime: 5.4, Compliance loss 9.395972
+Total Steps: 531, Runtime: 5.2, Compliance loss 9.395861
+Total Steps: 532, Runtime: 4.7, Compliance loss 9.395757
+Total Steps: 533, Runtime: 4.7, Compliance loss 9.395663
+Total Steps: 534, Runtime: 4.7, Compliance loss 9.395579
+Total Steps: 535, Runtime: 4.7, Compliance loss 9.395487
+Total Steps: 536, Runtime: 4.7, Compliance loss 9.395380
+Total Steps: 537, Runtime: 4.7, Compliance loss 9.395275
+Total Steps: 538, Runtime: 4.7, Compliance loss 9.395180
+Total Steps: 539, Runtime: 4.6, Compliance loss 9.395083
+Total Steps: 540, Runtime: 5.3, Compliance loss 9.394993
+Total Steps: 541, Runtime: 4.7, Compliance loss 9.394898
+Total Steps: 542, Runtime: 5.3, Compliance loss 9.394815
+Total Steps: 543, Runtime: 5.3, Compliance loss 9.394711
+Total Steps: 544, Runtime: 5.4, Compliance loss 9.394623
+Total Steps: 545, Runtime: 5.2, Compliance loss 9.394522
+Total Steps: 546, Runtime: 5.3, Compliance loss 9.394433
+Total Steps: 547, Runtime: 4.8, Compliance loss 9.394341
+Total Steps: 548, Runtime: 5.2, Compliance loss 9.394243
+Total Steps: 549, Runtime: 5.2, Compliance loss 9.394163
+Total Steps: 550, Runtime: 4.7, Compliance loss 9.394067
+Total Steps: 551, Runtime: 4.7, Compliance loss 9.393988
+Total Steps: 552, Runtime: 5.3, Compliance loss 9.393894
+Total Steps: 553, Runtime: 5.4, Compliance loss 9.393816
+Total Steps: 554, Runtime: 5.2, Compliance loss 9.393725
+Total Steps: 555, Runtime: 5.3, Compliance loss 9.393641
+Total Steps: 556, Runtime: 4.7, Compliance loss 9.393551
+Total Steps: 557, Runtime: 4.7, Compliance loss 9.393460
+Total Steps: 558, Runtime: 4.7, Compliance loss 9.393365
+Total Steps: 559, Runtime: 5.3, Compliance loss 9.393275
+Total Steps: 560, Runtime: 5.2, Compliance loss 9.393163
+Total Steps: 561, Runtime: 5.3, Compliance loss 9.393073
+Total Steps: 562, Runtime: 4.8, Compliance loss 9.392973
+Total Steps: 563, Runtime: 4.7, Compliance loss 9.392862
+Total Steps: 564, Runtime: 4.6, Compliance loss 9.392753
+Total Steps: 565, Runtime: 4.7, Compliance loss 9.392654
+objective, constraint, lambda estimate: 4.69628	5.8672e-07	3.54444
+objective, constraint, lambda estimate: 4.69623	-4.97465e-07	3.53925
+objective, constraint, lambda estimate: 4.69619	8.7295e-07	3.54789
+objective, constraint, lambda estimate: 4.69614	8.15032e-07	3.54444
+objective, constraint, lambda estimate: 4.69609	7.55936e-07	3.54444
+objective, constraint, lambda estimate: 4.69604	6.66685e-07	3.54444
+objective, constraint, lambda estimate: 4.69599	-1.42741e-07	3.54444
+objective, constraint, lambda estimate: 4.69594	1.67338e-07	3.54444
+objective, constraint, lambda estimate: 4.6959	7.95107e-07	3.54444
+objective, constraint, lambda estimate: 4.69584	7.61542e-09	3.54444
+objective, constraint, lambda estimate: 4.69579	-9.81623e-07	3.54444
+objective, constraint, lambda estimate: 4.69574	5.85936e-07	3.55136
+objective, constraint, lambda estimate: 4.69569	-4.59251e-07	3.54443
+objective, constraint, lambda estimate: 4.69564	-2.63117e-07	3.54443
+objective, constraint, lambda estimate: 4.69559	-6.3386e-07	3.54443
+objective, constraint, lambda estimate: 4.69555	-2.7588e-07	3.54443
+objective, constraint, lambda estimate: 4.69551	4.75261e-07	3.54443
+objective, constraint, lambda estimate: 4.69546	2.23551e-07	3.54443
+objective, constraint, lambda estimate: 4.69541	-6.0145e-07	3.54443
+objective, constraint, lambda estimate: 4.69536	8.09107e-07	3.55136
+objective, constraint, lambda estimate: 4.6953	-4.72783e-07	3.54616
+objective, constraint, lambda estimate: 4.69525	8.57567e-07	3.55482
+objective, constraint, lambda estimate: 4.6952	-4.399e-07	3.54616
+objective, constraint, lambda estimate: 4.69515	5.84136e-07	3.55136
+objective, constraint, lambda estimate: 4.6951	-7.55067e-07	3.54443
+objective, constraint, lambda estimate: 4.69506	-8.08381e-07	3.54443
+objective, constraint, lambda estimate: 4.69502	2.13593e-09	3.54443
+objective, constraint, lambda estimate: 4.69498	-4.86859e-07	3.54443
+objective, constraint, lambda estimate: 4.69493	5.84701e-07	3.55136
+objective, constraint, lambda estimate: 4.69488	-6.24411e-07	3.54443
+objective, constraint, lambda estimate: 4.69484	9.24296e-07	3.55136
+objective, constraint, lambda estimate: 4.69479	-7.24132e-07	3.54443
+objective, constraint, lambda estimate: 4.69475	7.58821e-08	3.55136
+objective, constraint, lambda estimate: 4.6947	4.9227e-07	3.54963
+objective, constraint, lambda estimate: 4.69466	2.44778e-07	3.54963
+objective, constraint, lambda estimate: 4.69461	3.65726e-07	3.55483
+objective, constraint, lambda estimate: 4.69455	-5.01312e-07	3.55483
+objective, constraint, lambda estimate: 4.6945	-3.18923e-07	3.55483
+objective, constraint, lambda estimate: 4.69446	4.58725e-07	3.55483
+objective, constraint, lambda estimate: 4.69441	-8.42037e-07	3.54789
+objective, constraint, lambda estimate: 4.69438	6.08299e-07	3.55483
+objective, constraint, lambda estimate: 4.69433	-5.17245e-08	3.54789
+objective, constraint, lambda estimate: 4.6943	-1.40252e-07	3.54789
+objective, constraint, lambda estimate: 4.69426	8.08882e-07	3.54789
+objective, constraint, lambda estimate: 4.69422	-9.19147e-07	3.54096
+objective, constraint, lambda estimate: 4.69419	4.64723e-07	3.55135
+objective, constraint, lambda estimate: 4.69415	9.75536e-07	3.55135
+objective, constraint, lambda estimate: 4.69411	3.08539e-07	3.55135
+objective, constraint, lambda estimate: 4.69406	-9.02463e-07	3.55481
+objective, constraint, lambda estimate: 4.69402	-1.56419e-07	3.56174
+objective, constraint, lambda estimate: 4.69397	-9.74608e-09	3.56174
+objective, constraint, lambda estimate: 4.69392	-5.34e-08	3.56174
+objective, constraint, lambda estimate: 4.69387	-7.08574e-07	3.56174
+objective, constraint, lambda estimate: 4.69382	-8.67904e-07	3.56174
+objective, constraint, lambda estimate: 4.69378	-8.54146e-07	3.56174
+objective, constraint, lambda estimate: 4.69374	2.18888e-07	3.56174
+objective, constraint, lambda estimate: 4.6937	9.5336e-07	3.56174
+objective, constraint, lambda estimate: 4.69366	8.2465e-07	3.56174
+objective, constraint, lambda estimate: 4.69362	4.24057e-07	3.56001
+objective, constraint, lambda estimate: 4.69357	8.23397e-07	3.56522
+objective, constraint, lambda estimate: 4.69352	-1.89675e-07	3.56522
+objective, constraint, lambda estimate: 4.69348	3.26054e-07	3.57218
+objective, constraint, lambda estimate: 4.69343	-8.46363e-07	3.56521
+objective, constraint, lambda estimate: 4.69339	5.09442e-07	3.57218
+objective, constraint, lambda estimate: 4.69334	-9.749e-07	3.56521
+objective, constraint, lambda estimate: 4.6933	8.38657e-07	3.57567
+objective, constraint, lambda estimate: 4.69326	-2.00461e-07	3.56521
+objective, constraint, lambda estimate: 4.69322	1.06622e-07	3.56521
+objective, constraint, lambda estimate: 4.69318	4.48384e-07	3.57044
+objective, constraint, lambda estimate: 4.69313	-1.90101e-07	3.57044
+objective, constraint, lambda estimate: 4.69309	5.99141e-07	3.57567
+objective, constraint, lambda estimate: 4.69304	2.20299e-07	3.57567
+objective, constraint, lambda estimate: 4.69299	-2.10798e-07	3.57567
+objective, constraint, lambda estimate: 4.69295	-2.85549e-07	3.57567
+objective, constraint, lambda estimate: 4.69291	-9.03574e-07	3.5687
+objective, constraint, lambda estimate: 4.69288	-4.36632e-07	3.5687
+objective, constraint, lambda estimate: 4.69284	6.5718e-07	3.5687
+objective, constraint, lambda estimate: 4.69281	7.42302e-07	3.5687
+objective, constraint, lambda estimate: 4.69276	-3.04978e-07	3.5687
+objective, constraint, lambda estimate: 4.69272	-4.9645e-07	3.57044
+objective, constraint, lambda estimate: 4.69268	-2.62804e-07	3.57044
+objective, constraint, lambda estimate: 4.69264	-2.04132e-07	3.57044
+objective, constraint, lambda estimate: 4.6926	-4.64247e-07	3.57044
+objective, constraint, lambda estimate: 4.69257	1.52348e-07	3.57567
+objective, constraint, lambda estimate: 4.69253	8.74398e-07	3.57567
+objective, constraint, lambda estimate: 4.69248	-7.10558e-07	3.5687
+objective, constraint, lambda estimate: 4.69245	2.42195e-07	3.57916
+objective, constraint, lambda estimate: 4.69241	6.98154e-07	3.57916
+objective, constraint, lambda estimate: 4.69236	2.63899e-07	3.57916
+objective, constraint, lambda estimate: 4.69232	-4.06236e-07	3.57916
+objective, constraint, lambda estimate: 4.69227	-4.42891e-08	3.58265
+objective, constraint, lambda estimate: 4.69222	-7.28931e-07	3.58265
+objective, constraint, lambda estimate: 4.69217	4.06768e-07	3.58789
+objective, constraint, lambda estimate: 4.69212	1.21156e-07	3.58264
+objective, constraint, lambda estimate: 4.69207	-3.09188e-07	3.58264
+objective, constraint, lambda estimate: 4.69203	4.71148e-08	3.58264
+objective, constraint, lambda estimate: 4.69198	2.13312e-07	3.58264
+objective, constraint, lambda estimate: 4.69194	-4.33546e-07	3.58264
+objective, constraint, lambda estimate: 4.6919	3.04322e-07	3.58264
+objective, constraint, lambda estimate: 4.69185	3.67924e-08	3.58264
+objective, constraint, lambda estimate: 4.69181	3.52559e-07	3.58264
+objective, constraint, lambda estimate: 4.69176	2.97002e-07	3.58264
+objective, constraint, lambda estimate: 4.69171	-3.18998e-07	3.58264
+objective, constraint, lambda estimate: 4.69167	8.1296e-07	3.58964
+objective, constraint, lambda estimate: 4.69163	8.67939e-08	3.57913
+objective, constraint, lambda estimate: 4.69159	6.77708e-07	3.57913
+objective, constraint, lambda estimate: 4.69156	7.52755e-07	3.57563
+objective, constraint, lambda estimate: 4.69152	-3.20873e-07	3.56864
+objective, constraint, lambda estimate: 4.69149	-7.9136e-07	3.56864
+objective, constraint, lambda estimate: 4.69147	9.9429e-07	3.57562
+objective, constraint, lambda estimate: 4.69143	-5.87981e-07	3.56515
+objective, constraint, lambda estimate: 4.6914	-6.18492e-07	3.56864
+objective, constraint, lambda estimate: 4.69137	5.4407e-07	3.57387
+objective, constraint, lambda estimate: 4.69133	-7.46679e-07	3.56864
+objective, constraint, lambda estimate: 4.6913	7.67808e-07	3.57911
+objective, constraint, lambda estimate: 4.69126	7.43517e-07	3.57562
+objective, constraint, lambda estimate: 4.69123	-9.03749e-07	3.56864
+objective, constraint, lambda estimate: 4.6912	6.10471e-07	3.57911
+objective, constraint, lambda estimate: 4.69116	8.37055e-07	3.57562
+objective, constraint, lambda estimate: 4.69112	5.0771e-07	3.57562
+objective, constraint, lambda estimate: 4.69109	6.6875e-07	3.57562
+objective, constraint, lambda estimate: 4.69105	4.71581e-07	3.57562
+objective, constraint, lambda estimate: 4.69102	1.1734e-07	3.57562
+objective, constraint, lambda estimate: 4.69098	-2.65475e-07	3.57562
+objective, constraint, lambda estimate: 4.69095	-6.10435e-07	3.57562
+objective, constraint, lambda estimate: 4.69092	-8.03447e-07	3.57562
+objective, constraint, lambda estimate: 4.69089	5.09658e-07	3.5826
+objective, constraint, lambda estimate: 4.69085	-8.73759e-07	3.57561
+objective, constraint, lambda estimate: 4.69082	3.30978e-07	3.5826
+objective, constraint, lambda estimate: 4.69079	9.22329e-07	3.5826
+objective, constraint, lambda estimate: 4.69075	5.54651e-07	3.58085
+objective, constraint, lambda estimate: 4.69071	6.5457e-07	3.5861
+objective, constraint, lambda estimate: 4.69066	6.28671e-08	3.5861
+objective, constraint, lambda estimate: 4.69062	-5.48752e-07	3.58785
+objective, constraint, lambda estimate: 4.69058	7.23105e-07	3.5931
+objective, constraint, lambda estimate: 4.69054	1.20959e-07	3.58609
+objective, constraint, lambda estimate: 4.6905	-7.05069e-07	3.58609
+objective, constraint, lambda estimate: 4.69047	-4.33813e-07	3.58785
+objective, constraint, lambda estimate: 4.69043	1.1746e-07	3.58785
+objective, constraint, lambda estimate: 4.6904	-3.78284e-07	3.58259
+objective, constraint, lambda estimate: 4.69036	-5.81389e-08	3.58259
+objective, constraint, lambda estimate: 4.69032	-8.82236e-07	3.58259
+Total Steps: 566, Runtime: 4.7, Compliance loss 9.392569
+Total Steps: 567, Runtime: 5.3, Compliance loss 9.392468
+Total Steps: 568, Runtime: 5.2, Compliance loss 9.392381
+Total Steps: 569, Runtime: 4.7, Compliance loss 9.392285
+Total Steps: 570, Runtime: 4.6, Compliance loss 9.392187
+Total Steps: 571, Runtime: 4.7, Compliance loss 9.392088
+Total Steps: 572, Runtime: 4.7, Compliance loss 9.391979
+Total Steps: 573, Runtime: 4.8, Compliance loss 9.391886
+Total Steps: 574, Runtime: 4.7, Compliance loss 9.391797
+Total Steps: 575, Runtime: 4.7, Compliance loss 9.391688
+Total Steps: 576, Runtime: 4.7, Compliance loss 9.391577
+Total Steps: 577, Runtime: 5.3, Compliance loss 9.391482
+Total Steps: 578, Runtime: 5.2, Compliance loss 9.391371
+Total Steps: 579, Runtime: 4.7, Compliance loss 9.391279
+Total Steps: 580, Runtime: 4.6, Compliance loss 9.391182
+Total Steps: 581, Runtime: 4.6, Compliance loss 9.391095
+Total Steps: 582, Runtime: 4.7, Compliance loss 9.391011
+Total Steps: 583, Runtime: 4.7, Compliance loss 9.390916
+Total Steps: 584, Runtime: 4.7, Compliance loss 9.390811
+Total Steps: 585, Runtime: 5.3, Compliance loss 9.390719
+Total Steps: 586, Runtime: 5.3, Compliance loss 9.390603
+Total Steps: 587, Runtime: 5.3, Compliance loss 9.390506
+Total Steps: 588, Runtime: 5.3, Compliance loss 9.390394
+Total Steps: 589, Runtime: 5.3, Compliance loss 9.390305
+Total Steps: 590, Runtime: 5.2, Compliance loss 9.390202
+Total Steps: 591, Runtime: 4.7, Compliance loss 9.390117
+Total Steps: 592, Runtime: 4.7, Compliance loss 9.390043
+Total Steps: 593, Runtime: 4.7, Compliance loss 9.389953
+Total Steps: 594, Runtime: 5.3, Compliance loss 9.389870
+Total Steps: 595, Runtime: 5.2, Compliance loss 9.389768
+Total Steps: 596, Runtime: 5.4, Compliance loss 9.389687
+Total Steps: 597, Runtime: 5.2, Compliance loss 9.389581
+Total Steps: 598, Runtime: 5.3, Compliance loss 9.389495
+Total Steps: 599, Runtime: 4.8, Compliance loss 9.389410
+Total Steps: 600, Runtime: 4.6, Compliance loss 9.389316
+Total Steps: 601, Runtime: 5.3, Compliance loss 9.389217
+Total Steps: 602, Runtime: 4.7, Compliance loss 9.389105
+Total Steps: 603, Runtime: 4.6, Compliance loss 9.389007
+Total Steps: 604, Runtime: 4.8, Compliance loss 9.388922
+Total Steps: 605, Runtime: 5.3, Compliance loss 9.388825
+Total Steps: 606, Runtime: 5.4, Compliance loss 9.388752
+Total Steps: 607, Runtime: 5.3, Compliance loss 9.388668
+Total Steps: 608, Runtime: 4.7, Compliance loss 9.388592
+Total Steps: 609, Runtime: 4.7, Compliance loss 9.388529
+Total Steps: 610, Runtime: 5.2, Compliance loss 9.388446
+Total Steps: 611, Runtime: 5.2, Compliance loss 9.388382
+Total Steps: 612, Runtime: 4.6, Compliance loss 9.388309
+Total Steps: 613, Runtime: 4.6, Compliance loss 9.388222
+Total Steps: 614, Runtime: 4.8, Compliance loss 9.388121
+Total Steps: 615, Runtime: 5.3, Compliance loss 9.388033
+Total Steps: 616, Runtime: 6.3, Compliance loss 9.387939
+Total Steps: 617, Runtime: 4.6, Compliance loss 9.387844
+Total Steps: 618, Runtime: 6.1, Compliance loss 9.387741
+Total Steps: 619, Runtime: 4.7, Compliance loss 9.387648
+Total Steps: 620, Runtime: 6.1, Compliance loss 9.387558
+Total Steps: 621, Runtime: 4.7, Compliance loss 9.387485
+Total Steps: 622, Runtime: 4.7, Compliance loss 9.387409
+Total Steps: 623, Runtime: 6.3, Compliance loss 9.387321
+Total Steps: 624, Runtime: 4.7, Compliance loss 9.387233
+Total Steps: 625, Runtime: 5.3, Compliance loss 9.387147
+Total Steps: 626, Runtime: 6.2, Compliance loss 9.387045
+Total Steps: 627, Runtime: 5.3, Compliance loss 9.386953
+Total Steps: 628, Runtime: 5.2, Compliance loss 9.386854
+Total Steps: 629, Runtime: 6.9, Compliance loss 9.386777
+Total Steps: 630, Runtime: 5.2, Compliance loss 9.386680
+Total Steps: 631, Runtime: 5.3, Compliance loss 9.386606
+Total Steps: 632, Runtime: 5.2, Compliance loss 9.386517
+Total Steps: 633, Runtime: 4.7, Compliance loss 9.386442
+Total Steps: 634, Runtime: 5.3, Compliance loss 9.386359
+Total Steps: 635, Runtime: 4.7, Compliance loss 9.386263
+Total Steps: 636, Runtime: 5.3, Compliance loss 9.386177
+Total Steps: 637, Runtime: 4.7, Compliance loss 9.386080
+Total Steps: 638, Runtime: 4.7, Compliance loss 9.385986
+Total Steps: 639, Runtime: 6.3, Compliance loss 9.385898
+Total Steps: 640, Runtime: 5.2, Compliance loss 9.385818
+Total Steps: 641, Runtime: 4.7, Compliance loss 9.385751
+Total Steps: 642, Runtime: 4.6, Compliance loss 9.385689
+Total Steps: 643, Runtime: 4.7, Compliance loss 9.385615
+Total Steps: 644, Runtime: 4.6, Compliance loss 9.385527
+Total Steps: 645, Runtime: 4.7, Compliance loss 9.385445
+Total Steps: 646, Runtime: 4.7, Compliance loss 9.385369
+Total Steps: 647, Runtime: 4.7, Compliance loss 9.385290
+Total Steps: 648, Runtime: 4.7, Compliance loss 9.385209
+Total Steps: 649, Runtime: 6.9, Compliance loss 9.385131
+Total Steps: 650, Runtime: 4.7, Compliance loss 9.385057
+Total Steps: 651, Runtime: 5.2, Compliance loss 9.384969
+Total Steps: 652, Runtime: 5.2, Compliance loss 9.384893
+Total Steps: 653, Runtime: 6.2, Compliance loss 9.384814
+Total Steps: 654, Runtime: 4.7, Compliance loss 9.384724
+Total Steps: 655, Runtime: 4.6, Compliance loss 9.384630
+Total Steps: 656, Runtime: 4.8, Compliance loss 9.384540
+Total Steps: 657, Runtime: 4.7, Compliance loss 9.384436
+Total Steps: 658, Runtime: 5.3, Compliance loss 9.384343
+Total Steps: 659, Runtime: 5.2, Compliance loss 9.384242
+Total Steps: 660, Runtime: 4.7, Compliance loss 9.384142
+Total Steps: 661, Runtime: 4.6, Compliance loss 9.384055
+Total Steps: 662, Runtime: 4.6, Compliance loss 9.383968
+Total Steps: 663, Runtime: 4.6, Compliance loss 9.383874
+Total Steps: 664, Runtime: 6.2, Compliance loss 9.383797
+Total Steps: 665, Runtime: 4.6, Compliance loss 9.383707
+Total Steps: 666, Runtime: 6.2, Compliance loss 9.383621
+Total Steps: 667, Runtime: 4.6, Compliance loss 9.383529
+Total Steps: 668, Runtime: 6.2, Compliance loss 9.383430
+Total Steps: 669, Runtime: 6.8, Compliance loss 9.383342
+Total Steps: 670, Runtime: 5.2, Compliance loss 9.383255
+Total Steps: 671, Runtime: 4.7, Compliance loss 9.383184
+Total Steps: 672, Runtime: 4.7, Compliance loss 9.383115
+Total Steps: 673, Runtime: 5.3, Compliance loss 9.383044
+Total Steps: 674, Runtime: 4.7, Compliance loss 9.382980
+Total Steps: 675, Runtime: 5.4, Compliance loss 9.382930
+Total Steps: 676, Runtime: 5.2, Compliance loss 9.382856
+Total Steps: 677, Runtime: 4.7, Compliance loss 9.382795
+Total Steps: 678, Runtime: 5.3, Compliance loss 9.382740
+Total Steps: 679, Runtime: 5.2, Compliance loss 9.382663
+Total Steps: 680, Runtime: 5.2, Compliance loss 9.382602
+Total Steps: 681, Runtime: 4.8, Compliance loss 9.382529
+Total Steps: 682, Runtime: 5.2, Compliance loss 9.382450
+Total Steps: 683, Runtime: 5.2, Compliance loss 9.382392
+Total Steps: 684, Runtime: 4.7, Compliance loss 9.382323
+Total Steps: 685, Runtime: 4.6, Compliance loss 9.382248
+Total Steps: 686, Runtime: 4.7, Compliance loss 9.382180
+Total Steps: 687, Runtime: 4.7, Compliance loss 9.382110
+Total Steps: 688, Runtime: 4.7, Compliance loss 9.382038
+Total Steps: 689, Runtime: 6.2, Compliance loss 9.381969
+Total Steps: 690, Runtime: 4.7, Compliance loss 9.381902
+Total Steps: 691, Runtime: 4.7, Compliance loss 9.381837
+Total Steps: 692, Runtime: 5.3, Compliance loss 9.381779
+Total Steps: 693, Runtime: 5.2, Compliance loss 9.381700
+Total Steps: 694, Runtime: 5.3, Compliance loss 9.381639
+Total Steps: 695, Runtime: 4.7, Compliance loss 9.381571
+Total Steps: 696, Runtime: 4.8, Compliance loss 9.381494
+Total Steps: 697, Runtime: 5.3, Compliance loss 9.381415
+Total Steps: 698, Runtime: 4.7, Compliance loss 9.381330
+Total Steps: 699, Runtime: 4.7, Compliance loss 9.381242
+1000_voxelfem_optim-OC_320x160x80_3500_bridgeS88_Vol0.4_iter699.vtr has been saved to logs/images/gt/1000/.
+Total Steps: 700, Runtime: 5.3, Compliance loss 9.381169
+Total Steps: 701, Runtime: 5.3, Compliance loss 9.381087
+Total Steps: 702, Runtime: 4.7, Compliance loss 9.381004
+Total Steps: 703, Runtime: 4.7, Compliance loss 9.380932
+Total Steps: 704, Runtime: 4.6, Compliance loss 9.380865
+Total Steps: 705, Runtime: 5.2, Compliance loss 9.380792
+Total Steps: 706, Runtime: 4.6, Compliance loss 9.380727
+Total Steps: 707, Runtime: 4.7, Compliance loss 9.380645
+objective, constraint, lambda estimate: 4.69029	8.61399e-07	3.5931
+objective, constraint, lambda estimate: 4.69024	-4.67179e-08	3.5896
+objective, constraint, lambda estimate: 4.6902	6.27204e-07	3.59661
+objective, constraint, lambda estimate: 4.69015	-8.14602e-07	3.58608
+objective, constraint, lambda estimate: 4.69012	-5.70976e-07	3.58608
+objective, constraint, lambda estimate: 4.69009	-2.65844e-08	3.58608
+objective, constraint, lambda estimate: 4.69005	7.95127e-07	3.58608
+objective, constraint, lambda estimate: 4.69002	9.25391e-07	3.58257
+objective, constraint, lambda estimate: 4.68999	4.90814e-07	3.58257
+objective, constraint, lambda estimate: 4.68995	-3.79496e-07	3.58257
+objective, constraint, lambda estimate: 4.68992	5.40889e-07	3.58783
+objective, constraint, lambda estimate: 4.68988	-9.22658e-07	3.57908
+objective, constraint, lambda estimate: 4.68985	-9.61616e-07	3.58258
+objective, constraint, lambda estimate: 4.68982	8.30771e-07	3.58958
+objective, constraint, lambda estimate: 4.68978	-5.01792e-07	3.58258
+objective, constraint, lambda estimate: 4.68974	-9.93921e-07	3.58258
+objective, constraint, lambda estimate: 4.68971	8.97378e-07	3.58958
+objective, constraint, lambda estimate: 4.68968	4.126e-07	3.57908
+objective, constraint, lambda estimate: 4.68965	7.51022e-07	3.57908
+objective, constraint, lambda estimate: 4.68962	3.17443e-07	3.57557
+objective, constraint, lambda estimate: 4.6896	8.09369e-07	3.57557
+objective, constraint, lambda estimate: 4.68957	-6.29772e-07	3.56858
+objective, constraint, lambda estimate: 4.68955	7.50283e-07	3.57556
+objective, constraint, lambda estimate: 4.68951	-3.0732e-07	3.56858
+objective, constraint, lambda estimate: 4.68948	9.38949e-07	3.57905
+objective, constraint, lambda estimate: 4.68945	4.06443e-07	3.57556
+objective, constraint, lambda estimate: 4.68942	-4.10099e-07	3.57556
+objective, constraint, lambda estimate: 4.68939	9.06719e-07	3.58254
+objective, constraint, lambda estimate: 4.68935	-6.58664e-08	3.57555
+objective, constraint, lambda estimate: 4.68932	-6.43871e-07	3.57555
+objective, constraint, lambda estimate: 4.68929	2.81842e-07	3.58254
+objective, constraint, lambda estimate: 4.68926	2.56549e-07	3.58254
+objective, constraint, lambda estimate: 4.68922	2.477e-07	3.58254
+objective, constraint, lambda estimate: 4.68919	5.21776e-08	3.58254
+objective, constraint, lambda estimate: 4.68915	2.95553e-07	3.58254
+objective, constraint, lambda estimate: 4.68912	8.96201e-07	3.58254
+objective, constraint, lambda estimate: 4.68909	-2.05679e-07	3.57555
+objective, constraint, lambda estimate: 4.68905	-9.53533e-07	3.57555
+objective, constraint, lambda estimate: 4.68903	-9.08618e-07	3.57555
+objective, constraint, lambda estimate: 4.689	4.95679e-07	3.5808
+objective, constraint, lambda estimate: 4.68897	-3.48834e-08	3.57555
+objective, constraint, lambda estimate: 4.68894	8.12506e-07	3.58254
+objective, constraint, lambda estimate: 4.68891	8.20007e-07	3.58254
+objective, constraint, lambda estimate: 4.68887	3.43597e-07	3.58254
+objective, constraint, lambda estimate: 4.68885	6.8652e-07	3.58254
+objective, constraint, lambda estimate: 4.68881	-7.66712e-07	3.57555
+objective, constraint, lambda estimate: 4.68879	6.70942e-07	3.58604
+objective, constraint, lambda estimate: 4.68876	7.74492e-07	3.58254
+objective, constraint, lambda estimate: 4.68873	6.37769e-07	3.58254
+objective, constraint, lambda estimate: 4.68869	4.67306e-07	3.58254
+objective, constraint, lambda estimate: 4.68866	-3.90193e-07	3.57555
+objective, constraint, lambda estimate: 4.68864	8.07653e-07	3.58254
+objective, constraint, lambda estimate: 4.6886	-7.53685e-07	3.57555
+objective, constraint, lambda estimate: 4.68856	-7.6521e-08	3.58604
+objective, constraint, lambda estimate: 4.68853	6.47881e-07	3.58604
+objective, constraint, lambda estimate: 4.68849	5.09946e-07	3.5808
+objective, constraint, lambda estimate: 4.68846	-3.78591e-07	3.57555
+objective, constraint, lambda estimate: 4.68843	-9.4588e-07	3.57555
+objective, constraint, lambda estimate: 4.6884	-5.65847e-07	3.57555
+objective, constraint, lambda estimate: 4.68837	2.43918e-07	3.57555
+objective, constraint, lambda estimate: 4.68834	4.54785e-07	3.57555
+objective, constraint, lambda estimate: 4.68831	1.24232e-07	3.57555
+objective, constraint, lambda estimate: 4.68827	-6.61083e-07	3.57555
+objective, constraint, lambda estimate: 4.68824	8.28126e-07	3.58254
+objective, constraint, lambda estimate: 4.6882	-6.66105e-07	3.57206
+objective, constraint, lambda estimate: 4.68816	-7.36798e-07	3.57555
+objective, constraint, lambda estimate: 4.68813	-5.80098e-07	3.57555
+objective, constraint, lambda estimate: 4.6881	-2.41767e-07	3.57555
+objective, constraint, lambda estimate: 4.68807	-6.35152e-08	3.57555
+objective, constraint, lambda estimate: 4.68805	5.88508e-07	3.57555
+objective, constraint, lambda estimate: 4.68802	7.7204e-07	3.57555
+objective, constraint, lambda estimate: 4.68799	9.03071e-07	3.57555
+objective, constraint, lambda estimate: 4.68796	5.10315e-07	3.57555
+objective, constraint, lambda estimate: 4.68793	2.96753e-07	3.57555
+objective, constraint, lambda estimate: 4.6879	-1.61229e-07	3.57555
+objective, constraint, lambda estimate: 4.68786	-9.26713e-07	3.57555
+objective, constraint, lambda estimate: 4.68783	9.63831e-07	3.58604
+objective, constraint, lambda estimate: 4.68779	-9.41219e-07	3.57555
+objective, constraint, lambda estimate: 4.68776	-2.09314e-07	3.58604
+objective, constraint, lambda estimate: 4.68772	6.41231e-08	3.58604
+objective, constraint, lambda estimate: 4.68769	2.06939e-07	3.58604
+objective, constraint, lambda estimate: 4.68766	7.60473e-07	3.58604
+objective, constraint, lambda estimate: 4.68763	7.96665e-07	3.58254
+objective, constraint, lambda estimate: 4.6876	9.76411e-07	3.58254
+objective, constraint, lambda estimate: 4.68757	-2.59224e-07	3.57555
+objective, constraint, lambda estimate: 4.68754	2.3055e-07	3.58254
+objective, constraint, lambda estimate: 4.68751	-7.77061e-07	3.58254
+objective, constraint, lambda estimate: 4.68748	5.39306e-07	3.59304
+objective, constraint, lambda estimate: 4.68745	4.55529e-07	3.58954
+objective, constraint, lambda estimate: 4.68742	7.49799e-07	3.58954
+objective, constraint, lambda estimate: 4.68738	-5.08538e-07	3.58429
+objective, constraint, lambda estimate: 4.68736	8.72193e-07	3.59304
+objective, constraint, lambda estimate: 4.68732	-6.1847e-07	3.58254
+objective, constraint, lambda estimate: 4.68729	4.68613e-07	3.58954
+objective, constraint, lambda estimate: 4.68726	-4.15594e-08	3.58254
+objective, constraint, lambda estimate: 4.68723	-4.09762e-07	3.58254
+objective, constraint, lambda estimate: 4.68721	-4.6902e-07	3.58254
+objective, constraint, lambda estimate: 4.68718	9.16346e-07	3.58954
+objective, constraint, lambda estimate: 4.68715	-4.13515e-07	3.57904
+objective, constraint, lambda estimate: 4.68712	-6.19931e-07	3.58254
+objective, constraint, lambda estimate: 4.6871	-9.15444e-08	3.58254
+objective, constraint, lambda estimate: 4.68707	1.51522e-07	3.58254
+objective, constraint, lambda estimate: 4.68705	3.60072e-07	3.58254
+objective, constraint, lambda estimate: 4.68702	1.92237e-07	3.58254
+objective, constraint, lambda estimate: 4.68699	-4.59249e-07	3.58254
+objective, constraint, lambda estimate: 4.68696	6.01905e-07	3.59304
+objective, constraint, lambda estimate: 4.68693	5.90503e-07	3.59304
+objective, constraint, lambda estimate: 4.68689	-5.39656e-07	3.59304
+objective, constraint, lambda estimate: 4.68685	6.43107e-07	3.60356
+objective, constraint, lambda estimate: 4.68681	-5.09668e-07	3.59653
+objective, constraint, lambda estimate: 4.68678	6.29507e-07	3.60356
+objective, constraint, lambda estimate: 4.68674	7.18914e-07	3.60356
+objective, constraint, lambda estimate: 4.6867	3.88303e-07	3.60356
+objective, constraint, lambda estimate: 4.68666	-8.19352e-07	3.59653
+objective, constraint, lambda estimate: 4.68663	-8.72423e-07	3.59653
+objective, constraint, lambda estimate: 4.6866	-7.8634e-07	3.59653
+objective, constraint, lambda estimate: 4.68657	-9.91698e-07	3.59653
+objective, constraint, lambda estimate: 4.68654	-7.30771e-07	3.59653
+objective, constraint, lambda estimate: 4.68652	-4.58672e-08	3.59653
+objective, constraint, lambda estimate: 4.6865	5.01008e-07	3.59653
+objective, constraint, lambda estimate: 4.68647	6.0564e-07	3.59653
+objective, constraint, lambda estimate: 4.68644	-4.1375e-07	3.59653
+objective, constraint, lambda estimate: 4.68641	9.29618e-08	3.60356
+objective, constraint, lambda estimate: 4.68638	2.56739e-07	3.60356
+objective, constraint, lambda estimate: 4.68635	2.27619e-08	3.60356
+objective, constraint, lambda estimate: 4.68632	9.63931e-07	3.6106
+objective, constraint, lambda estimate: 4.68628	-4.28111e-08	3.60356
+objective, constraint, lambda estimate: 4.68625	-3.0552e-07	3.60356
+objective, constraint, lambda estimate: 4.68623	-5.09647e-07	3.60356
+objective, constraint, lambda estimate: 4.68621	4.96942e-07	3.60179
+objective, constraint, lambda estimate: 4.68618	-7.21963e-07	3.59652
+objective, constraint, lambda estimate: 4.68615	-8.63262e-08	3.60706
+objective, constraint, lambda estimate: 4.68612	-3.82699e-07	3.60706
+objective, constraint, lambda estimate: 4.68609	-2.25569e-07	3.61058
+objective, constraint, lambda estimate: 4.68605	-1.20192e-07	3.61058
+objective, constraint, lambda estimate: 4.68602	4.44346e-08	3.61058
+objective, constraint, lambda estimate: 4.68599	-2.75141e-07	3.60354
+objective, constraint, lambda estimate: 4.68596	-7.43243e-07	3.60354
+objective, constraint, lambda estimate: 4.68593	1.59787e-07	3.61059
+objective, constraint, lambda estimate: 4.68591	8.97297e-07	3.61059
+objective, constraint, lambda estimate: 4.68587	-8.88843e-07	3.60354
+objective, constraint, lambda estimate: 4.68584	4.96124e-07	3.61411
+objective, constraint, lambda estimate: 4.68581	-9.35489e-08	3.60354
+objective, constraint, lambda estimate: 4.68579	7.96477e-08	3.60354
+Total Steps: 708, Runtime: 5.2, Compliance loss 9.380576
+Total Steps: 709, Runtime: 4.8, Compliance loss 9.380481
+Total Steps: 710, Runtime: 6.8, Compliance loss 9.380396
+Total Steps: 711, Runtime: 5.2, Compliance loss 9.380306
+Total Steps: 712, Runtime: 4.7, Compliance loss 9.380236
+Total Steps: 713, Runtime: 4.7, Compliance loss 9.380171
+Total Steps: 714, Runtime: 4.6, Compliance loss 9.380108
+Total Steps: 715, Runtime: 4.8, Compliance loss 9.380046
+Total Steps: 716, Runtime: 4.8, Compliance loss 9.379977
+Total Steps: 717, Runtime: 4.8, Compliance loss 9.379904
+Total Steps: 718, Runtime: 5.4, Compliance loss 9.379844
+Total Steps: 719, Runtime: 5.2, Compliance loss 9.379769
+Total Steps: 720, Runtime: 4.7, Compliance loss 9.379701
+Total Steps: 721, Runtime: 5.3, Compliance loss 9.379644
+Total Steps: 722, Runtime: 5.2, Compliance loss 9.379558
+Total Steps: 723, Runtime: 4.7, Compliance loss 9.379482
+Total Steps: 724, Runtime: 5.2, Compliance loss 9.379427
+Total Steps: 725, Runtime: 5.1, Compliance loss 9.379364
+Total Steps: 726, Runtime: 4.7, Compliance loss 9.379309
+Total Steps: 727, Runtime: 4.7, Compliance loss 9.379249
+Total Steps: 728, Runtime: 4.7, Compliance loss 9.379200
+Total Steps: 729, Runtime: 5.2, Compliance loss 9.379136
+Total Steps: 730, Runtime: 5.3, Compliance loss 9.379091
+Total Steps: 731, Runtime: 5.3, Compliance loss 9.379025
+Total Steps: 732, Runtime: 5.2, Compliance loss 9.378970
+Total Steps: 733, Runtime: 4.7, Compliance loss 9.378901
+Total Steps: 734, Runtime: 4.6, Compliance loss 9.378830
+Total Steps: 735, Runtime: 5.3, Compliance loss 9.378777
+Total Steps: 736, Runtime: 5.2, Compliance loss 9.378708
+Total Steps: 737, Runtime: 4.8, Compliance loss 9.378643
+Total Steps: 738, Runtime: 5.4, Compliance loss 9.378583
+Total Steps: 739, Runtime: 4.7, Compliance loss 9.378514
+Total Steps: 740, Runtime: 4.6, Compliance loss 9.378445
+Total Steps: 741, Runtime: 6.1, Compliance loss 9.378373
+Total Steps: 742, Runtime: 4.7, Compliance loss 9.378307
+Total Steps: 743, Runtime: 4.7, Compliance loss 9.378246
+Total Steps: 744, Runtime: 5.2, Compliance loss 9.378176
+Total Steps: 745, Runtime: 4.6, Compliance loss 9.378107
+Total Steps: 746, Runtime: 4.7, Compliance loss 9.378051
+Total Steps: 747, Runtime: 5.3, Compliance loss 9.378005
+Total Steps: 748, Runtime: 5.2, Compliance loss 9.377943
+Total Steps: 749, Runtime: 5.3, Compliance loss 9.377886
+Total Steps: 750, Runtime: 4.6, Compliance loss 9.377820
+Total Steps: 751, Runtime: 4.7, Compliance loss 9.377750
+Total Steps: 752, Runtime: 4.7, Compliance loss 9.377691
+Total Steps: 753, Runtime: 5.2, Compliance loss 9.377621
+Total Steps: 754, Runtime: 5.2, Compliance loss 9.377572
+Total Steps: 755, Runtime: 4.7, Compliance loss 9.377513
+Total Steps: 756, Runtime: 4.7, Compliance loss 9.377451
+Total Steps: 757, Runtime: 4.6, Compliance loss 9.377387
+Total Steps: 758, Runtime: 5.2, Compliance loss 9.377323
+Total Steps: 759, Runtime: 5.3, Compliance loss 9.377270
+Total Steps: 760, Runtime: 5.2, Compliance loss 9.377192
+Total Steps: 761, Runtime: 5.2, Compliance loss 9.377124
+Total Steps: 762, Runtime: 4.7, Compliance loss 9.377057
+Total Steps: 763, Runtime: 4.8, Compliance loss 9.376989
+Total Steps: 764, Runtime: 5.4, Compliance loss 9.376918
+Total Steps: 765, Runtime: 4.7, Compliance loss 9.376850
+Total Steps: 766, Runtime: 4.8, Compliance loss 9.376792
+Total Steps: 767, Runtime: 4.6, Compliance loss 9.376741
+Total Steps: 768, Runtime: 4.6, Compliance loss 9.376681
+Total Steps: 769, Runtime: 4.7, Compliance loss 9.376612
+Total Steps: 770, Runtime: 4.6, Compliance loss 9.376537
+Total Steps: 771, Runtime: 5.3, Compliance loss 9.376478
+Total Steps: 772, Runtime: 5.1, Compliance loss 9.376398
+Total Steps: 773, Runtime: 4.7, Compliance loss 9.376330
+Total Steps: 774, Runtime: 4.7, Compliance loss 9.376264
+Total Steps: 775, Runtime: 4.6, Compliance loss 9.376203
+Total Steps: 776, Runtime: 4.6, Compliance loss 9.376143
+Total Steps: 777, Runtime: 4.6, Compliance loss 9.376094
+Total Steps: 778, Runtime: 4.6, Compliance loss 9.376039
+Total Steps: 779, Runtime: 4.6, Compliance loss 9.375983
+Total Steps: 780, Runtime: 4.8, Compliance loss 9.375921
+Total Steps: 781, Runtime: 4.7, Compliance loss 9.375860
+Total Steps: 782, Runtime: 4.7, Compliance loss 9.375795
+Total Steps: 783, Runtime: 4.8, Compliance loss 9.375724
+Total Steps: 784, Runtime: 5.2, Compliance loss 9.375668
+Total Steps: 785, Runtime: 5.3, Compliance loss 9.375583
+Total Steps: 786, Runtime: 5.3, Compliance loss 9.375515
+Total Steps: 787, Runtime: 4.7, Compliance loss 9.375447
+Total Steps: 788, Runtime: 4.6, Compliance loss 9.375380
+Total Steps: 789, Runtime: 4.7, Compliance loss 9.375322
+Total Steps: 790, Runtime: 4.8, Compliance loss 9.375262
+Total Steps: 791, Runtime: 4.7, Compliance loss 9.375205
+Total Steps: 792, Runtime: 5.2, Compliance loss 9.375141
+Total Steps: 793, Runtime: 5.3, Compliance loss 9.375087
+Total Steps: 794, Runtime: 4.7, Compliance loss 9.375019
+Total Steps: 795, Runtime: 5.2, Compliance loss 9.374964
+Total Steps: 796, Runtime: 4.7, Compliance loss 9.374899
+Total Steps: 797, Runtime: 4.7, Compliance loss 9.374838
+Total Steps: 798, Runtime: 5.3, Compliance loss 9.374767
+Total Steps: 799, Runtime: 5.3, Compliance loss 9.374711
+Total Steps: 800, Runtime: 5.2, Compliance loss 9.374638
+Total Steps: 801, Runtime: 5.3, Compliance loss 9.374585
+Total Steps: 802, Runtime: 5.2, Compliance loss 9.374524
+Total Steps: 803, Runtime: 4.6, Compliance loss 9.374467
+Total Steps: 804, Runtime: 4.7, Compliance loss 9.374411
+Total Steps: 805, Runtime: 5.3, Compliance loss 9.374363
+Total Steps: 806, Runtime: 5.2, Compliance loss 9.374298
+Total Steps: 807, Runtime: 4.8, Compliance loss 9.374243
+Total Steps: 808, Runtime: 4.7, Compliance loss 9.374196
+Total Steps: 809, Runtime: 4.6, Compliance loss 9.374145
+Total Steps: 810, Runtime: 4.6, Compliance loss 9.374095
+Total Steps: 811, Runtime: 4.6, Compliance loss 9.374039
+Total Steps: 812, Runtime: 4.7, Compliance loss 9.373976
+Total Steps: 813, Runtime: 5.2, Compliance loss 9.373920
+Total Steps: 814, Runtime: 4.7, Compliance loss 9.373852
+Total Steps: 815, Runtime: 4.7, Compliance loss 9.373772
+Total Steps: 816, Runtime: 5.4, Compliance loss 9.373706
+Total Steps: 817, Runtime: 5.2, Compliance loss 9.373624
+Total Steps: 818, Runtime: 5.3, Compliance loss 9.373559
+Total Steps: 819, Runtime: 4.7, Compliance loss 9.373482
+Total Steps: 820, Runtime: 4.7, Compliance loss 9.373401
+Total Steps: 821, Runtime: 5.3, Compliance loss 9.373322
+Total Steps: 822, Runtime: 4.7, Compliance loss 9.373260
+Total Steps: 823, Runtime: 4.7, Compliance loss 9.373202
+Total Steps: 824, Runtime: 4.8, Compliance loss 9.373141
+Total Steps: 825, Runtime: 4.8, Compliance loss 9.373088
+Total Steps: 826, Runtime: 4.6, Compliance loss 9.373040
+Total Steps: 827, Runtime: 4.6, Compliance loss 9.372990
+Total Steps: 828, Runtime: 4.7, Compliance loss 9.372936
+Total Steps: 829, Runtime: 4.6, Compliance loss 9.372873
+Total Steps: 830, Runtime: 5.3, Compliance loss 9.372819
+Total Steps: 831, Runtime: 4.6, Compliance loss 9.372759
+Total Steps: 832, Runtime: 4.7, Compliance loss 9.372697
+Total Steps: 833, Runtime: 5.3, Compliance loss 9.372638
+Total Steps: 834, Runtime: 5.4, Compliance loss 9.372569
+Total Steps: 835, Runtime: 4.7, Compliance loss 9.372509
+Total Steps: 836, Runtime: 4.7, Compliance loss 9.372452
+Total Steps: 837, Runtime: 4.7, Compliance loss 9.372411
+Total Steps: 838, Runtime: 5.2, Compliance loss 9.372352
+Total Steps: 839, Runtime: 5.2, Compliance loss 9.372301
+Total Steps: 840, Runtime: 4.7, Compliance loss 9.372238
+Total Steps: 841, Runtime: 4.7, Compliance loss 9.372174
+Total Steps: 842, Runtime: 4.7, Compliance loss 9.372107
+Total Steps: 843, Runtime: 4.7, Compliance loss 9.372041
+Total Steps: 844, Runtime: 5.2, Compliance loss 9.371982
+Total Steps: 845, Runtime: 4.6, Compliance loss 9.371922
+Total Steps: 846, Runtime: 5.3, Compliance loss 9.371869
+Total Steps: 847, Runtime: 4.7, Compliance loss 9.371814
+Total Steps: 848, Runtime: 5.2, Compliance loss 9.371740
+Total Steps: 849, Runtime: 5.2, Compliance loss 9.371689
+Total Steps: 850, Runtime: 5.2, Compliance loss 9.371630
+Total Steps: 851, Runtime: 4.6, Compliance loss 9.371580
+objective, constraint, lambda estimate: 4.68576	2.53886e-07	3.60354
+objective, constraint, lambda estimate: 4.68574	-2.88056e-07	3.60354
+objective, constraint, lambda estimate: 4.68571	7.63109e-07	3.61059
+objective, constraint, lambda estimate: 4.68568	-1.33396e-07	3.60354
+objective, constraint, lambda estimate: 4.68566	7.37138e-07	3.61059
+objective, constraint, lambda estimate: 4.68563	-2.62062e-07	3.60354
+objective, constraint, lambda estimate: 4.6856	5.29884e-07	3.61059
+objective, constraint, lambda estimate: 4.68557	2.63285e-07	3.61059
+objective, constraint, lambda estimate: 4.68554	2.10042e-07	3.61059
+objective, constraint, lambda estimate: 4.68551	-5.73844e-07	3.61059
+objective, constraint, lambda estimate: 4.68548	2.60943e-07	3.61764
+objective, constraint, lambda estimate: 4.68545	-3.07441e-07	3.61058
+objective, constraint, lambda estimate: 4.68542	-6.69443e-07	3.61058
+objective, constraint, lambda estimate: 4.68539	-8.75358e-07	3.61058
+objective, constraint, lambda estimate: 4.68537	8.32682e-07	3.61764
+objective, constraint, lambda estimate: 4.68534	-9.10332e-07	3.60705
+objective, constraint, lambda estimate: 4.68531	1.02087e-07	3.61764
+objective, constraint, lambda estimate: 4.68528	-2.46228e-07	3.61058
+objective, constraint, lambda estimate: 4.68526	3.60939e-08	3.61058
+objective, constraint, lambda estimate: 4.68524	-6.96828e-08	3.61058
+objective, constraint, lambda estimate: 4.68521	-7.77978e-07	3.61058
+objective, constraint, lambda estimate: 4.68519	7.84756e-07	3.61764
+objective, constraint, lambda estimate: 4.68516	-3.73643e-07	3.61058
+objective, constraint, lambda estimate: 4.68514	8.57871e-07	3.62117
+objective, constraint, lambda estimate: 4.68511	7.38192e-07	3.61764
+objective, constraint, lambda estimate: 4.68508	-5.71842e-07	3.61058
+objective, constraint, lambda estimate: 4.68506	9.25498e-07	3.62117
+objective, constraint, lambda estimate: 4.68503	7.45817e-07	3.61764
+objective, constraint, lambda estimate: 4.685	3.45765e-07	3.61764
+objective, constraint, lambda estimate: 4.68497	3.93718e-07	3.61764
+objective, constraint, lambda estimate: 4.68494	6.034e-07	3.61764
+objective, constraint, lambda estimate: 4.68491	-6.18131e-07	3.61058
+objective, constraint, lambda estimate: 4.68489	7.26614e-07	3.61764
+objective, constraint, lambda estimate: 4.68487	-4.8893e-07	3.60705
+objective, constraint, lambda estimate: 4.68485	-5.1047e-07	3.61058
+objective, constraint, lambda estimate: 4.68483	2.12458e-07	3.61764
+objective, constraint, lambda estimate: 4.6848	2.58773e-08	3.61764
+objective, constraint, lambda estimate: 4.68477	-9.07694e-07	3.61764
+objective, constraint, lambda estimate: 4.68475	2.46199e-07	3.6247
+objective, constraint, lambda estimate: 4.68472	-8.07117e-07	3.61763
+objective, constraint, lambda estimate: 4.68469	2.17302e-07	3.6247
+objective, constraint, lambda estimate: 4.68467	9.97575e-07	3.6247
+objective, constraint, lambda estimate: 4.68464	-2.04415e-07	3.61763
+objective, constraint, lambda estimate: 4.68461	8.00138e-07	3.6247
+objective, constraint, lambda estimate: 4.68458	-3.03994e-07	3.61763
+objective, constraint, lambda estimate: 4.68455	-7.93483e-07	3.61763
+objective, constraint, lambda estimate: 4.68452	3.18476e-07	3.6247
+objective, constraint, lambda estimate: 4.68449	-7.42375e-07	3.61763
+objective, constraint, lambda estimate: 4.68447	4.69536e-07	3.6247
+objective, constraint, lambda estimate: 4.68443	-7.67497e-07	3.6141
+objective, constraint, lambda estimate: 4.68441	-5.32409e-07	3.61763
+objective, constraint, lambda estimate: 4.68438	3.03623e-08	3.61763
+objective, constraint, lambda estimate: 4.68436	1.55053e-07	3.61763
+objective, constraint, lambda estimate: 4.68433	-7.05613e-08	3.61763
+objective, constraint, lambda estimate: 4.6843	1.06345e-07	3.61763
+objective, constraint, lambda estimate: 4.68428	5.31701e-07	3.61763
+objective, constraint, lambda estimate: 4.68425	-9.10223e-07	3.60704
+objective, constraint, lambda estimate: 4.68423	1.42315e-07	3.61763
+objective, constraint, lambda estimate: 4.6842	-9.13165e-07	3.61057
+objective, constraint, lambda estimate: 4.68418	3.28852e-07	3.61763
+objective, constraint, lambda estimate: 4.68415	-7.62118e-07	3.60704
+objective, constraint, lambda estimate: 4.68413	7.72024e-07	3.61763
+objective, constraint, lambda estimate: 4.68409	-9.15007e-07	3.60704
+objective, constraint, lambda estimate: 4.68407	2.93191e-07	3.61763
+objective, constraint, lambda estimate: 4.68404	-8.26394e-07	3.61057
+objective, constraint, lambda estimate: 4.68402	9.32907e-07	3.62115
+objective, constraint, lambda estimate: 4.68399	-6.86987e-07	3.60704
+objective, constraint, lambda estimate: 4.68397	3.15358e-07	3.61763
+objective, constraint, lambda estimate: 4.68394	-4.98909e-07	3.61057
+objective, constraint, lambda estimate: 4.68392	2.53171e-07	3.61763
+objective, constraint, lambda estimate: 4.6839	5.91646e-07	3.61763
+objective, constraint, lambda estimate: 4.68388	9.69078e-07	3.61763
+objective, constraint, lambda estimate: 4.68385	9.44921e-07	3.61763
+objective, constraint, lambda estimate: 4.68383	7.55195e-07	3.61763
+objective, constraint, lambda estimate: 4.6838	3.51098e-07	3.61763
+objective, constraint, lambda estimate: 4.68377	-1.28314e-07	3.61763
+objective, constraint, lambda estimate: 4.68375	-8.43886e-07	3.61763
+objective, constraint, lambda estimate: 4.68372	4.70496e-07	3.62469
+objective, constraint, lambda estimate: 4.6837	-5.03848e-07	3.61408
+objective, constraint, lambda estimate: 4.68367	-5.45042e-07	3.61762
+objective, constraint, lambda estimate: 4.68365	-5.96867e-07	3.61762
+objective, constraint, lambda estimate: 4.68363	-7.3032e-07	3.61762
+objective, constraint, lambda estimate: 4.68361	-7.61883e-07	3.61762
+objective, constraint, lambda estimate: 4.68359	8.00538e-07	3.62469
+objective, constraint, lambda estimate: 4.68356	3.04457e-07	3.61408
+objective, constraint, lambda estimate: 4.68354	5.06163e-07	3.61408
+objective, constraint, lambda estimate: 4.68352	6.56435e-07	3.61408
+objective, constraint, lambda estimate: 4.6835	5.00908e-07	3.61408
+objective, constraint, lambda estimate: 4.68348	8.06452e-08	3.61408
+objective, constraint, lambda estimate: 4.68345	-3.58677e-07	3.61762
+objective, constraint, lambda estimate: 4.68342	6.21966e-07	3.62469
+objective, constraint, lambda estimate: 4.68339	5.42992e-07	3.62469
+objective, constraint, lambda estimate: 4.68335	-5.80789e-07	3.62469
+objective, constraint, lambda estimate: 4.68332	7.589e-07	3.63531
+objective, constraint, lambda estimate: 4.68328	-3.98558e-07	3.62468
+objective, constraint, lambda estimate: 4.68326	8.44828e-07	3.63177
+objective, constraint, lambda estimate: 4.68322	-4.12018e-07	3.62114
+objective, constraint, lambda estimate: 4.6832	-4.21276e-07	3.62114
+objective, constraint, lambda estimate: 4.68317	-2.27573e-07	3.62114
+objective, constraint, lambda estimate: 4.68315	3.78058e-07	3.62114
+objective, constraint, lambda estimate: 4.68313	7.8117e-07	3.62114
+objective, constraint, lambda estimate: 4.68311	8.10013e-08	3.6176
+objective, constraint, lambda estimate: 4.68308	3.86763e-07	3.62468
+objective, constraint, lambda estimate: 4.68306	6.72993e-07	3.62468
+objective, constraint, lambda estimate: 4.68302	-9.31242e-07	3.6176
+objective, constraint, lambda estimate: 4.683	3.4263e-07	3.62821
+objective, constraint, lambda estimate: 4.68297	4.77225e-08	3.62468
+objective, constraint, lambda estimate: 4.68295	-7.45916e-08	3.62468
+objective, constraint, lambda estimate: 4.68292	3.41444e-07	3.62468
+objective, constraint, lambda estimate: 4.68289	-7.62052e-07	3.6176
+objective, constraint, lambda estimate: 4.68288	3.91945e-07	3.62468
+objective, constraint, lambda estimate: 4.68285	-7.42132e-07	3.61407
+objective, constraint, lambda estimate: 4.68283	-6.50437e-07	3.6176
+objective, constraint, lambda estimate: 4.68281	-3.8361e-07	3.6176
+objective, constraint, lambda estimate: 4.68278	-9.02206e-07	3.6176
+objective, constraint, lambda estimate: 4.68276	6.32689e-07	3.62821
+objective, constraint, lambda estimate: 4.68274	7.38768e-07	3.62468
+objective, constraint, lambda estimate: 4.68271	-8.43048e-07	3.6176
+objective, constraint, lambda estimate: 4.68269	4.89643e-07	3.62821
+objective, constraint, lambda estimate: 4.68266	1.72479e-07	3.62468
+objective, constraint, lambda estimate: 4.68264	2.50586e-08	3.62468
+objective, constraint, lambda estimate: 4.68261	5.68452e-07	3.62468
+objective, constraint, lambda estimate: 4.68259	2.0246e-07	3.62468
+objective, constraint, lambda estimate: 4.68256	5.19951e-07	3.62468
+objective, constraint, lambda estimate: 4.68253	6.76273e-07	3.62468
+objective, constraint, lambda estimate: 4.6825	-8.41313e-07	3.6176
+objective, constraint, lambda estimate: 4.68248	1.72999e-07	3.62468
+objective, constraint, lambda estimate: 4.68246	-4.00574e-07	3.6176
+objective, constraint, lambda estimate: 4.68244	7.94383e-07	3.62468
+objective, constraint, lambda estimate: 4.68241	-6.52289e-07	3.61407
+objective, constraint, lambda estimate: 4.68239	8.90233e-07	3.62821
+objective, constraint, lambda estimate: 4.68237	1.93882e-07	3.62468
+objective, constraint, lambda estimate: 4.68234	6.06932e-07	3.63176
+objective, constraint, lambda estimate: 4.68231	8.60448e-07	3.63176
+objective, constraint, lambda estimate: 4.68228	-2.33963e-07	3.62467
+objective, constraint, lambda estimate: 4.68226	9.51038e-07	3.63176
+objective, constraint, lambda estimate: 4.68223	-1.23345e-07	3.62113
+objective, constraint, lambda estimate: 4.68221	-9.94741e-07	3.62113
+objective, constraint, lambda estimate: 4.68219	8.76997e-07	3.63176
+objective, constraint, lambda estimate: 4.68217	6.78071e-07	3.62113
+objective, constraint, lambda estimate: 4.68215	6.59352e-07	3.62113
+objective, constraint, lambda estimate: 4.68213	2.15289e-07	3.62113
+objective, constraint, lambda estimate: 4.6821	-1.35767e-07	3.62467
+objective, constraint, lambda estimate: 4.68208	-1.49179e-07	3.62467
+Total Steps: 852, Runtime: 4.7, Compliance loss 9.371530
+Total Steps: 853, Runtime: 4.7, Compliance loss 9.371471
+Total Steps: 854, Runtime: 5.3, Compliance loss 9.371423
+Total Steps: 855, Runtime: 5.2, Compliance loss 9.371362
+Total Steps: 856, Runtime: 5.3, Compliance loss 9.371312
+Total Steps: 857, Runtime: 5.2, Compliance loss 9.371251
+Total Steps: 858, Runtime: 5.3, Compliance loss 9.371204
+Total Steps: 859, Runtime: 4.7, Compliance loss 9.371145
+Total Steps: 860, Runtime: 4.6, Compliance loss 9.371089
+Total Steps: 861, Runtime: 4.7, Compliance loss 9.371025
+Total Steps: 862, Runtime: 5.3, Compliance loss 9.370970
+Total Steps: 863, Runtime: 5.2, Compliance loss 9.370907
+Total Steps: 864, Runtime: 4.7, Compliance loss 9.370848
+Total Steps: 865, Runtime: 4.7, Compliance loss 9.370790
+Total Steps: 866, Runtime: 5.3, Compliance loss 9.370746
+Total Steps: 867, Runtime: 5.2, Compliance loss 9.370676
+Total Steps: 868, Runtime: 5.3, Compliance loss 9.370623
+Total Steps: 869, Runtime: 5.2, Compliance loss 9.370568
+Total Steps: 870, Runtime: 4.7, Compliance loss 9.370522
+Total Steps: 871, Runtime: 4.6, Compliance loss 9.370473
+Total Steps: 872, Runtime: 4.7, Compliance loss 9.370418
+Total Steps: 873, Runtime: 5.3, Compliance loss 9.370381
+Total Steps: 874, Runtime: 5.3, Compliance loss 9.370323
+Total Steps: 875, Runtime: 6.8, Compliance loss 9.370279
+Total Steps: 876, Runtime: 4.8, Compliance loss 9.370223
+Total Steps: 877, Runtime: 5.3, Compliance loss 9.370161
+Total Steps: 878, Runtime: 5.2, Compliance loss 9.370117
+Total Steps: 879, Runtime: 4.7, Compliance loss 9.370059
+Total Steps: 880, Runtime: 6.2, Compliance loss 9.369997
+Total Steps: 881, Runtime: 4.8, Compliance loss 9.369943
+Total Steps: 882, Runtime: 4.6, Compliance loss 9.369889
+Total Steps: 883, Runtime: 5.2, Compliance loss 9.369828
+Total Steps: 884, Runtime: 5.3, Compliance loss 9.369788
+Total Steps: 885, Runtime: 5.1, Compliance loss 9.369735
+Total Steps: 886, Runtime: 4.7, Compliance loss 9.369692
+Total Steps: 887, Runtime: 5.3, Compliance loss 9.369650
+Total Steps: 888, Runtime: 6.2, Compliance loss 9.369599
+Total Steps: 889, Runtime: 4.6, Compliance loss 9.369540
+Total Steps: 890, Runtime: 5.3, Compliance loss 9.369496
+Total Steps: 891, Runtime: 6.8, Compliance loss 9.369435
+Total Steps: 892, Runtime: 5.3, Compliance loss 9.369389
+Total Steps: 893, Runtime: 6.2, Compliance loss 9.369338
+Total Steps: 894, Runtime: 5.2, Compliance loss 9.369271
+Total Steps: 895, Runtime: 6.8, Compliance loss 9.369222
+Total Steps: 896, Runtime: 5.2, Compliance loss 9.369156
+Total Steps: 897, Runtime: 6.2, Compliance loss 9.369096
+Total Steps: 898, Runtime: 5.3, Compliance loss 9.369047
+Total Steps: 899, Runtime: 5.2, Compliance loss 9.368981
+Total Steps: 900, Runtime: 6.8, Compliance loss 9.368931
+Total Steps: 901, Runtime: 5.2, Compliance loss 9.368865
+Total Steps: 902, Runtime: 4.7, Compliance loss 9.368811
+Total Steps: 903, Runtime: 6.2, Compliance loss 9.368763
+Total Steps: 904, Runtime: 4.7, Compliance loss 9.368711
+Total Steps: 905, Runtime: 4.6, Compliance loss 9.368654
+Total Steps: 906, Runtime: 6.2, Compliance loss 9.368601
+Total Steps: 907, Runtime: 4.7, Compliance loss 9.368552
+Total Steps: 908, Runtime: 5.2, Compliance loss 9.368495
+Total Steps: 909, Runtime: 6.8, Compliance loss 9.368452
+Total Steps: 910, Runtime: 5.2, Compliance loss 9.368393
+Total Steps: 911, Runtime: 5.3, Compliance loss 9.368350
+Total Steps: 912, Runtime: 5.2, Compliance loss 9.368293
+Total Steps: 913, Runtime: 6.8, Compliance loss 9.368251
+Total Steps: 914, Runtime: 5.2, Compliance loss 9.368186
+Total Steps: 915, Runtime: 5.3, Compliance loss 9.368143
+Total Steps: 916, Runtime: 6.8, Compliance loss 9.368081
+Total Steps: 917, Runtime: 5.2, Compliance loss 9.368043
+Total Steps: 918, Runtime: 5.2, Compliance loss 9.367983
+Total Steps: 919, Runtime: 6.8, Compliance loss 9.367943
+Total Steps: 920, Runtime: 5.2, Compliance loss 9.367889
+Total Steps: 921, Runtime: 5.3, Compliance loss 9.367847
+Total Steps: 922, Runtime: 6.2, Compliance loss 9.367802
+Total Steps: 923, Runtime: 4.7, Compliance loss 9.367756
+Total Steps: 924, Runtime: 4.7, Compliance loss 9.367707
+Total Steps: 925, Runtime: 6.2, Compliance loss 9.367655
+Total Steps: 926, Runtime: 4.7, Compliance loss 9.367603
+Total Steps: 927, Runtime: 4.7, Compliance loss 9.367550
+Total Steps: 928, Runtime: 6.2, Compliance loss 9.367492
+Total Steps: 929, Runtime: 5.3, Compliance loss 9.367450
+Total Steps: 930, Runtime: 5.2, Compliance loss 9.367396
+Total Steps: 931, Runtime: 6.2, Compliance loss 9.367350
+Total Steps: 932, Runtime: 4.6, Compliance loss 9.367304
+Total Steps: 933, Runtime: 4.6, Compliance loss 9.367257
+Total Steps: 934, Runtime: 6.2, Compliance loss 9.367211
+Total Steps: 935, Runtime: 5.3, Compliance loss 9.367174
+Total Steps: 936, Runtime: 5.1, Compliance loss 9.367127
+Total Steps: 937, Runtime: 6.2, Compliance loss 9.367089
+Total Steps: 938, Runtime: 4.7, Compliance loss 9.367050
+Total Steps: 939, Runtime: 4.6, Compliance loss 9.367006
+Total Steps: 940, Runtime: 6.2, Compliance loss 9.366957
+Total Steps: 941, Runtime: 4.8, Compliance loss 9.366901
+Total Steps: 942, Runtime: 5.3, Compliance loss 9.366850
+Total Steps: 943, Runtime: 6.1, Compliance loss 9.366784
+Total Steps: 944, Runtime: 4.6, Compliance loss 9.366706
+Total Steps: 945, Runtime: 5.3, Compliance loss 9.366642
+Total Steps: 946, Runtime: 6.7, Compliance loss 9.366567
+Total Steps: 947, Runtime: 5.3, Compliance loss 9.366512
+Total Steps: 948, Runtime: 5.2, Compliance loss 9.366444
+Total Steps: 949, Runtime: 6.2, Compliance loss 9.366395
+Total Steps: 950, Runtime: 4.7, Compliance loss 9.366348
+Total Steps: 951, Runtime: 4.7, Compliance loss 9.366309
+Total Steps: 952, Runtime: 6.2, Compliance loss 9.366265
+Total Steps: 953, Runtime: 4.7, Compliance loss 9.366212
+Total Steps: 954, Runtime: 5.3, Compliance loss 9.366160
+Total Steps: 955, Runtime: 6.1, Compliance loss 9.366110
+Total Steps: 956, Runtime: 5.2, Compliance loss 9.366047
+Total Steps: 957, Runtime: 5.2, Compliance loss 9.366004
+Total Steps: 958, Runtime: 6.3, Compliance loss 9.365948
+Total Steps: 959, Runtime: 4.7, Compliance loss 9.365893
+Total Steps: 960, Runtime: 4.7, Compliance loss 9.365846
+Total Steps: 961, Runtime: 5.2, Compliance loss 9.365790
+Total Steps: 962, Runtime: 6.8, Compliance loss 9.365752
+Total Steps: 963, Runtime: 5.2, Compliance loss 9.365701
+Total Steps: 964, Runtime: 4.7, Compliance loss 9.365659
+Total Steps: 965, Runtime: 4.7, Compliance loss 9.365620
+Total Steps: 966, Runtime: 4.7, Compliance loss 9.365569
+Total Steps: 967, Runtime: 6.8, Compliance loss 9.365530
+Total Steps: 968, Runtime: 4.7, Compliance loss 9.365479
+Total Steps: 969, Runtime: 5.2, Compliance loss 9.365419
+Total Steps: 970, Runtime: 6.8, Compliance loss 9.365380
+Total Steps: 971, Runtime: 4.7, Compliance loss 9.365326
+Total Steps: 972, Runtime: 6.1, Compliance loss 9.365275
+Total Steps: 973, Runtime: 4.6, Compliance loss 9.365229
+Total Steps: 974, Runtime: 4.7, Compliance loss 9.365172
+Total Steps: 975, Runtime: 6.2, Compliance loss 9.365121
+Total Steps: 976, Runtime: 4.8, Compliance loss 9.365068
+Total Steps: 977, Runtime: 5.2, Compliance loss 9.365007
+Total Steps: 978, Runtime: 5.3, Compliance loss 9.364966
+Total Steps: 979, Runtime: 5.3, Compliance loss 9.364915
+Total Steps: 980, Runtime: 6.8, Compliance loss 9.364878
+Total Steps: 981, Runtime: 5.1, Compliance loss 9.364825
+Total Steps: 982, Runtime: 5.2, Compliance loss 9.364790
+Total Steps: 983, Runtime: 6.2, Compliance loss 9.364732
+Total Steps: 984, Runtime: 5.3, Compliance loss 9.364676
+Total Steps: 985, Runtime: 6.2, Compliance loss 9.364620
+Total Steps: 986, Runtime: 5.2, Compliance loss 9.364557
+Total Steps: 987, Runtime: 5.3, Compliance loss 9.364514
+Total Steps: 988, Runtime: 6.7, Compliance loss 9.364463
+Total Steps: 989, Runtime: 4.7, Compliance loss 9.364414
+Total Steps: 990, Runtime: 5.3, Compliance loss 9.364384
+Total Steps: 991, Runtime: 6.7, Compliance loss 9.364344
+Total Steps: 992, Runtime: 4.7, Compliance loss 9.364304
+Total Steps: 993, Runtime: 4.7, Compliance loss 9.364258
+Total Steps: 994, Runtime: 6.3, Compliance loss 9.364208
+Total Steps: 995, Runtime: 4.6, Compliance loss 9.364159
+objective, constraint, lambda estimate: 4.68205	-8.2122e-07	3.62467
+objective, constraint, lambda estimate: 4.68203	1.97883e-07	3.63176
+objective, constraint, lambda estimate: 4.682	-8.44468e-07	3.62113
+objective, constraint, lambda estimate: 4.68198	-5.43157e-07	3.62467
+objective, constraint, lambda estimate: 4.68196	-1.79468e-07	3.62467
+objective, constraint, lambda estimate: 4.68194	3.59638e-07	3.62467
+objective, constraint, lambda estimate: 4.68191	-6.64795e-07	3.61759
+objective, constraint, lambda estimate: 4.6819	6.86679e-07	3.62466
+objective, constraint, lambda estimate: 4.68187	-2.83292e-07	3.61759
+objective, constraint, lambda estimate: 4.68186	7.89241e-07	3.62466
+objective, constraint, lambda estimate: 4.68183	-3.55856e-07	3.61759
+objective, constraint, lambda estimate: 4.68181	-5.17602e-07	3.61759
+objective, constraint, lambda estimate: 4.6818	-2.62917e-08	3.61759
+objective, constraint, lambda estimate: 4.68179	1.06569e-07	3.61759
+objective, constraint, lambda estimate: 4.68177	3.15159e-08	3.61759
+objective, constraint, lambda estimate: 4.68175	1.21243e-07	3.61759
+objective, constraint, lambda estimate: 4.68174	-2.48639e-08	3.61759
+objective, constraint, lambda estimate: 4.68172	7.88005e-07	3.62466
+objective, constraint, lambda estimate: 4.68169	-7.84576e-07	3.61759
+objective, constraint, lambda estimate: 4.68168	3.94357e-07	3.6282
+objective, constraint, lambda estimate: 4.68166	5.12573e-07	3.62466
+objective, constraint, lambda estimate: 4.68164	5.9657e-07	3.62466
+objective, constraint, lambda estimate: 4.68161	9.37513e-08	3.62466
+objective, constraint, lambda estimate: 4.68159	7.07234e-07	3.63174
+objective, constraint, lambda estimate: 4.68157	4.13205e-07	3.63174
+objective, constraint, lambda estimate: 4.68154	2.93772e-07	3.63174
+objective, constraint, lambda estimate: 4.68152	3.5177e-07	3.63174
+objective, constraint, lambda estimate: 4.68149	-7.88339e-07	3.62466
+objective, constraint, lambda estimate: 4.68147	8.59161e-08	3.63174
+objective, constraint, lambda estimate: 4.68145	7.55285e-07	3.63174
+objective, constraint, lambda estimate: 4.68143	-6.54861e-07	3.62466
+objective, constraint, lambda estimate: 4.68141	5.76818e-07	3.63529
+objective, constraint, lambda estimate: 4.68138	9.09858e-07	3.63529
+objective, constraint, lambda estimate: 4.68136	4.55128e-07	3.63529
+objective, constraint, lambda estimate: 4.68133	6.27236e-08	3.63529
+objective, constraint, lambda estimate: 4.6813	-8.01384e-09	3.63529
+objective, constraint, lambda estimate: 4.68129	7.98922e-07	3.63529
+objective, constraint, lambda estimate: 4.68126	9.37525e-07	3.63174
+objective, constraint, lambda estimate: 4.68124	7.7107e-07	3.63174
+objective, constraint, lambda estimate: 4.68122	5.4463e-07	3.63174
+objective, constraint, lambda estimate: 4.6812	1.69566e-07	3.63174
+objective, constraint, lambda estimate: 4.68118	-5.45673e-07	3.63174
+objective, constraint, lambda estimate: 4.68116	6.19063e-07	3.63884
+objective, constraint, lambda estimate: 4.68113	-5.78683e-07	3.62819
+objective, constraint, lambda estimate: 4.68112	7.59997e-07	3.63884
+objective, constraint, lambda estimate: 4.68109	7.34778e-08	3.62819
+objective, constraint, lambda estimate: 4.68108	5.39384e-07	3.62819
+objective, constraint, lambda estimate: 4.68106	1.27808e-07	3.62464
+objective, constraint, lambda estimate: 4.68104	-7.45639e-08	3.62464
+objective, constraint, lambda estimate: 4.68103	8.81761e-07	3.63173
+objective, constraint, lambda estimate: 4.681	-3.87414e-07	3.62464
+objective, constraint, lambda estimate: 4.68098	1.80402e-07	3.63527
+objective, constraint, lambda estimate: 4.68096	4.26838e-07	3.63527
+objective, constraint, lambda estimate: 4.68094	8.26771e-07	3.63527
+objective, constraint, lambda estimate: 4.68091	2.07025e-07	3.63173
+objective, constraint, lambda estimate: 4.68089	-3.59412e-07	3.63173
+objective, constraint, lambda estimate: 4.68087	8.50835e-07	3.63882
+objective, constraint, lambda estimate: 4.68085	2.56957e-07	3.62817
+objective, constraint, lambda estimate: 4.68083	5.39818e-07	3.62817
+objective, constraint, lambda estimate: 4.68081	2.6751e-07	3.62462
+objective, constraint, lambda estimate: 4.6808	1.20917e-07	3.62462
+objective, constraint, lambda estimate: 4.68078	-2.27063e-07	3.62462
+objective, constraint, lambda estimate: 4.68076	-8.33635e-07	3.62462
+objective, constraint, lambda estimate: 4.68075	9.27158e-07	3.63526
+objective, constraint, lambda estimate: 4.68072	-5.50495e-07	3.62463
+objective, constraint, lambda estimate: 4.68071	5.56248e-07	3.63526
+objective, constraint, lambda estimate: 4.68068	-8.89638e-07	3.62463
+objective, constraint, lambda estimate: 4.68067	9.93937e-07	3.63526
+objective, constraint, lambda estimate: 4.68065	-2.62414e-07	3.62109
+objective, constraint, lambda estimate: 4.68063	-3.31487e-07	3.62463
+objective, constraint, lambda estimate: 4.68061	5.46384e-07	3.63172
+objective, constraint, lambda estimate: 4.68059	-7.43656e-07	3.62463
+objective, constraint, lambda estimate: 4.68057	3.49915e-07	3.63526
+objective, constraint, lambda estimate: 4.68055	3.83387e-07	3.63172
+objective, constraint, lambda estimate: 4.68053	7.49294e-08	3.63172
+objective, constraint, lambda estimate: 4.68051	-5.36864e-07	3.63172
+objective, constraint, lambda estimate: 4.68049	-8.16638e-07	3.63172
+objective, constraint, lambda estimate: 4.68047	-8.58811e-07	3.63172
+objective, constraint, lambda estimate: 4.68045	2.03734e-07	3.63881
+objective, constraint, lambda estimate: 4.68043	-4.83376e-07	3.63171
+objective, constraint, lambda estimate: 4.68041	6.56781e-07	3.63881
+objective, constraint, lambda estimate: 4.68038	-6.49896e-07	3.63171
+objective, constraint, lambda estimate: 4.68036	8.44887e-07	3.64236
+objective, constraint, lambda estimate: 4.68034	-3.53777e-07	3.63171
+objective, constraint, lambda estimate: 4.68032	3.76776e-07	3.63881
+objective, constraint, lambda estimate: 4.68029	2.78437e-07	3.63881
+objective, constraint, lambda estimate: 4.68027	-9.00772e-07	3.63171
+objective, constraint, lambda estimate: 4.68025	6.02258e-07	3.64236
+objective, constraint, lambda estimate: 4.68022	-7.52854e-07	3.63171
+objective, constraint, lambda estimate: 4.6802	9.01533e-07	3.64236
+objective, constraint, lambda estimate: 4.68017	-5.49861e-07	3.63171
+objective, constraint, lambda estimate: 4.68016	9.5317e-07	3.64236
+objective, constraint, lambda estimate: 4.68013	-1.21218e-07	3.63171
+objective, constraint, lambda estimate: 4.68011	-1.7896e-07	3.63171
+objective, constraint, lambda estimate: 4.68009	-2.66481e-07	3.63171
+objective, constraint, lambda estimate: 4.68008	5.55218e-07	3.63881
+objective, constraint, lambda estimate: 4.68005	-5.90964e-07	3.63171
+objective, constraint, lambda estimate: 4.68004	9.88576e-07	3.64236
+objective, constraint, lambda estimate: 4.68001	-5.46438e-07	3.62816
+objective, constraint, lambda estimate: 4.67999	-7.71775e-07	3.63171
+objective, constraint, lambda estimate: 4.67997	1.60102e-07	3.63881
+objective, constraint, lambda estimate: 4.67995	-8.58261e-07	3.63171
+objective, constraint, lambda estimate: 4.67993	6.99857e-09	3.64236
+objective, constraint, lambda estimate: 4.67991	5.15167e-07	3.64236
+objective, constraint, lambda estimate: 4.67989	9.12127e-07	3.64236
+objective, constraint, lambda estimate: 4.67986	4.32427e-07	3.63881
+objective, constraint, lambda estimate: 4.67984	1.72457e-07	3.63881
+objective, constraint, lambda estimate: 4.67982	-8.3253e-08	3.63881
+objective, constraint, lambda estimate: 4.67979	-8.52333e-07	3.63881
+objective, constraint, lambda estimate: 4.67977	2.5405e-07	3.64947
+objective, constraint, lambda estimate: 4.67974	7.72705e-07	3.64947
+objective, constraint, lambda estimate: 4.67971	7.19984e-07	3.64592
+objective, constraint, lambda estimate: 4.67968	-2.64488e-07	3.6388
+objective, constraint, lambda estimate: 4.67966	6.87628e-07	3.64592
+objective, constraint, lambda estimate: 4.67963	-4.62531e-07	3.6388
+objective, constraint, lambda estimate: 4.67961	6.26288e-07	3.64592
+objective, constraint, lambda estimate: 4.67959	3.22305e-07	3.63524
+objective, constraint, lambda estimate: 4.67958	8.96393e-07	3.63524
+objective, constraint, lambda estimate: 4.67956	7.27305e-07	3.63169
+objective, constraint, lambda estimate: 4.67954	-1.09389e-07	3.63169
+objective, constraint, lambda estimate: 4.67953	8.76225e-07	3.63879
+objective, constraint, lambda estimate: 4.67951	-4.99637e-07	3.62814
+objective, constraint, lambda estimate: 4.67949	3.05173e-07	3.63879
+objective, constraint, lambda estimate: 4.67947	1.40459e-07	3.63879
+objective, constraint, lambda estimate: 4.67945	1.75432e-07	3.63879
+objective, constraint, lambda estimate: 4.67943	-6.97825e-07	3.63169
+objective, constraint, lambda estimate: 4.67941	5.50951e-07	3.63879
+objective, constraint, lambda estimate: 4.6794	8.31073e-07	3.63879
+objective, constraint, lambda estimate: 4.67937	7.6921e-07	3.63879
+objective, constraint, lambda estimate: 4.67935	6.95268e-07	3.63879
+objective, constraint, lambda estimate: 4.67933	-8.73324e-07	3.62814
+objective, constraint, lambda estimate: 4.67932	7.74125e-07	3.63879
+objective, constraint, lambda estimate: 4.6793	6.4251e-07	3.62814
+objective, constraint, lambda estimate: 4.67929	4.24335e-07	3.62814
+objective, constraint, lambda estimate: 4.67927	2.63441e-07	3.62814
+objective, constraint, lambda estimate: 4.67926	4.43886e-07	3.62814
+objective, constraint, lambda estimate: 4.67924	6.19096e-07	3.62459
+objective, constraint, lambda estimate: 4.67921	-4.29572e-07	3.61397
+objective, constraint, lambda estimate: 4.67919	-8.06224e-07	3.61397
+objective, constraint, lambda estimate: 4.67916	-3.22403e-07	3.61397
+Total Steps: 996, Runtime: 4.6, Compliance loss 9.364102
+Total Steps: 997, Runtime: 6.8, Compliance loss 9.364057
+Total Steps: 998, Runtime: 5.1, Compliance loss 9.364001
+Total Steps: 999, Runtime: 6.2, Compliance loss 9.363956
+Total Steps: 1000, Runtime: 4.6, Compliance loss 9.363913
+Total Steps: 1001, Runtime: 6.2, Compliance loss 9.363874
+Total Steps: 1002, Runtime: 5.3, Compliance loss 9.363824
+Total Steps: 1003, Runtime: 6.8, Compliance loss 9.363795
+Total Steps: 1004, Runtime: 5.2, Compliance loss 9.363748
+Total Steps: 1005, Runtime: 6.8, Compliance loss 9.363717
+Total Steps: 1006, Runtime: 5.2, Compliance loss 9.363667
+Total Steps: 1007, Runtime: 4.8, Compliance loss 9.363629
+Total Steps: 1008, Runtime: 6.2, Compliance loss 9.363603
+Total Steps: 1009, Runtime: 4.6, Compliance loss 9.363573
+Total Steps: 1010, Runtime: 4.7, Compliance loss 9.363540
+Total Steps: 1011, Runtime: 6.2, Compliance loss 9.363508
+Total Steps: 1012, Runtime: 4.6, Compliance loss 9.363473
+Total Steps: 1013, Runtime: 6.8, Compliance loss 9.363440
+Total Steps: 1014, Runtime: 5.2, Compliance loss 9.363389
+Total Steps: 1015, Runtime: 6.7, Compliance loss 9.363356
+Total Steps: 1016, Runtime: 4.8, Compliance loss 9.363317
+Total Steps: 1017, Runtime: 6.2, Compliance loss 9.363277
+Total Steps: 1018, Runtime: 4.6, Compliance loss 9.363230
+Total Steps: 1019, Runtime: 6.9, Compliance loss 9.363187
+Total Steps: 1020, Runtime: 6.2, Compliance loss 9.363133
+Total Steps: 1021, Runtime: 6.2, Compliance loss 9.363081
+Total Steps: 1022, Runtime: 6.2, Compliance loss 9.363032
+Total Steps: 1023, Runtime: 5.2, Compliance loss 9.362980
+Total Steps: 1024, Runtime: 6.8, Compliance loss 9.362943
+Total Steps: 1025, Runtime: 6.2, Compliance loss 9.362906
+Total Steps: 1026, Runtime: 5.2, Compliance loss 9.362852
+Total Steps: 1027, Runtime: 6.7, Compliance loss 9.362816
+Total Steps: 1028, Runtime: 6.2, Compliance loss 9.362769
+Total Steps: 1029, Runtime: 6.2, Compliance loss 9.362714
+Total Steps: 1030, Runtime: 6.1, Compliance loss 9.362660
+Total Steps: 1031, Runtime: 6.1, Compliance loss 9.362609
+Total Steps: 1032, Runtime: 6.2, Compliance loss 9.362571
+Total Steps: 1033, Runtime: 6.3, Compliance loss 9.362529
+Total Steps: 1034, Runtime: 6.2, Compliance loss 9.362486
+Total Steps: 1035, Runtime: 6.2, Compliance loss 9.362444
+Total Steps: 1036, Runtime: 6.2, Compliance loss 9.362401
+Total Steps: 1037, Runtime: 6.2, Compliance loss 9.362352
+Total Steps: 1038, Runtime: 6.8, Compliance loss 9.362315
+Total Steps: 1039, Runtime: 6.7, Compliance loss 9.362264
+Total Steps: 1040, Runtime: 6.8, Compliance loss 9.362232
+Total Steps: 1041, Runtime: 6.7, Compliance loss 9.362188
+Total Steps: 1042, Runtime: 6.1, Compliance loss 9.362158
+Total Steps: 1043, Runtime: 6.2, Compliance loss 9.362120
+Total Steps: 1044, Runtime: 6.2, Compliance loss 9.362084
+Total Steps: 1045, Runtime: 6.8, Compliance loss 9.362055
+Total Steps: 1046, Runtime: 6.7, Compliance loss 9.362007
+Total Steps: 1047, Runtime: 6.8, Compliance loss 9.361968
+Total Steps: 1048, Runtime: 6.2, Compliance loss 9.361924
+Total Steps: 1049, Runtime: 6.2, Compliance loss 9.361880
+1000_voxelfem_optim-OC_320x160x80_3500_bridgeS88_Vol0.4_iter1049.vtr has been saved to logs/images/gt/1000/.
+Total Steps: 1050, Runtime: 6.2, Compliance loss 9.361827
+Total Steps: 1051, Runtime: 6.2, Compliance loss 9.361776
+Total Steps: 1052, Runtime: 6.9, Compliance loss 9.361739
+Total Steps: 1053, Runtime: 6.7, Compliance loss 9.361696
+Total Steps: 1054, Runtime: 6.2, Compliance loss 9.361664
+Total Steps: 1055, Runtime: 6.2, Compliance loss 9.361629
+Total Steps: 1056, Runtime: 6.2, Compliance loss 9.361596
+Total Steps: 1057, Runtime: 6.2, Compliance loss 9.361558
+Total Steps: 1058, Runtime: 6.2, Compliance loss 9.361518
+Total Steps: 1059, Runtime: 6.7, Compliance loss 9.361493
+Total Steps: 1060, Runtime: 6.7, Compliance loss 9.361442
+Total Steps: 1061, Runtime: 6.7, Compliance loss 9.361410
+Total Steps: 1062, Runtime: 6.8, Compliance loss 9.361360
+Total Steps: 1063, Runtime: 6.8, Compliance loss 9.361338
+Total Steps: 1064, Runtime: 6.7, Compliance loss 9.361293
+Total Steps: 1065, Runtime: 6.3, Compliance loss 9.361259
+Total Steps: 1066, Runtime: 6.8, Compliance loss 9.361226
+Total Steps: 1067, Runtime: 5.3, Compliance loss 9.361178
+Total Steps: 1068, Runtime: 6.8, Compliance loss 9.361145
+Total Steps: 1069, Runtime: 6.3, Compliance loss 9.361106
+Total Steps: 1070, Runtime: 6.2, Compliance loss 9.361064
+Total Steps: 1071, Runtime: 6.2, Compliance loss 9.361018
+Total Steps: 1072, Runtime: 6.1, Compliance loss 9.360976
+Total Steps: 1073, Runtime: 6.3, Compliance loss 9.360936
+Total Steps: 1074, Runtime: 6.9, Compliance loss 9.360901
+Total Steps: 1075, Runtime: 6.9, Compliance loss 9.360852
+Total Steps: 1076, Runtime: 6.9, Compliance loss 9.360817
+Total Steps: 1077, Runtime: 5.2, Compliance loss 9.360761
+Total Steps: 1078, Runtime: 6.8, Compliance loss 9.360727
+Total Steps: 1079, Runtime: 6.8, Compliance loss 9.360675
+Total Steps: 1080, Runtime: 6.8, Compliance loss 9.360635
+Total Steps: 1081, Runtime: 6.2, Compliance loss 9.360587
+Total Steps: 1082, Runtime: 6.7, Compliance loss 9.360533
+Total Steps: 1083, Runtime: 6.8, Compliance loss 9.360497
+Total Steps: 1084, Runtime: 6.8, Compliance loss 9.360440
+Total Steps: 1085, Runtime: 6.8, Compliance loss 9.360404
+Total Steps: 1086, Runtime: 6.7, Compliance loss 9.360344
+Total Steps: 1087, Runtime: 6.8, Compliance loss 9.360310
+Total Steps: 1088, Runtime: 6.7, Compliance loss 9.360261
+Total Steps: 1089, Runtime: 6.3, Compliance loss 9.360225
+Total Steps: 1090, Runtime: 6.2, Compliance loss 9.360187
+Total Steps: 1091, Runtime: 6.9, Compliance loss 9.360153
+Total Steps: 1092, Runtime: 6.8, Compliance loss 9.360103
+Total Steps: 1093, Runtime: 6.7, Compliance loss 9.360072
+Total Steps: 1094, Runtime: 6.7, Compliance loss 9.360020
+Total Steps: 1095, Runtime: 6.3, Compliance loss 9.359980
+Total Steps: 1096, Runtime: 6.8, Compliance loss 9.359947
+Total Steps: 1097, Runtime: 6.8, Compliance loss 9.359898
+Total Steps: 1098, Runtime: 6.8, Compliance loss 9.359861
+Total Steps: 1099, Runtime: 6.2, Compliance loss 9.359819
+Total Steps: 1100, Runtime: 6.2, Compliance loss 9.359776
+Total Steps: 1101, Runtime: 6.3, Compliance loss 9.359727
+Total Steps: 1102, Runtime: 6.2, Compliance loss 9.359682
+Total Steps: 1103, Runtime: 6.2, Compliance loss 9.359634
+Total Steps: 1104, Runtime: 6.2, Compliance loss 9.359579
+Total Steps: 1105, Runtime: 6.7, Compliance loss 9.359533
+Total Steps: 1106, Runtime: 6.2, Compliance loss 9.359480
+Total Steps: 1107, Runtime: 6.3, Compliance loss 9.359426
+Total Steps: 1108, Runtime: 6.8, Compliance loss 9.359369
+Total Steps: 1109, Runtime: 6.8, Compliance loss 9.359326
+Total Steps: 1110, Runtime: 6.8, Compliance loss 9.359266
+Total Steps: 1111, Runtime: 6.8, Compliance loss 9.359227
+Total Steps: 1112, Runtime: 6.6, Compliance loss 9.359187
+Total Steps: 1113, Runtime: 6.2, Compliance loss 9.359159
+Total Steps: 1114, Runtime: 6.3, Compliance loss 9.359126
+Total Steps: 1115, Runtime: 6.2, Compliance loss 9.359086
+Total Steps: 1116, Runtime: 6.8, Compliance loss 9.359058
+Total Steps: 1117, Runtime: 6.7, Compliance loss 9.359013
+Total Steps: 1118, Runtime: 6.9, Compliance loss 9.358981
+Total Steps: 1119, Runtime: 6.2, Compliance loss 9.358938
+Total Steps: 1120, Runtime: 6.2, Compliance loss 9.358898
+Total Steps: 1121, Runtime: 6.8, Compliance loss 9.358855
+Total Steps: 1122, Runtime: 6.8, Compliance loss 9.358829
+Total Steps: 1123, Runtime: 6.2, Compliance loss 9.358790
+Total Steps: 1124, Runtime: 6.2, Compliance loss 9.358747
+Total Steps: 1125, Runtime: 6.2, Compliance loss 9.358703
+Total Steps: 1126, Runtime: 6.7, Compliance loss 9.358654
+Total Steps: 1127, Runtime: 8.3, Compliance loss 9.358635
+Total Steps: 1128, Runtime: 8.2, Compliance loss 9.358607
+Total Steps: 1129, Runtime: 7.7, Compliance loss 9.358575
+Total Steps: 1130, Runtime: 7.7, Compliance loss 9.358543
+Total Steps: 1131, Runtime: 9.5, Compliance loss 9.358510
+Total Steps: 1132, Runtime: 9.4, Compliance loss 9.358476
+Total Steps: 1133, Runtime: 9.7, Compliance loss 9.358430
+Total Steps: 1134, Runtime: 9.3, Compliance loss 9.358378
+Total Steps: 1135, Runtime: 9.3, Compliance loss 9.358322
+objective, constraint, lambda estimate: 4.67913	2.50787e-07	3.61397
+objective, constraint, lambda estimate: 4.6791	6.50122e-07	3.61397
+objective, constraint, lambda estimate: 4.67907	-7.85489e-07	3.61397
+objective, constraint, lambda estimate: 4.67906	-2.16585e-07	3.62812
+objective, constraint, lambda estimate: 4.67904	-3.09072e-07	3.62812
+objective, constraint, lambda estimate: 4.67902	-3.57664e-07	3.62812
+objective, constraint, lambda estimate: 4.67901	-4.81409e-07	3.62812
+objective, constraint, lambda estimate: 4.67899	-4.06836e-07	3.62812
+objective, constraint, lambda estimate: 4.67897	-6.88963e-07	3.62812
+objective, constraint, lambda estimate: 4.67895	-2.85784e-07	3.63165
+objective, constraint, lambda estimate: 4.67894	-3.29889e-07	3.63165
+objective, constraint, lambda estimate: 4.67892	-6.57932e-07	3.63165
+objective, constraint, lambda estimate: 4.6789	3.27367e-07	3.63874
+objective, constraint, lambda estimate: 4.67888	5.83251e-07	3.63874
+objective, constraint, lambda estimate: 4.67886	-7.14797e-07	3.63164
+objective, constraint, lambda estimate: 4.67885	6.05868e-07	3.64229
+objective, constraint, lambda estimate: 4.67883	6.26512e-07	3.63874
+objective, constraint, lambda estimate: 4.67881	4.23007e-07	3.63874
+objective, constraint, lambda estimate: 4.67879	5.42874e-07	3.63874
+objective, constraint, lambda estimate: 4.67877	2.33728e-07	3.63874
+objective, constraint, lambda estimate: 4.67875	-5.94156e-07	3.63874
+objective, constraint, lambda estimate: 4.67873	1.49141e-07	3.64585
+objective, constraint, lambda estimate: 4.67871	4.78701e-07	3.64585
+objective, constraint, lambda estimate: 4.67869	7.36229e-07	3.64585
+objective, constraint, lambda estimate: 4.67866	4.96385e-07	3.64585
+objective, constraint, lambda estimate: 4.67864	2.12765e-07	3.64585
+objective, constraint, lambda estimate: 4.67861	1.5566e-08	3.64585
+objective, constraint, lambda estimate: 4.67859	6.24254e-08	3.64585
+objective, constraint, lambda estimate: 4.67857	2.23334e-07	3.64585
+objective, constraint, lambda estimate: 4.67855	4.46131e-07	3.64585
+objective, constraint, lambda estimate: 4.67852	-8.94594e-08	3.64585
+objective, constraint, lambda estimate: 4.67849	-8.85675e-07	3.64585
+objective, constraint, lambda estimate: 4.67848	9.04809e-07	3.65297
+objective, constraint, lambda estimate: 4.67846	-1.65079e-07	3.64228
+objective, constraint, lambda estimate: 4.67844	-4.48034e-07	3.64584
+objective, constraint, lambda estimate: 4.67842	-5.45331e-07	3.64584
+objective, constraint, lambda estimate: 4.6784	4.92155e-07	3.65297
+objective, constraint, lambda estimate: 4.67837	-4.38667e-07	3.64584
+objective, constraint, lambda estimate: 4.67835	4.70443e-07	3.65297
+objective, constraint, lambda estimate: 4.67833	-2.42968e-07	3.64584
+objective, constraint, lambda estimate: 4.67831	1.44886e-07	3.64584
+objective, constraint, lambda estimate: 4.6783	5.81359e-07	3.64584
+objective, constraint, lambda estimate: 4.67828	8.45568e-07	3.64584
+objective, constraint, lambda estimate: 4.67826	1.26584e-07	3.64584
+objective, constraint, lambda estimate: 4.67824	6.24916e-07	3.65297
+objective, constraint, lambda estimate: 4.67821	-7.53018e-07	3.64584
+objective, constraint, lambda estimate: 4.67819	-2.59349e-07	3.65653
+objective, constraint, lambda estimate: 4.67816	-5.47481e-07	3.65653
+objective, constraint, lambda estimate: 4.67813	-3.30647e-07	3.66009
+objective, constraint, lambda estimate: 4.67811	3.66212e-07	3.66009
+objective, constraint, lambda estimate: 4.67808	-7.61003e-07	3.65296
+objective, constraint, lambda estimate: 4.67806	8.48536e-08	3.6601
+objective, constraint, lambda estimate: 4.67804	-1.6119e-07	3.65296
+objective, constraint, lambda estimate: 4.67802	-2.47571e-07	3.65296
+objective, constraint, lambda estimate: 4.67799	-4.21838e-07	3.65296
+objective, constraint, lambda estimate: 4.67798	8.80485e-07	3.6601
+objective, constraint, lambda estimate: 4.67795	-2.9167e-07	3.65296
+objective, constraint, lambda estimate: 4.67793	-5.57075e-07	3.65296
+objective, constraint, lambda estimate: 4.67791	-6.97274e-07	3.65296
+objective, constraint, lambda estimate: 4.67789	-5.20799e-07	3.65296
+objective, constraint, lambda estimate: 4.67787	-3.56261e-07	3.65296
+objective, constraint, lambda estimate: 4.67785	1.45806e-07	3.65296
+objective, constraint, lambda estimate: 4.67784	8.54265e-07	3.65296
+objective, constraint, lambda estimate: 4.67781	-3.95475e-07	3.64583
+objective, constraint, lambda estimate: 4.6778	4.59157e-07	3.65652
+objective, constraint, lambda estimate: 4.67778	3.66317e-07	3.65295
+objective, constraint, lambda estimate: 4.67775	-2.35787e-07	3.65295
+objective, constraint, lambda estimate: 4.67773	5.1617e-07	3.66009
+objective, constraint, lambda estimate: 4.67771	-5.27737e-07	3.65295
+objective, constraint, lambda estimate: 4.67769	7.90405e-07	3.66009
+objective, constraint, lambda estimate: 4.67767	-4.55127e-07	3.64938
+objective, constraint, lambda estimate: 4.67765	-6.98813e-07	3.64938
+objective, constraint, lambda estimate: 4.67764	-2.52545e-07	3.65295
+objective, constraint, lambda estimate: 4.67762	-1.65298e-07	3.65295
+objective, constraint, lambda estimate: 4.6776	-7.09126e-07	3.65295
+objective, constraint, lambda estimate: 4.67759	8.84281e-07	3.66009
+objective, constraint, lambda estimate: 4.67757	-4.08614e-07	3.64938
+objective, constraint, lambda estimate: 4.67755	8.15714e-07	3.66009
+objective, constraint, lambda estimate: 4.67753	-3.29185e-07	3.64938
+objective, constraint, lambda estimate: 4.67751	-6.08933e-07	3.65295
+objective, constraint, lambda estimate: 4.67749	6.85664e-07	3.66009
+objective, constraint, lambda estimate: 4.67747	-1.53222e-07	3.65295
+objective, constraint, lambda estimate: 4.67744	-6.96498e-07	3.65295
+objective, constraint, lambda estimate: 4.67743	6.54773e-07	3.66009
+objective, constraint, lambda estimate: 4.6774	-9.30953e-07	3.64938
+objective, constraint, lambda estimate: 4.67739	3.1448e-07	3.66009
+objective, constraint, lambda estimate: 4.67736	-9.81672e-07	3.64938
+objective, constraint, lambda estimate: 4.67735	6.1661e-07	3.66009
+objective, constraint, lambda estimate: 4.67733	-2.02643e-07	3.64938
+objective, constraint, lambda estimate: 4.67731	-5.12628e-07	3.65295
+objective, constraint, lambda estimate: 4.6773	8.0698e-07	3.66009
+objective, constraint, lambda estimate: 4.67727	-2.36114e-07	3.65295
+objective, constraint, lambda estimate: 4.67725	7.15097e-07	3.66009
+objective, constraint, lambda estimate: 4.67723	-1.73977e-07	3.65295
+objective, constraint, lambda estimate: 4.67721	-8.74692e-07	3.65295
+objective, constraint, lambda estimate: 4.67719	-4.55573e-07	3.65295
+objective, constraint, lambda estimate: 4.67718	2.57432e-08	3.65295
+objective, constraint, lambda estimate: 4.67716	1.62394e-07	3.65295
+objective, constraint, lambda estimate: 4.67714	2.28581e-08	3.65295
+objective, constraint, lambda estimate: 4.67712	-5.34053e-07	3.65295
+objective, constraint, lambda estimate: 4.67711	-5.71762e-07	3.65295
+objective, constraint, lambda estimate: 4.67709	-5.73993e-09	3.65295
+objective, constraint, lambda estimate: 4.67707	2.79055e-07	3.65295
+objective, constraint, lambda estimate: 4.67705	4.16398e-08	3.65295
+objective, constraint, lambda estimate: 4.67704	2.03708e-07	3.65295
+objective, constraint, lambda estimate: 4.67701	-3.87846e-07	3.65295
+objective, constraint, lambda estimate: 4.677	5.99752e-07	3.66009
+objective, constraint, lambda estimate: 4.67697	-9.48338e-07	3.64938
+objective, constraint, lambda estimate: 4.67696	6.30543e-07	3.66009
+objective, constraint, lambda estimate: 4.67693	-4.89162e-07	3.64938
+objective, constraint, lambda estimate: 4.67692	-2.95542e-07	3.65295
+objective, constraint, lambda estimate: 4.6769	-3.30763e-08	3.65295
+objective, constraint, lambda estimate: 4.67689	7.06136e-07	3.65295
+objective, constraint, lambda estimate: 4.67686	-2.88836e-07	3.64581
+objective, constraint, lambda estimate: 4.67685	7.56505e-07	3.65294
+objective, constraint, lambda estimate: 4.67683	-4.23591e-07	3.64225
+objective, constraint, lambda estimate: 4.67682	-7.69532e-07	3.64581
+objective, constraint, lambda estimate: 4.67681	8.40471e-07	3.65294
+objective, constraint, lambda estimate: 4.67679	6.78467e-08	3.64225
+objective, constraint, lambda estimate: 4.67677	-9.38393e-07	3.64225
+objective, constraint, lambda estimate: 4.67677	8.84248e-07	3.6565
+objective, constraint, lambda estimate: 4.67675	-4.10072e-07	3.64225
+objective, constraint, lambda estimate: 4.67674	8.0619e-07	3.65294
+objective, constraint, lambda estimate: 4.67672	-8.49772e-07	3.64225
+objective, constraint, lambda estimate: 4.6767	2.49609e-07	3.6565
+objective, constraint, lambda estimate: 4.67669	8.5315e-07	3.6565
+objective, constraint, lambda estimate: 4.67666	2.62335e-07	3.65294
+objective, constraint, lambda estimate: 4.67664	1.51121e-07	3.65294
+objective, constraint, lambda estimate: 4.67662	1.65725e-08	3.65294
+objective, constraint, lambda estimate: 4.67661	8.5222e-08	3.65294
+objective, constraint, lambda estimate: 4.67659	-6.70301e-07	3.64581
+objective, constraint, lambda estimate: 4.67658	5.92951e-07	3.65294
+objective, constraint, lambda estimate: 4.67656	-4.80531e-07	3.64225
+objective, constraint, lambda estimate: 4.67655	7.07232e-07	3.65294
+objective, constraint, lambda estimate: 4.67653	-7.90004e-07	3.64225
+objective, constraint, lambda estimate: 4.67652	6.03259e-07	3.6565
+objective, constraint, lambda estimate: 4.6765	2.69378e-07	3.65294
+objective, constraint, lambda estimate: 4.67648	1.97997e-07	3.65294
+objective, constraint, lambda estimate: 4.67646	4.30575e-07	3.65294
+objective, constraint, lambda estimate: 4.67645	5.94978e-07	3.65294
+objective, constraint, lambda estimate: 4.67643	6.54645e-07	3.65294
+objective, constraint, lambda estimate: 4.67641	-8.23743e-07	3.64581
+Total Steps: 1136, Runtime: 7.7, Compliance loss 9.358259
+Total Steps: 1137, Runtime: 4.7, Compliance loss 9.358202
+Total Steps: 1138, Runtime: 4.7, Compliance loss 9.358149
+Total Steps: 1139, Runtime: 5.2, Compliance loss 9.358118
+Total Steps: 1140, Runtime: 4.7, Compliance loss 9.358082
+Total Steps: 1141, Runtime: 4.7, Compliance loss 9.358047
+Total Steps: 1142, Runtime: 4.7, Compliance loss 9.358012
+Total Steps: 1143, Runtime: 6.2, Compliance loss 9.357978
+Total Steps: 1144, Runtime: 4.7, Compliance loss 9.357941
+Total Steps: 1145, Runtime: 4.7, Compliance loss 9.357910
+Total Steps: 1146, Runtime: 4.7, Compliance loss 9.357874
+Total Steps: 1147, Runtime: 6.2, Compliance loss 9.357835
+Total Steps: 1148, Runtime: 5.3, Compliance loss 9.357806
+Total Steps: 1149, Runtime: 4.7, Compliance loss 9.357770
+Total Steps: 1150, Runtime: 5.2, Compliance loss 9.357723
+Total Steps: 1151, Runtime: 6.8, Compliance loss 9.357694
+Total Steps: 1152, Runtime: 4.7, Compliance loss 9.357656
+Total Steps: 1153, Runtime: 4.8, Compliance loss 9.357616
+Total Steps: 1154, Runtime: 4.7, Compliance loss 9.357582
+Total Steps: 1155, Runtime: 6.3, Compliance loss 9.357542
+Total Steps: 1156, Runtime: 4.7, Compliance loss 9.357497
+Total Steps: 1157, Runtime: 5.3, Compliance loss 9.357460
+Total Steps: 1158, Runtime: 4.7, Compliance loss 9.357418
+Total Steps: 1159, Runtime: 4.7, Compliance loss 9.357374
+Total Steps: 1160, Runtime: 4.7, Compliance loss 9.357324
+Total Steps: 1161, Runtime: 4.8, Compliance loss 9.357273
+Total Steps: 1162, Runtime: 6.2, Compliance loss 9.357224
+Total Steps: 1163, Runtime: 4.7, Compliance loss 9.357179
+Total Steps: 1164, Runtime: 4.7, Compliance loss 9.357136
+Total Steps: 1165, Runtime: 4.7, Compliance loss 9.357092
+Total Steps: 1166, Runtime: 4.7, Compliance loss 9.357040
+Total Steps: 1167, Runtime: 6.2, Compliance loss 9.356986
+Total Steps: 1168, Runtime: 5.3, Compliance loss 9.356959
+Total Steps: 1169, Runtime: 5.2, Compliance loss 9.356913
+Total Steps: 1170, Runtime: 4.7, Compliance loss 9.356871
+Total Steps: 1171, Runtime: 4.8, Compliance loss 9.356831
+Total Steps: 1172, Runtime: 5.3, Compliance loss 9.356795
+Total Steps: 1173, Runtime: 5.2, Compliance loss 9.356744
+Total Steps: 1174, Runtime: 5.3, Compliance loss 9.356706
+Total Steps: 1175, Runtime: 5.2, Compliance loss 9.356657
+Total Steps: 1176, Runtime: 4.6, Compliance loss 9.356624
+Total Steps: 1177, Runtime: 6.2, Compliance loss 9.356592
+Total Steps: 1178, Runtime: 4.6, Compliance loss 9.356558
+Total Steps: 1179, Runtime: 4.8, Compliance loss 9.356514
+Total Steps: 1180, Runtime: 5.4, Compliance loss 9.356475
+Total Steps: 1181, Runtime: 5.2, Compliance loss 9.356422
+Total Steps: 1182, Runtime: 5.3, Compliance loss 9.356376
+Total Steps: 1183, Runtime: 4.7, Compliance loss 9.356321
+Total Steps: 1184, Runtime: 4.7, Compliance loss 9.356267
+Total Steps: 1185, Runtime: 4.7, Compliance loss 9.356220
+Total Steps: 1186, Runtime: 5.2, Compliance loss 9.356163
+Total Steps: 1187, Runtime: 5.3, Compliance loss 9.356120
+Total Steps: 1188, Runtime: 5.2, Compliance loss 9.356073
+Total Steps: 1189, Runtime: 4.6, Compliance loss 9.356031
+Total Steps: 1190, Runtime: 4.7, Compliance loss 9.355988
+Total Steps: 1191, Runtime: 5.3, Compliance loss 9.355955
+Total Steps: 1192, Runtime: 5.2, Compliance loss 9.355901
+Total Steps: 1193, Runtime: 4.7, Compliance loss 9.355857
+Total Steps: 1194, Runtime: 4.7, Compliance loss 9.355814
+Total Steps: 1195, Runtime: 4.6, Compliance loss 9.355776
+Total Steps: 1196, Runtime: 4.6, Compliance loss 9.355738
+Total Steps: 1197, Runtime: 4.6, Compliance loss 9.355704
+Total Steps: 1198, Runtime: 4.6, Compliance loss 9.355673
+Total Steps: 1199, Runtime: 5.3, Compliance loss 9.355626
+Total Steps: 1200, Runtime: 5.2, Compliance loss 9.355592
+Total Steps: 1201, Runtime: 4.7, Compliance loss 9.355551
+Total Steps: 1202, Runtime: 4.7, Compliance loss 9.355504
+Total Steps: 1203, Runtime: 5.3, Compliance loss 9.355466
+Total Steps: 1204, Runtime: 5.2, Compliance loss 9.355415
+Total Steps: 1205, Runtime: 5.3, Compliance loss 9.355385
+Total Steps: 1206, Runtime: 5.1, Compliance loss 9.355340
+Total Steps: 1207, Runtime: 4.7, Compliance loss 9.355305
+Total Steps: 1208, Runtime: 4.7, Compliance loss 9.355275
+Total Steps: 1209, Runtime: 4.6, Compliance loss 9.355241
+Total Steps: 1210, Runtime: 4.7, Compliance loss 9.355201
+Total Steps: 1211, Runtime: 5.3, Compliance loss 9.355178
+Total Steps: 1212, Runtime: 5.1, Compliance loss 9.355132
+Total Steps: 1213, Runtime: 5.3, Compliance loss 9.355102
+Total Steps: 1214, Runtime: 5.2, Compliance loss 9.355055
+Total Steps: 1215, Runtime: 4.7, Compliance loss 9.355013
+Total Steps: 1216, Runtime: 5.3, Compliance loss 9.354981
+Total Steps: 1217, Runtime: 5.2, Compliance loss 9.354932
+Total Steps: 1218, Runtime: 4.7, Compliance loss 9.354888
+Total Steps: 1219, Runtime: 5.4, Compliance loss 9.354859
+Total Steps: 1220, Runtime: 5.2, Compliance loss 9.354807
+Total Steps: 1221, Runtime: 5.3, Compliance loss 9.354776
+Total Steps: 1222, Runtime: 5.1, Compliance loss 9.354728
+Total Steps: 1223, Runtime: 5.3, Compliance loss 9.354701
+Total Steps: 1224, Runtime: 5.2, Compliance loss 9.354660
+Total Steps: 1225, Runtime: 4.7, Compliance loss 9.354621
+Total Steps: 1226, Runtime: 5.3, Compliance loss 9.354591
+Total Steps: 1227, Runtime: 5.3, Compliance loss 9.354542
+Total Steps: 1228, Runtime: 5.3, Compliance loss 9.354508
+Total Steps: 1229, Runtime: 5.3, Compliance loss 9.354461
+Total Steps: 1230, Runtime: 4.7, Compliance loss 9.354416
+Total Steps: 1231, Runtime: 4.6, Compliance loss 9.354387
+Total Steps: 1232, Runtime: 4.7, Compliance loss 9.354359
+Total Steps: 1233, Runtime: 4.7, Compliance loss 9.354325
+Total Steps: 1234, Runtime: 4.7, Compliance loss 9.354289
+Total Steps: 1235, Runtime: 4.7, Compliance loss 9.354248
+Total Steps: 1236, Runtime: 4.6, Compliance loss 9.354212
+Total Steps: 1237, Runtime: 4.6, Compliance loss 9.354182
+Total Steps: 1238, Runtime: 4.7, Compliance loss 9.354147
+Total Steps: 1239, Runtime: 4.6, Compliance loss 9.354107
+Total Steps: 1240, Runtime: 4.7, Compliance loss 9.354070
+Total Steps: 1241, Runtime: 4.7, Compliance loss 9.354026
+Total Steps: 1242, Runtime: 5.3, Compliance loss 9.353992
+Total Steps: 1243, Runtime: 5.2, Compliance loss 9.353942
+Total Steps: 1244, Runtime: 5.4, Compliance loss 9.353915
+Total Steps: 1245, Runtime: 5.2, Compliance loss 9.353869
+Total Steps: 1246, Runtime: 4.7, Compliance loss 9.353835
+Total Steps: 1247, Runtime: 4.6, Compliance loss 9.353800
+Total Steps: 1248, Runtime: 4.7, Compliance loss 9.353771
+Total Steps: 1249, Runtime: 5.2, Compliance loss 9.353730
+Total Steps: 1250, Runtime: 5.3, Compliance loss 9.353705
+Total Steps: 1251, Runtime: 5.2, Compliance loss 9.353664
+Total Steps: 1252, Runtime: 4.7, Compliance loss 9.353631
+Total Steps: 1253, Runtime: 5.3, Compliance loss 9.353615
+Total Steps: 1254, Runtime: 5.2, Compliance loss 9.353582
+Total Steps: 1255, Runtime: 4.7, Compliance loss 9.353547
+Total Steps: 1256, Runtime: 5.2, Compliance loss 9.353531
+Total Steps: 1257, Runtime: 5.2, Compliance loss 9.353493
+Total Steps: 1258, Runtime: 5.3, Compliance loss 9.353473
+Total Steps: 1259, Runtime: 5.2, Compliance loss 9.353431
+Total Steps: 1260, Runtime: 5.3, Compliance loss 9.353405
+Total Steps: 1261, Runtime: 4.7, Compliance loss 9.353371
+Total Steps: 1262, Runtime: 4.7, Compliance loss 9.353326
+Total Steps: 1263, Runtime: 4.6, Compliance loss 9.353285
+Total Steps: 1264, Runtime: 4.7, Compliance loss 9.353245
+Total Steps: 1265, Runtime: 4.7, Compliance loss 9.353210
+Total Steps: 1266, Runtime: 5.2, Compliance loss 9.353176
+Total Steps: 1267, Runtime: 5.3, Compliance loss 9.353158
+Total Steps: 1268, Runtime: 5.2, Compliance loss 9.353124
+Total Steps: 1269, Runtime: 5.4, Compliance loss 9.353105
+Total Steps: 1270, Runtime: 5.2, Compliance loss 9.353065
+Total Steps: 1271, Runtime: 5.2, Compliance loss 9.353041
+Total Steps: 1272, Runtime: 4.8, Compliance loss 9.353001
+Total Steps: 1273, Runtime: 4.7, Compliance loss 9.352963
+Total Steps: 1274, Runtime: 4.7, Compliance loss 9.352929
+Total Steps: 1275, Runtime: 4.6, Compliance loss 9.352896
+Total Steps: 1276, Runtime: 4.7, Compliance loss 9.352864
+Total Steps: 1277, Runtime: 5.2, Compliance loss 9.352823
+objective, constraint, lambda estimate: 4.6764	4.56631e-07	3.6565
+objective, constraint, lambda estimate: 4.67638	-6.97627e-07	3.64581
+objective, constraint, lambda estimate: 4.67637	8.21549e-07	3.6565
+objective, constraint, lambda estimate: 4.67635	8.3662e-07	3.65294
+objective, constraint, lambda estimate: 4.67633	2.89779e-09	3.65294
+objective, constraint, lambda estimate: 4.67631	8.12701e-07	3.66007
+objective, constraint, lambda estimate: 4.67629	-8.23176e-07	3.65293
+objective, constraint, lambda estimate: 4.67627	2.25062e-07	3.66364
+objective, constraint, lambda estimate: 4.67625	7.4748e-07	3.66007
+objective, constraint, lambda estimate: 4.67623	-2.53504e-07	3.64936
+objective, constraint, lambda estimate: 4.67622	-8.279e-07	3.64936
+objective, constraint, lambda estimate: 4.6762	-7.25622e-07	3.65293
+objective, constraint, lambda estimate: 4.67619	8.91297e-07	3.66364
+objective, constraint, lambda estimate: 4.67616	5.34614e-07	3.66007
+objective, constraint, lambda estimate: 4.67614	-4.67002e-07	3.65293
+objective, constraint, lambda estimate: 4.67612	-7.27065e-07	3.65293
+objective, constraint, lambda estimate: 4.67611	1.33768e-07	3.66007
+objective, constraint, lambda estimate: 4.67609	4.42241e-07	3.66007
+objective, constraint, lambda estimate: 4.67607	3.88484e-07	3.66007
+objective, constraint, lambda estimate: 4.67605	9.15779e-08	3.66007
+objective, constraint, lambda estimate: 4.67604	2.20949e-07	3.66007
+objective, constraint, lambda estimate: 4.67602	4.86146e-07	3.66007
+objective, constraint, lambda estimate: 4.676	8.02511e-07	3.66007
+objective, constraint, lambda estimate: 4.67598	7.27771e-07	3.66007
+objective, constraint, lambda estimate: 4.67597	6.77442e-07	3.66007
+objective, constraint, lambda estimate: 4.67595	9.28217e-08	3.66007
+objective, constraint, lambda estimate: 4.67593	6.10437e-07	3.66722
+objective, constraint, lambda estimate: 4.6759	-7.19268e-07	3.66007
+objective, constraint, lambda estimate: 4.67589	4.68431e-07	3.6708
+objective, constraint, lambda estimate: 4.67587	7.65546e-07	3.66722
+objective, constraint, lambda estimate: 4.67585	-5.39356e-07	3.65649
+objective, constraint, lambda estimate: 4.67583	6.90577e-07	3.66722
+objective, constraint, lambda estimate: 4.67581	-1.82723e-07	3.66007
+objective, constraint, lambda estimate: 4.67579	-7.99259e-07	3.66007
+objective, constraint, lambda estimate: 4.67577	-8.38148e-07	3.66007
+objective, constraint, lambda estimate: 4.67576	-5.51747e-07	3.66007
+objective, constraint, lambda estimate: 4.67574	-4.8117e-07	3.66007
+objective, constraint, lambda estimate: 4.67572	-1.33791e-07	3.66007
+objective, constraint, lambda estimate: 4.67571	8.11285e-07	3.66007
+objective, constraint, lambda estimate: 4.67569	-3.55546e-07	3.65292
+objective, constraint, lambda estimate: 4.67568	8.20126e-07	3.66363
+objective, constraint, lambda estimate: 4.67566	-5.89788e-07	3.65292
+objective, constraint, lambda estimate: 4.67564	3.52635e-07	3.66006
+objective, constraint, lambda estimate: 4.67563	-9.68561e-07	3.64935
+objective, constraint, lambda estimate: 4.67562	4.88406e-07	3.66006
+objective, constraint, lambda estimate: 4.6756	-7.29165e-07	3.64935
+objective, constraint, lambda estimate: 4.67559	6.41138e-07	3.66006
+objective, constraint, lambda estimate: 4.67558	-9.4433e-08	3.64935
+objective, constraint, lambda estimate: 4.67556	-4.42226e-07	3.64935
+objective, constraint, lambda estimate: 4.67555	-9.15871e-07	3.64935
+objective, constraint, lambda estimate: 4.67554	7.74251e-07	3.66006
+objective, constraint, lambda estimate: 4.67552	-3.21402e-07	3.64935
+objective, constraint, lambda estimate: 4.67551	6.65055e-07	3.66006
+objective, constraint, lambda estimate: 4.67549	-2.17996e-07	3.65292
+objective, constraint, lambda estimate: 4.67548	7.87347e-07	3.66006
+objective, constraint, lambda estimate: 4.67546	-6.01904e-07	3.65292
+objective, constraint, lambda estimate: 4.67544	2.17351e-07	3.66363
+objective, constraint, lambda estimate: 4.67543	8.96971e-07	3.66363
+objective, constraint, lambda estimate: 4.6754	-4.41136e-07	3.65292
+objective, constraint, lambda estimate: 4.67539	4.81406e-07	3.66363
+objective, constraint, lambda estimate: 4.67537	6.97137e-07	3.66363
+objective, constraint, lambda estimate: 4.67535	8.01718e-07	3.66363
+objective, constraint, lambda estimate: 4.67533	9.1748e-07	3.66363
+objective, constraint, lambda estimate: 4.6753	-6.9233e-07	3.65292
+objective, constraint, lambda estimate: 4.67529	5.71338e-07	3.66363
+objective, constraint, lambda estimate: 4.67528	6.97329e-07	3.66006
+objective, constraint, lambda estimate: 4.67526	6.62051e-07	3.66006
+objective, constraint, lambda estimate: 4.67524	5.35307e-07	3.66006
+objective, constraint, lambda estimate: 4.67522	-6.62664e-08	3.66006
+objective, constraint, lambda estimate: 4.67521	-4.56958e-07	3.66006
+objective, constraint, lambda estimate: 4.67519	-2.15364e-07	3.66006
+objective, constraint, lambda estimate: 4.67518	6.26686e-07	3.66006
+objective, constraint, lambda estimate: 4.67516	-2.26431e-07	3.65292
+objective, constraint, lambda estimate: 4.67515	-6.18776e-07	3.65292
+objective, constraint, lambda estimate: 4.67514	3.0253e-07	3.66006
+objective, constraint, lambda estimate: 4.67512	-6.84122e-07	3.65292
+objective, constraint, lambda estimate: 4.67511	2.88124e-07	3.66006
+objective, constraint, lambda estimate: 4.6751	-2.40963e-07	3.65292
+objective, constraint, lambda estimate: 4.67508	1.88922e-07	3.66006
+objective, constraint, lambda estimate: 4.67507	3.05813e-08	3.66006
+objective, constraint, lambda estimate: 4.67505	5.5785e-07	3.66721
+objective, constraint, lambda estimate: 4.67503	4.43511e-07	3.66721
+objective, constraint, lambda estimate: 4.67501	-5.36151e-07	3.66005
+objective, constraint, lambda estimate: 4.675	2.89598e-07	3.66721
+objective, constraint, lambda estimate: 4.67498	-3.97383e-07	3.65647
+objective, constraint, lambda estimate: 4.67497	-2.2071e-07	3.66005
+objective, constraint, lambda estimate: 4.67495	-5.8792e-07	3.66005
+objective, constraint, lambda estimate: 4.67494	5.63576e-07	3.66721
+objective, constraint, lambda estimate: 4.67491	-3.27341e-07	3.66005
+objective, constraint, lambda estimate: 4.6749	1.94144e-07	3.66721
+objective, constraint, lambda estimate: 4.67488	5.80005e-07	3.66721
+objective, constraint, lambda estimate: 4.67486	6.59022e-07	3.66721
+objective, constraint, lambda estimate: 4.67484	-8.01716e-07	3.66005
+objective, constraint, lambda estimate: 4.67482	1.57894e-07	3.67079
+objective, constraint, lambda estimate: 4.6748	3.32673e-07	3.66721
+objective, constraint, lambda estimate: 4.67478	-4.53171e-07	3.66005
+objective, constraint, lambda estimate: 4.67477	6.19182e-07	3.66721
+objective, constraint, lambda estimate: 4.67475	-5.13173e-07	3.65647
+objective, constraint, lambda estimate: 4.67474	-4.78031e-07	3.66005
+objective, constraint, lambda estimate: 4.67472	-5.95895e-07	3.66005
+objective, constraint, lambda estimate: 4.67471	3.54436e-07	3.66721
+objective, constraint, lambda estimate: 4.67468	-2.61929e-08	3.66721
+objective, constraint, lambda estimate: 4.67466	7.8422e-07	3.67437
+objective, constraint, lambda estimate: 4.67464	-8.18528e-07	3.66362
+objective, constraint, lambda estimate: 4.67463	7.31056e-07	3.67437
+objective, constraint, lambda estimate: 4.6746	-6.60911e-07	3.66362
+objective, constraint, lambda estimate: 4.67459	3.84117e-07	3.67437
+objective, constraint, lambda estimate: 4.67457	-4.22221e-07	3.6672
+objective, constraint, lambda estimate: 4.67456	3.70333e-07	3.67437
+objective, constraint, lambda estimate: 4.67453	-5.85089e-07	3.6672
+objective, constraint, lambda estimate: 4.67452	6.73471e-07	3.67437
+objective, constraint, lambda estimate: 4.6745	-6.96739e-07	3.6672
+objective, constraint, lambda estimate: 4.67448	6.86986e-07	3.67796
+objective, constraint, lambda estimate: 4.67446	-4.75939e-07	3.6672
+objective, constraint, lambda estimate: 4.67445	7.95335e-07	3.67796
+objective, constraint, lambda estimate: 4.67443	-3.00261e-07	3.6672
+objective, constraint, lambda estimate: 4.67441	6.96997e-07	3.67437
+objective, constraint, lambda estimate: 4.67439	-5.57913e-07	3.66362

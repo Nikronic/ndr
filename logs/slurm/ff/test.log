@@ -1,0 +1,127 @@
+Experiment ID: None
+epoch mode: constant, adaptive filtering configs: {'projection_filter': False, 'beta_init': 1, 'beta_interval': 0.1, 'beta_scaler': -1, 'smoothing_filter': False, 'radius_init': 1, 'radius_interval': 0.1, 'radius_scaler': -1, 'gaussian_filter': False, 'sigma_init': 1, 'sigma_interval': 0.1, 'sigma_scaler': -1} 
+Volume constraint satisfier: maxed_barrier (hard: False)
+
+scale: [1.0], fourier embedding size: 1024
+
+Multigrid solver coarse levels: 3
+
+image path: logs/images/ff/exp3/, loss path: logs/loss/ff/exp3/
+
+VoxelFEM problem configs: {'problem_name': 'bridgeS88', 'MATERIAL_PATH': 'VoxelFEM/examples/materials/B9Creator.material', 'BC_PATH': 'bcs/3d/bridge.bc', 'orderFEM': [1, 1, 1], 'domainCorners': [[0, 0, 0], [4, 2, 1]], 'gridDimensions': [64, 32, 16], 'E0': 1, 'Emin': 0.0001, 'SIMPExponent': 3, 'maxVolume': [0.4], 'adaptive_filtering': [1, 1, 1, 1, 1, 1], 'seed': 88}
+
+Domain: [[0. 1.]
+ [0. 1.]
+ [0. 1.]]
+
+Homogenization has been applied on model with constant value: 0.4000000059604645
+
+Deep learning model config: MLP(
+  (net): Sequential(
+    (0): Linear(in_features=2048, out_features=512, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=512, out_features=512, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=512, out_features=512, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=512, out_features=1, bias=True)
+    (7): Sigmoid()
+  )
+)
+
+DL optim: Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.0003
+    weight_decay: 0.0
+), LR scheduler: None
+
+L2 Regularization: 0.0
+
+New resolution within multires loop: (64, 32, 16)
+
+Adaptive filtering has been reset to their defaults. 
+
+Training:   0%|          | 0/10 [00:00<?, ?it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=19.488052368164062
+
+Total Steps: 1, Resolution Steps: 0, Compliance loss 38.976105
+
+Training:  10%|█         | 1/10 [00:00<00:08,  1.12it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=20.084442138671875
+
+Total Steps: 2, Resolution Steps: 1, Compliance loss 40.168884
+
+Training:  20%|██        | 2/10 [00:01<00:06,  1.15it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=20.900426864624023
+
+Total Steps: 3, Resolution Steps: 2, Compliance loss 41.800854
+
+Training:  30%|███       | 3/10 [00:02<00:05,  1.18it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=22.092586517333984
+
+Total Steps: 4, Resolution Steps: 3, Compliance loss 44.185173
+
+Training:  40%|████      | 4/10 [00:03<00:05,  1.16it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=23.836814880371094
+
+Total Steps: 5, Resolution Steps: 4, Compliance loss 47.673630
+
+Checkpoint saved at step 4.
+
+exp3_iter4.vtr has been saved to logs/images/ff/exp3/.
+
+Training:  50%|█████     | 5/10 [00:04<00:04,  1.04it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=26.404277801513672
+
+Total Steps: 6, Resolution Steps: 5, Compliance loss 52.808556
+
+Training:  60%|██████    | 6/10 [00:05<00:03,  1.09it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=30.23623275756836
+
+Total Steps: 7, Resolution Steps: 6, Compliance loss 60.472466
+
+Training:  70%|███████   | 7/10 [00:06<00:02,  1.13it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=36.0584716796875
+
+Total Steps: 8, Resolution Steps: 7, Compliance loss 72.116943
+
+Training:  80%|████████  | 8/10 [00:07<00:01,  1.15it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=42.04998779296875
+
+Total Steps: 9, Resolution Steps: 8, Compliance loss 87.028259
+
+Training:  90%|█████████ | 9/10 [00:07<00:00,  1.18it/s]
+
+maxed_barrier with mode: clip with constant: 1500 -> v-loss=0.0
+
+Total Steps: 10, Resolution Steps: 9, Compliance loss 58.152737
+
+Checkpoint saved at step 9.
+
+exp3_iter9.vtr has been saved to logs/images/ff/exp3/.
+
+Training: 100%|██████████| 10/10 [00:09<00:00,  1.05it/s]
+
+Training: 100%|██████████| 10/10 [00:09<00:00,  1.11it/s]
+
+
+Compliance loss of binary densities for "torch.Size([1, 64, 32, 16, 1])": 40590.57421875, b-vol=0.0003967
+
+Overall runtime: 9.927738000638783
+
+Compliance loss of binary densities for "torch.Size([1, 64, 32, 16, 1])": 40590.57421875, b-vol=0.0003967
+
+None_FF(HCFalse_test)_s[1.0]_64x32x16_10bridgeS88_Vol[0.4].vtr has been saved to logs/images/ff/exp3/.
+
