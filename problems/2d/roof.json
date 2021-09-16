@@ -1,0 +1,14 @@
+{
+    "problem_name": "RoofS88",
+    "MATERIAL_PATH": "VoxelFEM/examples/materials/B9Creator.material",
+    "BC_PATH": "bcs/2d/roof.bc",
+    "orderFEM": [1, 1],
+    "domainCorners": [[0, 0], [1, 1]],
+    "gridDimensions": [180, 180],
+    "E0": 1,
+    "Emin": 1e-4,
+    "SIMPExponent": 3,
+    "maxVolume": [0.4],
+    "adaptive_filtering": [1, 1, 1, 1, 1, 1],
+    "seed": 88
+}

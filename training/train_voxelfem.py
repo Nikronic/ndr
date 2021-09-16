@@ -38,8 +38,8 @@ sys.stderr.write('Experiment ID: {}\n'.format(experiment_id))
 parallelism.set_max_num_tbb_threads(psutil.cpu_count(logical=False))
 parallelism.set_gradient_assembly_num_threads(min(psutil.cpu_count(logical=False), 8))
 
-visualize = True
-save_density = True
+visualize = False
+save_density = False
 
 # record full runtime
 start_time = time.perf_counter()
@@ -50,6 +50,10 @@ maxVolume = float(args.v0)  # TODO
 max_iter = int(args.iter)  # TODO
 optim = args.optim  # TODO
 multigrid_levels = int(args.mgl)  # TODO
+if multigrid_levels == 0:
+    use_multigrid = False
+else:
+    use_multigrid = True
 adaptive_filtering = ast.literal_eval(args.af)  # TODO
 sys.stderr.write('adaptive filtering configs: {}\n'.format(adaptive_filtering))
 
@@ -100,7 +104,7 @@ title = str(experiment_id)+'_voxelfem_'+'optim-'+optim+'_'+grid_title+'_'+str(ma
 
 # solve
 gt_tps, gt_loss, binary_gt_loss, gt_loss_array = fem.ground_truth_topopt(MATERIAL_PATH, BC_PATH, orderFEM, domainCorners,
-                                                          gridDimensions, SIMPExponent, maxVolume,
+                                                          gridDimensions, SIMPExponent, maxVolume, use_multigrid=use_multigrid,
                                                           init=None, optimizer=optim, multigrid_levels=multigrid_levels,
                                                           adaptive_filtering=adaptive_filtering, 
                                                           max_iter=max_iter, obj_history=True, title=title,
