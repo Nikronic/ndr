@@ -36,6 +36,7 @@ experiment_id = args.jid
 sys.stderr.write('Experiment ID: {}\n'.format(experiment_id))
 
 parallelism.set_max_num_tbb_threads(psutil.cpu_count(logical=False))
+parallelism.set_gradient_assembly_num_threads(min(psutil.cpu_count(logical=False), 8))
 
 visualize = True
 save_density = True

@@ -66,6 +66,7 @@ if experiment_id is None:
 # PyTorch related global variables
 torch.autograd.set_detect_anomaly(False)
 parallelism.set_max_num_tbb_threads(psutil.cpu_count(logical=False))
+parallelism.set_gradient_assembly_num_threads(min(psutil.cpu_count(logical=False), 8))
 
 # global variables that control visualizing/saving problem domain, losses, etc.
 visualize = True
@@ -257,8 +258,10 @@ for idx, res in enumerate(resolutions):
     if use_multigrid:
         objective = pyVoxelFEM.MultigridComplianceObjective(tps.multigridSolver(multigrid_levels))
         objective.tol = 1e-4  # TODO
-        objective.mgIterations = 2
+        objective.mgIterations = 1  # TODO
         objective.fullMultigrid = True
+        objective.zeroInit = False  # TODO
+        objective.mgSmoothingIterations = 2  # TODO
     else:
         objective = pyVoxelFEM.ComplianceObjective(tps)
     top = pyVoxelFEM.TopologyOptimizationProblem(tps, objective, constraints, []) 
@@ -393,8 +396,10 @@ tps = initializeTensorProductSimulator(
 if use_multigrid:
     objective = pyVoxelFEM.MultigridComplianceObjective(tps.multigridSolver(multigrid_levels))
     objective.tol = 1e-4
-    objective.mgIterations = 2
+    objective.mgIterations = 1
     objective.fullMultigrid = True
+    objective.zeroInit = False
+    objective.mgSmoothingIterations = 2
 else:
     objective = pyVoxelFEM.ComplianceObjective(tps)
 top = pyVoxelFEM.TopologyOptimizationProblem(tps, objective, constraints, []) 

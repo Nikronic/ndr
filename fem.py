@@ -64,8 +64,10 @@ def ground_truth_topopt(MATERIAL_PATH, BC_PATH, orderFEM,
     if use_multigrid:
         # Configure multigrid objective
         objective.tol = 1e-4  # TODO
-        objective.mgIterations = 2
+        objective.mgIterations = 1
         objective.fullMultigrid = True
+        objective.zeroInit = False  # TODO
+        objective.mgSmoothingIterations = 2  # TODO
 
     if optimizer == 'OC':        
         oco = pyVoxelFEM.OCOptimizer(top)
