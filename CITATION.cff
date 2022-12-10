@@ -1,4 +1,4 @@
-@inproceedings{10.1145/3485114.3485124,
+@conference-paper{10.1145/3485114.3485124,
 author = {Doosti, Nikan and Panetta, Julian and Babaei, Vahid},
 title = {Topology Optimization via Frequency Tuning of Neural Design Representations},
 year = {2021},
