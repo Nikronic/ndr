@@ -1,3 +1,1 @@
-# Topopt-fourfeat-3d
-
-Extension of https://gitlab.mpi-klsb.mpg.de/mdoosti/multi-resolution-fourfeat-topopt to 3D case.
+Official (ugly and hard-to-read) implementation of [Topology Optimization via Frequency Tuning of Neural Design Representations](https://dl.acm.org/doi/abs/10.1145/3485114.3485124) at SCF21. A clean implementation and corresponding blog and tutorial is under construction.
